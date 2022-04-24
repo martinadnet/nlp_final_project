@@ -4,7 +4,6 @@ import java.util.*;
 public class main {
     public static void main(String[] args) {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
-        System.out.println("test");
         try {
             File myFile = new File("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_02-21.pos");  //Opens training corpus file for reading
             Scanner myScanner = new Scanner(myFile);    //Create scanner to read file
@@ -277,7 +276,14 @@ public class main {
                 Hashtable<String, Float> possibleTagScores = new Hashtable<>();
                 for (int j = 0; j < possibleTags.size(); j++) {
                     String currPossTag = possibleTags.get(j);
-                    float transProb = transProbHash.get(prev).get(currPossTag);
+                	float transProb = 0.5f;
+                    if(prev != "OOV") {
+                    	if(transProbHash.get(prev).get(currPossTag) == null) {
+                    		transProb = 0f;
+                    	} else {
+                    		transProb = transProbHash.get(prev).get(currPossTag);
+                    	}
+                    } 
                     float occProb = occProbHash.get(currPossTag).get(currWord);
                     float tagProb = transProb * occProb;
                     possibleTagScores.put(currPossTag, tagProb);
@@ -309,8 +315,8 @@ public class main {
             for (int i = 0; i < taggedSentences.size(); i++) {
                 List<String[]> currSentence = taggedSentences.get(i);
                 for (int j = 0; j < currSentence.size(); j++) {
-                    String currWord = currSentence.get(i)[0];
-                    String currTag = currSentence.get(i)[1];
+                    String currWord = currSentence.get(j)[0];
+                    String currTag = currSentence.get(j)[1];
                     myWriter.write(currWord + "\t" + currTag + "\n");
                 }
                 myWriter.write("\n");
