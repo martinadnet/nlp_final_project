@@ -4,6 +4,7 @@ import java.util.*;
 public class main {
     public static void main(String[] args) {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
+        System.out.println("test");
         try {
             File myFile = new File("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_02-21.pos");  //Opens training corpus file for reading
             Scanner myScanner = new Scanner(myFile);    //Create scanner to read file
