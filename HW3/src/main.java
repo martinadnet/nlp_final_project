@@ -54,7 +54,7 @@ public class main {
             tagsList = createWordTagsHash(occ);
             
             ArrayList<String> parsedUntagged = new ArrayList<String>(); // 
-            parsedUntagged = untaggedLines("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_23.words");
+            parsedUntagged = untaggedLines("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_24.words");
             ArrayList<String[]> untaggedSents = new ArrayList<String[]>(); // each String[] is a sentence
             untaggedSents = createSentences(parsedUntagged);
             List<List<String[]>> sols = new ArrayList<>();
@@ -62,9 +62,12 @@ public class main {
             for(int i = 0; i < untaggedSents.size(); i++){
                 sols.add(assignTagsToSentence(untaggedSents.get(i), occProb, transProb, tagsList));
             }
-            writeTaggedToFile("C:\\HW3\\sols.txt", sols);
+            writeTaggedToFile("C:\\nlp_final_project\\HW3\\sols.txt", sols);
             
+            float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_24.pos", sols);
+            System.out.println(score);
             myScanner.close();          //Close the file scanner
+
 
 
         } catch (FileNotFoundException e) { //File reading exception
@@ -161,11 +164,11 @@ public class main {
             if (lines.get(i) == "BEGIN_SENT") { //We're at the beginning of a sentence
                 sentence += lines.get(i);    //Add the word to the sentence, (dont use "-" here cuz they're only in the middle of the sentence)
             } else if (lines.get(i) == "END_SENT") { //We're at the end of the sentence
-                String[] sentSplit = sentence.split("-");   //Split the sentence up by "-" (each word has "-" added to it before being added to the sentence)
+                String[] sentSplit = sentence.split("~");   //Split the sentence up by "-" (each word has "-" added to it before being added to the sentence)
                 sentences.add(sentSplit);   //Add the resulting array of each word in the current sentence to the nested array "sentences"
                 sentence = "";  //Reset sentence to an empty string, ready for the next sentence
             } else {
-                sentence += "-" + lines.get(i);  //Add "-" for the end sentence split, and add the word to sentence
+                sentence += "~" + lines.get(i);  //Add "-" for the end sentence split, and add the word to sentence
             }
         }
         for(int i = 0; i < sentences.get(0).length; i++) {
@@ -261,6 +264,11 @@ public class main {
 
     public static List<String[]> assignTagsToSentence(String[] sentence, Hashtable<String, Hashtable<String, Float>> occProbHash, Hashtable<String, Hashtable<String, Float>> transProbHash, Hashtable<String, List<String>> wordTagsHash) {
         List<String[]> sol = new ArrayList<>();
+        /*
+        for (int i = 0; i < sentence.length; i++) {
+            System.out.print(sentence[i] + " ");
+        }
+        System.out.println();*/
         String prev = "Begin_Sent";
         for (int i = 0; i < sentence.length; i++) {
             String currWord = sentence[i];
@@ -304,7 +312,11 @@ public class main {
             }
         }
         sol.remove(0);
-        sol.remove(sol.size()-1);
+        /*
+        for (int i = 0; i < sol.size(); i++) {
+            System.out.print(sol.get(i)[0] + " ");
+        }
+        System.out.println();*/
         return sol;
     }
 
@@ -326,6 +338,38 @@ public class main {
             System.out.println("IO error.");
             e.printStackTrace();
         }
+    }
+
+    public static float compareFiles(String taggedFilePath, List<List<String[]>> solution) {
+        float score = 0;
+        int counter = 0;
+        int numOfWords = 0;
+        try {
+            File taggedFile = new File(taggedFilePath);
+            Scanner taggedScanner = new Scanner(taggedFile);
+            String testLine = "";
+            for (int i = 0; i < solution.size(); i++) {
+                for (int j = 0; j < solution.get(i).size(); j++) {
+                    String[] currWord =solution.get(i).get(j);
+                    testLine = taggedScanner.nextLine();
+                    String[] testSplit = testLine.split("\\s+");
+                    //System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
+                    if (currWord[0].equals(testSplit[0]) && currWord[1].equals(testSplit[1])) {
+                        counter++;
+                    }
+                    numOfWords++;
+                }
+                taggedScanner.nextLine();
+            }
+            
+            score = (float)counter/(float)numOfWords;
+            System.out.println(numOfWords + " " + counter + " " + score);
+            taggedScanner.close();
+        } catch (FileNotFoundException e) {
+            System.out.println("File not found");
+            e.printStackTrace();
+        }
+        return score;
     }
 }
 
