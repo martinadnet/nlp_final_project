@@ -276,9 +276,10 @@ public class main {
                 String[] firstWord = {sentence[i], prev};
                 sol.add(firstWord);
             } else if (wordTagsHash.get(currWord) == null){
-                String[] currWordWithTag = {currWord, "OOV"};
+                String[] currWordWithTag = {currWord, mostLikelyOOV(transProbHash, prev)};
                 sol.add(currWordWithTag);
-                prev = "OOV";
+                prev = currWordWithTag[1];
+                //prev = "OOV";
             } else {
                 List<String> possibleTags = wordTagsHash.get(sentence[i]);
                 Hashtable<String, Float> possibleTagScores = new Hashtable<>();
@@ -371,6 +372,20 @@ public class main {
         }
         return score;
     }
+
+    public static String mostLikelyOOV(Hashtable<String, Hashtable<String, Float>> transProbHash, String prev){
+        float max = 0f;
+        String currTag = new String();
+        Set<String> possTags = transProbHash.get(prev).keySet();
+        for (String tag : possTags){
+            float tagPoss = transProbHash.get(prev).get(tag);
+            if (tagPoss > max){
+                currTag = tag;
+                max = tagPoss;
+            }
+        }
+        return currTag;
+    }// make this return a float(max) to give a probability instead of a pos when we add hard coded rules
 }
 
 //WHAT IS MISSING *****
