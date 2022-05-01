@@ -5,7 +5,7 @@ public class main {
     public static void main(String[] args) {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
         try {
-            File myFile = new File("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_02-21.pos");  //Opens training corpus file for reading
+            File myFile = new File("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL2_1178900.txt");  //Opens training corpus file for reading
             Scanner myScanner = new Scanner(myFile);    //Create scanner to read file
             String prev = myScanner.nextLine(); //Getting first line (first word + tag of the corpus)
             String[] tempDataArr = prev.split("\\s+"); //Splits first line into word and tag
@@ -29,8 +29,15 @@ public class main {
                     linesArr.add(beg);                        
                 } 
 
-                String[] dataArr = (curr.split("\\s+"));
-                linesArr.add(dataArr);
+                String[] dataArr = (curr.split("\\s+", 2));
+                //System.out.println(dataArr[0]);
+                //System.out.println(dataArr[1]);
+                if(dataArr.length > 1) {
+    	            String temp = dataArr[0];
+    	            dataArr[0] = dataArr[1];
+    	            dataArr[1] = temp;
+    	            linesArr.add(dataArr);
+                }
                 
                 if(myScanner.hasNextLine() && next.isEmpty()) { //This checks if we're at the end of a sentence (next line is blank or "empty")
                     String[] end = {"END_SENT", "End_Sent"}; 
@@ -54,7 +61,7 @@ public class main {
             tagsList = createWordTagsHash(occ);
             
             ArrayList<String> parsedUntagged = new ArrayList<String>(); // 
-            parsedUntagged = untaggedLines("C:\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_24.words");
+            parsedUntagged = untaggedLines("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988untagged.txt");
             ArrayList<String[]> untaggedSents = new ArrayList<String[]>(); // each String[] is a sentence
             untaggedSents = createSentences(parsedUntagged);
             List<List<String[]>> sols = new ArrayList<>();
@@ -64,7 +71,9 @@ public class main {
             }
             writeTaggedToFile("C:\\nlp_final_project\\HW3\\sols.txt", sols);
             
-            float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\WSJ_24.pos", sols);
+            // scoring output works after adding an empty line to tagged txts
+            // sols list is currently in a different order than how its supposed to be read, but its fine
+            //float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988tagged.txt", sols); 
             System.out.println(score);
             myScanner.close();          //Close the file scanner
 
@@ -330,7 +339,7 @@ public class main {
                 for (int j = 0; j < currSentence.size(); j++) {
                     String currWord = currSentence.get(j)[0];
                     String currTag = currSentence.get(j)[1];
-                    myWriter.write(currWord + "\t" + currTag + "\n");
+                    myWriter.write(currTag + "\t" + currWord + "\n");
                 }
                 myWriter.write("\n");
             }
@@ -354,8 +363,8 @@ public class main {
                     String[] currWord =solution.get(i).get(j);
                     testLine = taggedScanner.nextLine();
                     String[] testSplit = testLine.split("\\s+");
-                    //System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
-                    if (currWord[0].equals(testSplit[0]) && currWord[1].equals(testSplit[1])) {
+                    System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
+                    if (currWord[0].equals(testSplit[1]) && currWord[1].equals(testSplit[0])) {
                         counter++;
                     }
                     numOfWords++;
@@ -387,25 +396,3 @@ public class main {
         return currTag;
     }// make this return a float(max) to give a probability instead of a pos when we add hard coded rules
 }
-
-//WHAT IS MISSING *****
-//So we have an occurence and probability matrix created using a pre-tagged training word bank
-//So we first use the two methods to create those matrices ON THE TRAINING CORPUS
-//We then use the createSentence matrix on a non-tagged development word bank, which groups everything into neat sentences
-//Now we need an algorithm to use these two matrices to assign scores to each word's possible tags, and choose the highest score
-//1. Each sentence begins with "Begin_Sent" as their tag, so automatically assign first word's tag as "Begin_Sent"
-//  -This is just for the assignment though, irl we should include an EMPTY tag and include empty lines in the sentences
-//  -That way we also have a transition probability for empty lines and we can determine the beginning tag that way, since it always follows an empty line
-//2. For the next word, we look at the occurence matrix and see all the possible tags it could be, along with the percent probability that it is that tag
-//  -This is done by taking occurence matrix, seeing that walk is a verb 100 times and a noun 50 times, so {walk: {verb: .66, noun: .33}}
-//  -This is the actual use of the occurence matrix
-//  -And yes, you need to create a seperate matrix for these per word tag probabilities (similar concept to the ones I made above though)
-//3. Now look at the transition matrix for each tag you found in the occurence matrix, and look at the previous word's tag
-//  -Since we're looking at current word, and previous word's tag is done, we just need to look up all the tags current word can have
-//  -Then find the previous word's tag value for each of current word's tags, and find the probability juse like with the occurence matrix
-//  -So say walk can be a verb or a noun, and the previous word is an adjective
-//  -Then we look up {verb: {adjective: 25}, noun: {adjective: 75}}, so the transition score for verb is .25 and for adjective it's .75
-//  -Helpful to just create a probability matrix out of the transition matrix, so that the above statement is already {verb: {adj: .25}, noun: {adj: .75}}
-//4. Now you should have two probabilities per tag that the word can be: an occurence probability and a transition probability
-//5. Multiply these two for each tag, choose the highest score, and assign the word that tag
-//6. Lastly, need to write all of these tags to the development corpus and check against an answer key

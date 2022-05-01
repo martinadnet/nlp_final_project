@@ -1,0 +1,9998 @@
+ORG	Celestial Seasonings
+PST	was
+EXS	purchased
+REL	by
+CLO	Kraft Foods
+REL	in
+YOC	1984
+AND	which
+EXS	expanded
+DEF	the
+CON	marketing
+AND	of
+DEF	the
+CON	brand
+AND	both
+IST	nationally
+AND	and
+IST	internationally
+NIL	.
+
+DIS	A
+IST	serial
+CON	killer
+REL	on
+GPE	Mumbai
+NOW	's
+CON	streets
+EPS	killed
+ALT	yet
+ALT	another
+CON	person
+AND	last
+CON	night
+COO	;
+EXS	making
+DEF	the
+CON	latter
+CON	one
+AND	of
+QUC	five
+IST	young
+CON	men
+EXS	murdered
+IST	recently
+NIL	.
+
+DIS	A
+IST	few
+CON	steps
+AND	away
+DIS	a
+CON	teen
+NOW	looks
+IST	up
+CON	health
+CON	information
+REL	on
+DIS	a
+CON	computer
+CON	terminal
+REL	for
+DIS	an
+IST	upcoming
+CON	school
+CON	assignment
+NIL	,
+SUB	while
+REL	at
+ALT	another
+CON	terminal
+DIS	a
+CON	woman
+NOW	looks
+REL	for
+CON	information
+REL	on
+CON	diabetes
+NIL	.
+
+HES	Murder
+ENS	has
+EXT	shown
+REF	itself
+REL	to
+EXS	be
+DEF	the
+IST	preferred
+CON	method
+AND	of
+CON	censorship
+REL	in
+BOT	at least
+QUC	five
+CON	cases
+REL	in
+GEO	Russia
+PRX	this
+CON	year
+NIL	.
+
+REL	By
+YOC	1861
+PER	Alfred Nobel
+HAS	's
+ROL	father
+PST	was
+EXS	producing
+DEF	the
+TOP	newest
+IST	explosive
+AND	-
+TIM	nitroglycerin
+NIL	.
+
+DEF	The
+DEC	Yamaguchi-gumi
+CON	claims
+DIS	a
+CON	membership
+AND	of
+NIL	23,000
+ROL	gangsters
+NIL	,
+DIS	or
+NIL	"
+BUT	yakuza
+NIL	"
+AND	as
+PRO	they
+NOW	are
+EXS	called
+NIL	,
+AND	who
+EXS	engage
+REL	in
+CON	businesses
+NIL	,
+AND	both
+IST	legal
+AND	and
+IST	illegal
+NIL	,
+AND	including
+TIM	drug-trafficking
+NIL	,
+BUT	gun-smuggling
+NIL	,
+CON	prostitution
+NIL	,
+BUT	extortion
+AND	and
+IST	real-estate
+DEC	swindles
+NIL	.
+
+DEF	The
+CON	World Court
+NOW	has
+NOT	no
+CON	power
+REL	to
+EXS	enforce
+HAS	its
+CON	orders
+COO	but
+HAS	its
+CON	decisions
+NOW	have
+IST	traditionally
+EXS	carried
+DIS	some
+IST	diplomatic
+CON	weight
+NIL	.
+
+GEO	Washington
+NOW	has
+IST	repeatedly
+EPS	sought
+SUB	to
+EXS	reassure
+GEO	Russia
+PRO	it
+NOW	has
+NOT	nothing
+SUB	to
+EXS	fear
+REL	from
+DEF	the
+CON	system
+NIL	.
+
+QUC	Five
+CON	men
+NOW	have
+PFT	been
+EXS	killed
+REL	by
+DIS	a
+PRI	serial killer
+REL	in
+GPE	Mumbai
+NIL	.
+
+CON	Computer
+CON	terminals
+NOW	are
+EXS	used
+SUB	to
+EXS	provide
+CON	health
+CON	information
+NIL	.
+
+HES	Carelessness
+REL	by
+CON	contractors
+NOW	is
+DIS	a
+IST	common
+CON	cause
+AND	of
+CON	fire
+NIL	,
+AND	including
+QUV	many
+CON	fires
+SUB	that
+EXS	result
+REL	in
+IST	serious
+IST	financial
+CON	loss
+NIL	.
+PRO	It
+NOW	has
+PFT	been
+EXS	estimated
+SUB	that
+TIM	perhaps
+QUC	20
+AND	-
+QUC	25
+UOM	%
+AND	of
+AND	all
+TIM	non-domestic
+CON	fires
+CON	result
+REL	from
+HAS	'
+ORD	on-going
+CON	work
+NIL	'
+NIL	,
+AND	such
+AND	as
+TIM	refurbishment
+NIL	,
+EXS	repair
+AND	and
+CON	construction
+NIL	.
+
+MOY	September
+DOM	26
+AND	-
+ORG	Trial
+AND	against
+IST	former
+GPO	Italian
+ROL	Prime Minister
+LIT	Giulio Andreotti
+NIL	,
+EXS	accused
+AND	of
+TIM	Mafia
+CON	connections
+NIL	,
+ENS	begins
+NIL	.
+
+DIS	A
+CON	report
+EXS	prepared
+REL	by
+DIS	a
+QUC	five
+CON	member
+ORG	UN
+CON	commission
+EPS	noted
+NIL	"
+EXS	killing
+AND	of
+CON	civilians
+NIL	,
+EXS	enforced
+REF	disappearances
+NIL	,
+CON	destruction
+AND	of
+CON	villages
+NIL	,
+CON	rape
+AND	and
+ALT	other
+CON	forms
+AND	of
+IST	sexual
+CON	violence
+NIL	,
+BUT	pillaging
+AND	and
+EXS	forced
+CON	displacement
+NIL	,
+AND	throughout
+GEO	Darfur
+NIL	"
+NIL	,
+COO	and
+IST	secretly
+EPS	named
+IST	alleged
+CON	war
+CON	criminals
+SUB	that
+NEC	should
+EXS	go
+REL	before
+DEF	the
+ORG	ICC
+NIL	.
+
+PRO	It
+NOW	is
+EXS	outstripped
+XCL	only
+REL	by
+GEO	Denmark
+EQU	,
+DEF	the
+GPE	Netherlands
+NIL	,
+GEO	Belgium
+EQU	,
+GPE	Sweden
+NIL	,
+GPE	Finland
+AND	and
+GPE	France
+NIL	,
+COO	and
+IST	thus
+CON	ranks
+DOM	7th
+REL	in
+DEF	the
+DEC	25-member
+CON	European Union
+REL	in
+CON	terms
+AND	of
+CON	broadband
+UNK	Internet
+CON	penetration
+NIL	.
+
+EXS	Following
+DIS	a
+IST	steady
+CON	flow
+AND	of
+CON	leaks
+AND	and
+CON	statements
+REL	on
+IST	apparently
+DEC	incriminating
+CON	discoveries
+NIL	,
+PRO	her
+CON	office
+NOW	has
+PFT	been
+EXS	gagged
+REL	by
+IST	senior
+IST	legal
+CON	authorities
+NIL	.
+
+PER	Bush
+EPS	withheld
+CON	judgment
+DOW	Monday
+REL	on
+CON	rival
+ENS	calls
+SUB	to
+EXS	beef
+IST	up
+DIS	or
+CON	scale
+IST	down
+GEO	U.S.
+CON	troops
+REL	in
+GEO	Iraq
+EQU	,
+AND	and
+EPS	said
+EXS	angry
+CON	protests
+REL	in
+GPE	Indonesia
+AND	against
+HAS	his
+ORD	Mideast
+CON	policy
+PST	were
+DIS	a
+IST	healthy
+CON	sign
+AND	of
+CON	democracy
+REL	in
+DEF	the
+IST	heavily
+IST	Muslim
+CON	nation
+NIL	.
+
+CON	Hunting
+ENS	endangers
+EXS	seal
+CON	species
+NIL	.
+
+CON	Earthquakes
+NOW	have
+DEF	the
+CON	potential
+REL	to
+EXS	generate
+DIS	a
+CON	tsunami
+NIL	.
+
+DIS	A
+CON	tsunami
+NOW	is
+DIS	a
+CON	series
+AND	of
+CON	waves
+EPS	created
+SUB	when
+DIS	a
+CON	body
+AND	of
+CON	water
+IST	rapidly
+EXS	displaced
+REL	on
+DIS	a
+IST	massive
+CON	scale
+NIL	.
+
+HES	Uh
+NIL	...
+AND	How
+HAS	's
+SUB	that
+EXS	working
+QUE	?
+
+PRO	He
+EPS	told
+PRO	me
+DEF	the
+CON	story
+AND	of
+HAS	his
+CON	life
+NIL	.
+
+IMP	If
+PRO	I
+EPS	gave
+NOT	no
+EXS	answer
+NIL	,
+PRO	I
+FUT	would
+NOT	not
+EXT	have
+EXS	spoken
+NIL	.
+
+QUE	What
+PST	did
+PRO	you
+EXS	open
+PRO	it
+REL	with
+QUE	?
+
+UNK	There
+NOW	are
+CON	merits
+AND	and
+QUE	demerits
+SUB	to
+DEF	both
+HAS	your
+CON	opinions
+AND	so
+PRO	I
+NOW	'm
+NOT	not
+EXS	going
+SUB	to
+EXS	decide
+IST	right
+IST	away
+AND	which
+SUB	to
+EXS	support
+NIL	.
+
+HES	Travelling
+EQU	is
+IST	easy
+PRX	these
+CON	days
+NIL	.
+
+IMP	If
+XCL	only
+PRO	we
+PST	had
+DIS	a
+CON	garden
+NIL	!
+
+DEF	The
+CON	war
+REL	in
+GEO	Europe
+PST	was
+EXS	carried
+REL	into
+GEO	Africa
+NIL	.
+
+POS	May
+PRO	I
+NOW	have
+ALT	another
+CON	piece
+AND	of
+CON	cake
+QUE	?
+
+EXS	Come
+REL	on
+NIL	,
+PER	Bill
+NIL	.
+
+AND	Why
+PST	did
+PRO	you
+EXS	paint
+DEF	the
+CON	bench
+COL	red
+QUE	?
+
+PRO	It
+POS	can
+NOT	not
+EXS	be
+EXS	true
+NIL	.
+
+DEF	The
+CON	train
+PST	was
+INT	so
+EXS	crowded
+SUB	that
+PRO	I
+PST	had
+SUB	to
+EXS	stand
+AND	all
+DEF	the
+CON	way
+NIL	.
+
+PER	John
+EPS	ran
+SUB	to
+DEF	the
+CON	station
+AND	so
+AND	as
+SUB	to
+EXS	catch
+DEF	the
+IST	last
+CON	train
+NIL	.
+
+EPS	Wash
+HAS	your
+CON	hands
+REL	before
+EXG	eating
+NIL	.
+
+PRX	This
+NOW	has
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+PRO	you
+NIL	.
+
+EXS	Let
+HAS	's
+EXS	learn
+PRX	this
+CON	poem
+AND	by heart
+NIL	.
+
+HAS	Whose
+NOW	is
+PRX	this
+CON	camera
+QUE	?
+
+PRO	I
+NOW	'm
+EXS	calling
+SUB	because
+PRO	I
+NOW	've
+EXS	lost
+HAS	my
+CON	credit card
+NIL	.
+
+EXS	Let
+HAS	's
+EXT	have
+CON	sushi
+NIL	.
+
+DEF	The
+GEO	Amazon
+NOW	is
+DEF	the
+IST	second
+TOP	longest
+CON	river
+REL	in
+DEF	the
+CON	world
+REL	after
+DEF	the
+NTH	Nile
+NIL	.
+
+PRO	You
+POS	can
+NOT	not
+EXS	be
+INT	too
+EXS	careful
+SUB	when
+PRO	you
+EXS	drive
+DIS	a
+CON	car
+NIL	.
+
+ITJ	Yes
+NIL	,
+PRO	I
+NOW	'm
+EXS	coming
+NIL	.
+
+NIL	"
+NOT	No
+NIL	,
+NIL	"
+EXS	repeated
+DEF	the
+CON	Englishman
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	see
+DIS	anybody
+CON	today
+NIL	.
+
+HES	Imports
+EPS	exceeded
+CON	exports
+AND	last
+CON	year
+NIL	.
+
+QUE	What
+PRO	I
+NOW	have
+REL	in
+HAS	my
+CON	hand
+NOW	is
+DIS	a
+IST	fossil
+DEC	seashell
+NIL	.
+
+HAS	My
+CON	opinion
+NOW	is
+ALT	different
+REL	from
+HAS	yours
+NIL	.
+
+HAS	My
+CON	clothes
+PST	were
+EXS	dirty
+REL	with
+CON	oil
+NIL	.
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+DEF	the
+CON	tune
+AND	of
+DST	that
+CON	song
+NIL	.
+
+PRO	I
+EPS	gave
+PRO	it
+SUB	to
+HAS	my
+ORD	mommy
+NIL	.
+
+PRO	I
+PST	was
+EXS	foolish
+IST	enough
+SUB	to
+EXS	believe
+PRO	him
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	used
+SUB	to
+EXS	cooking
+REL	for
+REF	myself
+NIL	.
+
+PRO	I
+NOW	have
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+PRO	them
+NIL	.
+
+EXS	Keep
+IST	next
+DOW	Sunday
+IST	free
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	sorry
+PRO	I
+POS	could
+NOT	n't
+EXS	write
+SUB	to
+PRO	you
+IST	sooner
+NIL	.
+
+PRO	I
+NOW	have
+DIS	a
+IST	bad
+DEC	sunburn
+NIL	.
+
+PRO	I
+NOW	have
+SUB	to
+EXS	go
+CON	shopping
+NIL	.
+
+PRO	He
+NOW	's
+NOT	not
+EXS	like
+PRO	us
+NIL	.
+
+PRO	He
+NOW	's
+QUC	much
+MOR	younger
+MOR	than
+PER	Tom
+NIL	.
+
+PRO	He
+NOW	is
+DIS	a
+CON	head
+COM	taller
+MOR	than
+PRO	me
+NIL	.
+
+PRO	He
+NOW	has
+EXS	lost
+CON	interest
+REL	in
+CON	politics
+NIL	.
+
+PRO	They
+EPS	went
+CON	hand
+REL	in
+CON	hand
+NIL	.
+
+PRO	I
+ENS	regret
+IST	missing
+DEF	the
+CON	chance
+REL	to
+EXS	meet
+HAS	her
+NIL	.
+
+REL	For
+DIS	a
+CON	while
+PRO	she
+PST	did
+NOT	nothing
+BUT	but
+CON	stare
+REL	at
+PRO	me
+NIL	.
+
+EXS	Say
+GRE	good-bye
+REL	to
+HAS	your
+CON	friends
+NIL	.
+
+QUV	Many
+AND	of
+DEF	the
+CON	workers
+EPS	died
+AND	of
+CON	hunger
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+HAS	your
+CON	name
+NIL	.
+
+QUE	How
+SUB	to
+EXS	say
+CON	XXX
+REL	in
+GPO	Dutch
+QUE	?
+
+DIS	Some
+CON	people
+NOW	are
+IST	good
+NIL	,
+DIS	some
+CON	people
+NOW	are
+IST	bad
+NIL	.
+
+PRO	You
+IST	really
+NOW	are
+IST	tall
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?
+
+NOW	Is
+GPO	English
+COM	harder
+MOR	than
+CON	Japanese
+QUE	?
+
+EXS	Did
+PRO	you
+NOW	do
+HAS	your
+CON	homework
+QUE	?
+
+PRO	She
+NOW	has
+QUC	three
+CON	brothers
+NIL	.
+
+DST	That
+PRO	we
+NOW	are
+NOT	not
+IST	able
+SUB	to
+EXS	do
+NIL	.
+
+PRO	I
+IST	usually
+EXS	get
+IST	up
+REL	at
+CLO	6:00
+NIL	.
+
+NOW	Do
+PRO	you
+EXS	meet
+PRO	him
+IST	often
+QUE	?
+
+PRO	She
+NOW	's
+HAS	my
+ROL	sister
+NIL	.
+
+QUC	One
+UOM	plus
+QUC	two
+NOW	is
+IST	equal
+SUB	to
+QUC	three
+NIL	.
+
+PRO	I
+EXS	deactivated
+HAS	my
+ART	Twitter
+CON	account
+PST	yesterday
+NIL	.
+
+PRO	I
+ENS	know
+SUB	that
+PRO	you
+NOW	're
+DIS	a
+CON	teacher
+NIL	.
+
+DEF	The
+QUC	twelve
+CON	stars
+REL	on
+DEF	the
+CON	flag
+AND	of
+DEF	the
+ORG	European Union
+NOW	do
+NOT	not
+EXS	symbolize
+DEF	the
+QUC	twelve
+CON	founding
+CON	members
+AND	of
+DEF	the
+CON	union
+NIL	.
+PRO	They
+ENS	symbolize
+DEF	the
+QUC	Twelve
+CON	Apostles
+NIL	.
+
+PRO	It
+NOW	's
+AND	all
+IST	just
+DIS	a
+IST	big
+CON	misunderstanding
+NIL	.
+
+DEF	The
+TOP	most
+IST	effective
+CON	means
+REL	for
+DEF	the
+DEC	propagation
+AND	of
+CON	Esperanto
+NOW	is
+DEF	the
+IST	fluent
+AND	and
+IST	elegant
+CON	use
+AND	of
+PRX	this
+CON	language
+NIL	.
+
+GPE	Germany
+NOW	shares
+DIS	a
+CON	border
+REL	with
+GPE	France
+NIL	.
+
+NOW	Have
+PRO	you
+EPS	put
+CON	winter
+EVE	tyres
+REL	on
+HAS	your
+CON	car
+NIL	,
+ALT	yet
+QUE	?
+
+PRO	I
+EPS	went
+IST	out
+REL	for
+DIS	a
+CON	walk
+REL	to
+EXS	get
+DIS	some
+IST	fresh
+CON	air
+NIL	.
+
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	be
+DIS	an
+CON	astronaut
+QUE	?
+
+QUE	What
+NOW	is
+NOW	today
+HAS	's
+CON	date
+QUE	?
+
+PRO	You
+POS	can
+NOT	never
+EXS	tell
+QUE	how
+IST	long
+PRX	these
+CON	meetings
+FUT	will
+IST	last
+NIL	.
+
+PRO	She
+EPS	told
+PRO	me
+NOT	not
+SUB	to
+EXS	tell
+DIS	anyone
+NIL	,
+AND	so
+PRO	I
+PST	did
+NOT	n't
+NIL	.
+
+HES	Muammar Kaddafi
+EPS	escaped
+NOT	un
+EXS	harmed
+NIL	.
+
+QUE	Where
+NOW	are
+DEF	the
+CON	parking
+CON	metres
+QUE	?
+
+PRO	She
+NOW	has
+NOT	nothing
+REL	in
+IST	common
+REL	with
+PRO	him
+NIL	.
+
+NOW	Do
+PRO	me
+DIS	a
+CON	favour
+AND	and
+EPS	shut
+IST	up
+NIL	.
+
+NOW	Do
+PRO	you
+NOW	have
+DIS	a
+ART	Facebook
+CON	account
+QUE	?
+
+QUC	Three
+CON	months
+REL	before
+PER	Tom
+PST	was
+SUB	to
+EXS	graduate
+REL	from
+CON	college
+NIL	,
+PRO	he
+EPS	died
+NIL	.
+
+PRO	I
+NOW	think
+SUB	that
+PRO	it
+NOW	's
+EXS	possible
+NIL	.
+
+GRE	Goodbye
+NIL	,
+PER	Bob
+AND	and
+PER	Nora
+NIL	.
+
+PRO	I
+NOW	've
+IST	always
+EPS	loved
+PRO	you
+NIL	.
+
+ORG	Was
+UNK	there
+DIS	a
+CON	book
+REL	on
+DEF	the
+CON	desk
+DIS	a
+CON	moment
+PST	ago
+QUE	?
+
+HAS	My
+CON	parents
+EXS	come
+REL	from
+GPE	China
+NIL	.
+
+PRO	I
+EPS	won
+DEF	the
+CON	gold
+CON	medal
+NIL	.
+
+PRO	I
+NOW	hope
+AND	everything
+FUT	will
+EXS	be
+IST	fine
+REL	in
+DEF	the
+CON	end
+NIL	.
+
+PRO	It
+NOW	's
+EXS	cold
+NOW	today
+NIL	.
+
+PRO	You
+NOW	have
+SUB	to
+EXS	clean
+HAS	your
+CON	room
+NIL	.
+
+DEF	The
+CON	garden
+PST	was
+IST	full
+AND	of
+IST	beautiful
+COL	yellow
+CON	flowers
+NIL	.
+
+QUE	How
+IST	long
+NOW	has
+PRO	it
+PFT	been
+REL	since
+PRO	you
+EPS	received
+DIS	a
+CON	letter
+REL	from
+PRO	him
+QUE	?
+
+HAS	My
+ROL	mother
+EPS	told
+PRO	me
+SUB	to
+EXS	mow
+DEF	the
+CON	lawn
+NIL	.
+
+PRO	He
+PST	was
+INT	about
+REL	to
+EXS	go
+IST	out
+SUB	when
+DEF	the
+CON	telephone
+EPS	rang
+NIL	.
+
+PER	Hope
+NOW	is
+DIS	a
+IST	little
+CON	voice
+EXG	whispering
+NIL	"
+AND	maybe
+NIL	"
+SUB	when
+PRO	it
+ENS	seems
+DEF	the
+IST	entire
+CON	world
+NOW	is
+EXG	shouting
+NIL	"
+NOT	no
+NIL	"
+NIL	!
+
+ORG	Press
+DEF	the
+COL	green
+CON	button
+NIL	.
+IMP	If
+PRO	you
+NOW	do
+INT	so
+NIL	,
+DEF	the
+CON	light
+FUT	will
+EXS	go
+REL	on
+NIL	.
+
+PRO	I
+EPS	wanted
+SUB	to
+EXS	go
+SUB	to
+GEO	Belgium
+ALT	again
+NIL	,
+AND	as
+IST	long
+AND	as
+DEF	the
+CON	country
+PST	was
+IST	still
+IST	there
+NIL	.
+
+NOW	Is
+UNK	there
+DIS	a
+CON	zoo
+REL	in
+GPE	Boston
+QUE	?
+
+HAS	My
+ROL	aunt
+NOW	is
+HAS	my
+ROL	father
+HAS	's
+ROL	sister
+NIL	.
+
+PRO	I
+NOW	'm
+NOT	not
+EXS	feeling
+IST	well
+NOW	today
+NIL	.
+
+PRX	This
+PST	was
+INT	too
+QUV	much
+REL	for
+PER	Tom
+NIL	.
+
+SUB	When
+EXS	do
+PRO	you
+ENS	go
+SUB	to
+CON	bed
+QUE	?
+
+PRO	I
+ENS	need
+DIS	a
+IST	new
+CON	broom
+NIL	.
+PRX	This
+CON	one
+NOW	's
+EXS	shot
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	need
+DIS	anyone
+NIL	.
+
+PRO	It
+NOW	is
+NOT	not
+EXS	cold
+NOW	today
+NIL	.
+
+PRO	I
+NOW	hope
+SUB	to
+EXS	contact
+ALT	other
+CON	Esperantists
+AND	through
+DEF	the
+CON	radio
+NIL	,
+AND	as
+PRO	I
+NOW	'm
+DIS	a
+CON	radio
+CON	amateur
+NIL	.
+HAS	My
+CON	call
+CON	sign
+NOW	is
+PRG	F5NQW
+NIL	.
+
+PRO	I
+PST	was
+EXS	appalled
+REL	by
+DEF	the
+CON	traffic
+REL	in
+GPE	Bangkok
+NIL	,
+BUT	but
+CON	travellers
+EPS	told
+PRO	me
+GPE	Taipei
+PST	was
+COM	worse
+NIL	.
+
+PRO	She
+ENS	wants
+PRO	me
+SUB	to
+EXS	help
+HAS	her
+NIL	.
+
+IMP	If
+PRO	it
+ENS	fails
+PRX	this
+CON	time
+NIL	,
+PRO	we
+POS	can
+EXS	try
+ALT	again
+NIL	.
+
+NOW	Do
+PRO	you
+ENS	want
+SUB	to
+EXS	eat
+DIS	something
+QUE	?
+
+ORG	Good
+SUB	that
+PRO	you
+EPS	told
+PRO	me
+NIL	,
+IST	otherwise
+PRO	I
+FUT	would
+NOT	never
+EXT	have
+EXS	remembered
+PRO	it
+NIL	.
+
+NOW	Do
+PRG	seedless
+PRO	watermelons
+ENS	exist
+QUE	?
+
+CON	Prediction
+NOW	is
+INT	very
+IST	difficult
+NIL	,
+AND	especially
+AND	about
+DEF	the
+CON	future
+NIL	.
+
+PRO	She
+ENS	speaks
+INT	fairly
+IST	quickly
+NIL	.
+
+AND	Could
+PRO	you
+NOW	say
+SUB	that
+ALT	again
+QUE	?
+
+NOW	Do
+PRO	you
+ENS	love
+PRO	me
+QUE	?
+
+PRO	He
+ENS	lives
+REL	with
+HAS	his
+CON	parents
+NIL	.
+
+EXS	Shut
+DEF	the
+CON	door
+AND	behind
+PRO	you
+NIL	.
+
+PRO	You
+ENS	need
+SUB	to
+EXS	eat
+MOR	more
+CON	fiber
+NIL	.
+
+DEF	The
+IST	South African
+CON	steel
+CON	manufacturer
+EVE	Iscor
+CON	plans
+REL	to
+EXS	develop
+DIS	a
+CON	mini-mill
+NIL	.
+
+QUE	What
+NOW	is
+DEF	the
+CON	height
+AND	of
+DEF	the
+TOP	tallest
+TOP	redwood
+QUE	?
+
+QUE	Who
+EPS	directed
+DEF	the
+CON	film
+NIL	"
+BUT	Fail Safe
+NIL	"
+QUE	?
+
+QUE	What
+CON	roller
+CON	coaster
+NOW	is
+DEF	the
+TOP	fastest
+REL	in
+DEF	the
+CON	world
+QUE	?
+
+QUE	Who
+NOW	is
+DEF	the
+ROL	president
+IST	pro
+DEC	tempore
+AND	of
+DEF	the
+DEC	US Senate
+NIL	?
+
+QUE	How
+IST	tall
+NOW	is
+PRG	Mike Tyson
+NIL	?
+
+QUE	How
+QUV	many
+CON	inhabitants
+NOW	are
+UNK	there
+REL	in
+GEO	Moscow
+QUE	?
+
+QUE	What
+CON	party
+NOW	is
+PER	Silvio Berlusconi
+REL	in
+QUE	?
+
+QUE	Who
+NOW	is
+DEF	the
+CON	author
+AND	of
+DEF	the
+DEC	Brady Plan
+NIL	?
+
+QUE	Who
+NOW	has
+PFT	been
+EXS	called
+DEF	the
+PER	Mussolini
+AND	of
+DEF	the
+CON	media
+QUE	?
+
+QUE	What
+CON	language
+NOW	do
+DEF	the
+GPE	Berbers
+NOW	speak
+QUE	?
+
+QUE	How
+QUV	many
+CON	people
+REL	in
+GEO	U.S.
+NOW	do
+NOT	not
+EXT	have
+CON	health
+CON	insurance
+QUE	?
+
+QUE	How
+QUV	many
+CON	prisoners
+PST	were
+EXS	taken
+REL	in
+DEF	the
+DEC	1813
+CON	capture
+AND	of
+TIM	Fort Niagara
+QUE	?
+
+SUB	When
+PST	was
+NOT	Lyndon B. Johnson
+ROL	president
+QUE	?
+
+QUE	What
+ENS	breed
+AND	of
+CON	horse
+PST	was
+EXS	used
+SUB	to
+EXS	found
+DEF	the
+DEC	Lipizzaner
+NIL	?
+
+REL	In
+UNK	which
+ORG	U.S.
+CON	states
+NOW	have
+UNK	there
+EXS	been
+CON	fatalities
+EPS	caused
+REL	by
+CON	snow
+EVE	avalanches
+NIL	?
+
+QUE	What
+NOW	is
+DEF	the
+IST	traditional
+CON	dish
+EPS	served
+REL	at
+GEO	Wimbledon
+QUE	?
+
+QUE	How
+PST	did
+NOT	Jerry Garcia
+EXS	die
+QUE	?
+
+PRO	She
+EPS	came
+IST	back
+DIS	an
+CON	hour
+AND	later
+NIL	.
+
+UNK	There
+NOW	are
+DIS	some
+IST	old
+CON	houses
+REL	on
+PRX	this
+CON	street
+NIL	.
+
+ROL	Mr
+LIT	Kato
+EQU	was
+INT	too
+IST	old
+SUB	to
+EXS	work
+AND	any
+IST	longer
+NIL	.
+
+UNK	There
+NOW	is
+DIS	an
+IST	urgent
+ENS	need
+REL	for
+IST	improved
+EXS	living
+CON	conditions
+NIL	.
+
+EXS	Let
+HAS	's
+EXS	do
+PRX	this
+IST	properly
+NIL	.
+
+AND	Would
+PRO	you
+ENS	like
+DIS	something
+SUB	to
+EXS	eat
+QUE	?
+
+DEF	The
+ROL	princess
+EPS	fell
+REL	in
+CON	love
+REL	with
+DIS	an
+PRI	Elven
+ROL	prince
+NIL	.
+
+PRO	I
+ENS	bet
+DEF	the
+CON	teacher
+NOW	's
+EXS	going
+SUB	to
+EXS	get
+IST	mad
+NIL	!
+
+PRO	He
+AND	and
+PRO	I
+EPS	discussed
+DEF	the
+CON	waste
+CON	problem
+REL	in
+CON	terms
+AND	of
+TIM	recycling
+NIL	.
+
+PRO	He
+XCL	only
+EPS	knew
+GPO	German
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	see
+SUB	that
+EXS	happen
+NIL	.
+
+NOW	Do
+NOT	n't
+EXS	worry
+NIL	.
+PRO	They
+FUT	will
+EXS	be
+EXT	supervised
+NIL	.
+
+NOW	Are
+PRO	we
+AND	all
+IST	happy
+QUE	?
+
+QUE	How
+QUV	many
+CON	plates
+NOW	do
+PRO	you
+ENS	want
+QUE	?
+
+ITJ	Please
+ENS	come
+EXS	downstairs
+NIL	.
+
+PRO	I
+NOW	have
+IST	great
+CON	respect
+REL	for
+PRO	him
+NIL	.
+
+PRO	She
+NOW	has
+HAS	her
+IST	own
+CON	way
+REL	in
+AND	everything
+NIL	.
+
+PRO	He
+EPS	demanded
+DIS	a
+CON	replacement
+REL	for
+DEF	the
+IST	broken
+CON	part
+NIL	.
+
+EXS	Try
+PRO	it
+NIL	.
+PRO	You
+FUT	'll
+EXS	like
+PRO	it
+NIL	.
+
+QUE	How
+IST	big
+NOW	is
+HAS	your
+CON	house
+QUE	?
+
+PRO	She
+PST	did
+PRO	it
+REL	for
+HAS	her
+CON	children
+NIL	.
+
+PRO	I
+NOW	've
+EXS	known
+PRO	him
+REL	for
+MOR	more
+MOR	than
+QUC	ten
+UOM	years
+NIL	.
+
+HES	Corsairfly
+EQU	is
+DIS	an
+CON	airline
+EXS	based
+REL	in
+GEO	Paris
+NIL	.
+
+PER	Tom
+NOW	is
+PRX	here
+ALT	again
+NIL	.
+
+PRO	I
+NOW	'm
+IST	terribly
+EXS	sorry
+NIL	!
+
+DEF	The
+CON	castle
+NOW	has
+PFT	been
+EXS	restored
+AND	and
+NOW	is
+EXS	open
+SUB	to
+DEF	the
+IST	public
+NIL	.
+
+PRO	You
+NOW	're
+DEF	both
+REL	from
+GPE	Boston
+NIL	,
+NOW	are
+NOT	n't
+PRO	you
+QUE	?
+
+PRO	He
+NOW	's
+REL	on
+HAS	his
+IST	last
+CON	legs
+NIL	.
+
+AND	Predicting
+DEF	the
+CON	future
+NOW	is
+NOT	n't
+IST	always
+IST	prudent
+NIL	.
+
+PRO	I
+NOW	've
+IST	always
+PFT	been
+EXS	good
+REL	with
+HAS	my
+CON	hands
+NIL	.
+
+EXS	Put
+HAS	your
+CON	books
+REL	in
+CON	order
+NIL	.
+
+REL	In
+DEF	the
+IST	near
+CON	future
+NIL	,
+PRO	we
+POS	may
+EXT	have
+DIS	a
+IST	big
+CON	earthquake
+REL	in
+GPE	Japan
+NIL	.
+
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+PER	Tom
+NOW	is
+EXS	going
+SUB	to
+EXS	survive
+NIL	.
+
+PRO	I
+NOW	'm
+IST	sure
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+AND	of
+QUC	much
+CON	help
+NIL	.
+
+PRO	She
+ENS	loves
+DEF	the
+CON	boy
+AND	like
+PRO	he
+NOW	's
+HAS	her
+IST	own
+CON	son
+NIL	.
+
+PER	Tom
+NOW	has
+DIS	an
+MOR	older
+ROL	sister
+NIL	,
+PER	Mary
+NIL	,
+COO	and
+QUC	two
+MOR	younger
+ROL	sisters
+NIL	,
+BUT	but
+PRO	I
+NOW	do
+NOT	n't
+EXS	remember
+HAS	their
+CON	names
+NIL	.
+
+PRO	He
+NOW	's
+IST	absent-minded
+NIL	.
+
+AND	Why
+NOW	are
+GPO	Japanese
+IST	so
+EXS	prejudiced
+AND	against
+CON	lesbians
+AND	and
+TIM	bisexuals
+QUE	?
+
+PER	Tom
+NOW	looks
+INT	totally
+EXS	confused
+NIL	.
+
+PRO	He
+NOW	's
+NOT	no
+XCL	saint
+NIL	.
+
+UNK	There
+NOW	's
+ALT	another
+QUC	one
+REL	in
+HAS	my
+CON	bag
+NIL	.
+
+QUE	Where
+PST	did
+PRO	you
+EXS	buy
+PRO	them
+QUE	?
+
+PRO	We
+AND	all
+NOW	have
+CON	responsibilities
+NIL	.
+
+AND	All
+CON	men
+EXS	die
+NIL	.
+PER	Tom
+NOW	is
+DIS	a
+CON	man
+NIL	.
+AND	Therefore
+NIL	,
+PER	Tom
+FUT	will
+EXS	die
+NIL	.
+
+PRX	This
+NOW	is
+DIS	an
+IST	old
+CON	letter
+NIL	.
+
+PRO	It
+PST	was
+DIS	a
+IST	fine
+CON	day
+NIL	,
+AND	so
+PRO	we
+EPS	went
+CON	swimming
+NIL	.
+
+REL	After
+DIS	a
+IST	short
+CON	visit
+PRO	he
+IST	suddenly
+EXS	got
+IST	up
+AND	and
+EPS	took
+HAS	his
+EXS	leave
+NIL	.
+
+QUE	How
+QUV	much
+NOW	do
+PRO	you
+EXS	leave
+REL	for
+DIS	a
+CON	tip
+REL	to
+DIS	a
+CON	taxi
+ROL	driver
+REL	in
+GPE	New York
+QUE	?
+
+PER	Tom
+NOW	is
+EXS	being
+IST	silly
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?
+
+PRO	I
+NOW	've
+IST	rarely
+EXS	seen
+PRO	you
+IST	so
+EXS	quiet
+NIL	.
+
+CON	Time
+EPS	passed
+INT	very
+IST	quickly
+NIL	.
+
+PRO	They
+EPS	contacted
+DEF	the
+CON	station
+CON	staff
+COO	but
+DEF	the
+CON	man
+PST	had
+EXS	left
+DEF	the
+CON	area
+AND	and
+EXS	gone
+IST	out
+AND	through
+DEF	the
+CON	ticket
+CON	barrier
+NIL	.
+
+PRO	She
+IST	always
+ENS	wears
+COL	black
+NIL	.
+
+DEF	The
+CON	cat
+EPS	caught
+PRO	me
+REL	by
+CON	surprise
+NIL	!
+
+PER	Mary
+PST	had
+DIS	a
+IST	little
+CON	lamb
+HAS	whose
+CON	fleece
+PST	was
+COL	white
+AND	as
+CON	snow
+NIL	.
+
+PER	Tom
+NEC	must
+EXS	be
+EXS	dead
+NIL	.
+
+PRO	I
+NOW	'm
+IST	afraid
+PRO	we
+POS	ca
+NOT	n't
+EXS	change
+PRO	it
+NIL	.
+NOT	Nobody
+ENS	listens
+SUB	to
+PRO	us
+NIL	.
+
+PRO	I
+EPS	said
+EXS	get
+IST	out
+NIL	.
+
+PER	Tom
+NOW	is
+IST	still
+IST	just
+AND	as
+IST	friendly
+AND	as
+PRO	he
+EPS	used
+SUB	to
+EXS	be
+NIL	.
+
+DST	That
+PST	was
+PER	Tom
+HAS	's
+CON	fault
+NIL	.
+
+PRO	I
+NOW	have
+NOT	n't
+PFT	been
+REL	to
+GPE	Boston
+REL	since
+YOC	2013
+NIL	.
+
+REL	In
+GPE	Canada
+PRO	we
+EXS	sleep
+REL	in
+DIS	a
+CON	bed
+NIL	,
+NOT	not
+REL	on
+DEF	the
+CON	floor
+NIL	.
+
+PER	Jack
+NOW	is
+QUC	one
+AND	of
+HAS	my
+CON	friends
+NIL	.
+
+PRO	She
+NOW	's
+XCL	only
+EXS	going
+SUB	to
+EXS	tell
+PRO	you
+QUE	what
+PRO	she
+ENS	thinks
+PRO	you
+ENS	want
+SUB	to
+EXS	hear
+NIL	.
+
+PRO	We
+IST	often
+EXS	compare
+GPE	Japan
+REL	with
+GPE	Britain
+NIL	.
+
+PRO	He
+NOW	is
+EXS	happy
+AND	about
+DEF	the
+CON	progress
+PRO	he
+NOW	has
+IST	recently
+EPS	made
+NIL	.
+
+ORG	Old
+CON	traditions
+NOW	are
+EXS	crumbling
+IST	away
+NIL	.
+
+HAS	His
+CON	story
+PST	was
+INT	too
+IST	ridiculous
+REL	for
+DIS	anyone
+SUB	to
+EXS	believe
+NIL	.
+
+CON	Life
+NOW	is
+INT	so
+IST	unfair
+IST	sometimes
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	she
+FUT	'll
+EXS	be
+EXS	happy
+EXS	living
+REL	with
+HAS	her
+CON	mother-in-law
+NIL	.
+
+DST	That
+HAS	's
+DIS	a
+IST	good
+CON	reason
+NIL	,
+PRO	I
+NOW	guess
+NIL	.
+
+PRO	I
+IST	already
+ENS	know
+HAS	your
+CON	secret
+NIL	.
+
+DST	That
+HAS	's
+QUE	why
+PRO	I
+EPS	came
+NIL	.
+
+DEF	The
+CON	story
+PST	reminded
+PRO	me
+AND	of
+HAS	my
+ROL	father
+NIL	.
+
+AND	Seeing
+PRO	me
+NIL	,
+DEF	the
+CON	dog
+EPS	rushed
+IST	up
+SUB	to
+PRO	me
+NIL	.
+
+PRO	You
+NOW	say
+PRO	he
+NOW	is
+DIS	a
+CON	workaholic
+NIL	,
+BUT	but
+PRO	you
+ENS	know
+UNK	there
+NOW	are
+DIS	some
+CON	people
+AND	who
+NOW	feel
+IST	happiest
+SUB	when
+PRO	they
+NOW	're
+EXS	working
+NIL	.
+
+PER	Tom
+IST	regularly
+ENS	eats
+CON	sushi
+REL	with
+HAS	his
+ROL	mother
+NIL	.
+
+PER	Tom
+AND	and
+PER	Mary
+NOW	do
+NOT	n't
+EXS	seem
+INT	too
+EXS	busy
+NIL	.
+
+PRO	I
+NOW	am
+EXS	shooting
+REL	with
+DIS	a
+GPO	Russian
+ROL	machine-gun
+NIL	.
+
+PRO	I
+EPS	met
+PER	Tom
+PRX	this
+MOY	January
+NIL	.
+
+POS	Maybe
+PRO	you
+NEC	should
+EXS	talk
+SUB	to
+PER	Tom
+NIL	.
+
+PRO	It
+NOW	is
+INT	almost
+CLO	ten o'clock
+NIL	.
+
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+EXS	give
+HAS	your
+CON	wife
+DIS	a
+IST	little
+CON	thanks
+QUE	?
+
+PRX	This
+CON	movie
+CON	theater
+NOW	has
+QUC	two
+CON	floors
+NIL	.
+
+QUE	What
+NOW	keeps
+PRO	you
+IST	up
+REL	at
+CON	night
+QUE	?
+
+QUE	What
+NEC	should
+PRO	I
+EXS	buy
+PRO	him
+REL	for
+TIM	Valentine's Day
+QUE	?
+
+PRO	I
+NOW	'm
+IST	sure
+PER	Tom
+FUT	will
+EXS	be
+PRX	here
+IST	soon
+NIL	.
+
+DIS	A
+ROL	politician
+AND	who
+NOW	makes
+CON	lots
+AND	of
+CON	promises
+NOW	is
+DIS	something
+ALT	different
+MOR	than
+DIS	a
+IST	promising
+ROL	politician
+NIL	.
+
+PRO	I
+NOW	think
+INT	about
+LIT	Tom
+AND	every
+CON	day
+NIL	.
+
+SUB	When
+PER	Kate
+EPS	played
+DIS	a
+IST	minor
+CON	part
+REL	in
+DIS	a
+CON	movie
+NIL	,
+PRO	her
+EXS	acting
+PST	was
+EXS	criticized
+NIL	.
+
+PRO	I
+PST	was
+INT	very
+EXS	tired
+NIL	,
+AND	so
+PRO	I
+EPS	fell
+EXS	asleep
+IST	right
+IST	away
+NIL	.
+
+PRX	This
+CON	offer
+NOW	is
+EXS	available
+REL	for
+DIS	a
+IST	limited
+CON	time
+XCL	only
+NIL	.
+
+ROL	Dr.
+PER	Smith
+NOW	has
+DIS	a
+CON	lot
+AND	of
+CON	patients
+NIL	.
+
+UNK	There
+NOW	are
+CON	rats
+REL	in
+DEF	the
+CON	kitchen
+NIL	.
+
+PRO	It
+NOW	's
+NOT	not
+SUB	that
+EXS	cold
+NIL	.
+
+PRO	I
+ENS	need
+SUB	to
+EXS	have
+DIS	a
+CON	talk
+REL	with
+PRO	you
+NIL	.
+
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	see
+PRO	you
+ALT	again
+NIL	.
+
+PRX	Here
+ENS	comes
+DIS	a
+CON	bus
+NIL	.
+PRO	We
+POS	might
+AND	as
+IST	well
+EXS	take
+PRO	it
+NIL	.
+
+PRO	She
+PST	was
+EXS	dressed
+REL	in
+DIS	a
+COL	red
+CON	blouse
+NIL	.
+
+UNK	There
+NOW	are
+XCL	only
+QUC	two
+CON	possibilities
+NIL	.
+
+PRO	I
+ENS	know
+NIL	!
+AND	And
+EXS	let
+PRO	me
+ALT	also
+EXS	say
+SUB	that
+PER	Keiko
+NOW	is
+DIS	a
+IST	SECOND
+CON	cousin
+AND	of
+HAS	mine
+NIL	.
+
+PRO	I
+EPS	met
+ALT	again
+DEF	the
+CON	girl
+AND	who
+PRO	I
+PST	had
+EXS	met
+REL	in
+DEF	the
+CON	park
+DEF	the
+ALT	other
+CON	day
+NIL	.
+
+SUB	When
+NOW	is
+PRO	it
+EXS	OK
+SUB	to
+EXS	tell
+ENS	lies
+QUE	?
+
+HES	Cherry trees
+EQU	are
+IST	now
+REL	in
+CON	bloom
+REL	in
+GEO	Washington
+NIL	.
+
+PRX	This
+NOW	is
+ROL	Miss
+LIT	Curtis
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXT	have
+DIS	any
+ALT	another
+CON	choice
+NIL	.
+
+EXS	Let
+HAS	's
+NOT	not
+EXS	argue
+CON	anymore
+NIL	.
+
+QUE	How
+NOW	do
+PRO	you
+CON	kids
+NOW	do
+PRO	it
+QUE	?
+
+PRO	He
+SUB	that
+CON	talks
+QUC	much
+NIL	,
+ENS	errs
+QUC	much
+NIL	.
+
+DEF	The
+CON	bridge
+EPS	collapsed
+SUB	when
+QUC	one
+AND	of
+DEF	the
+CON	cables
+EPS	broke
+NIL	.
+
+PER	Tom
+EPS	vowed
+SUB	to
+EXS	rescue
+PER	Mary
+NIL	.
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	get
+AND	any
+CON	work
+EXS	done
+PRX	here
+REL	with
+AND	all
+PRX	these
+CON	children
+REL	in
+DEF	the
+CON	room
+NIL	.
+
+PRO	I
+NOW	've
+EXS	got
+SUB	to
+EXS	find
+IST	out
+QUE	what
+PER	Tom
+ENS	knows
+NIL	.
+
+PER	Tom
+EPS	found
+PRO	me
+DIS	a
+IST	good
+CON	place
+REL	to
+EXS	live
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	trying
+SUB	to
+EXS	find
+DEF	the
+CON	person
+AND	who
+NOW	owns
+PRX	this
+CON	guitar
+NIL	.
+
+TIM	Yesterday
+PRO	I
+EPS	went
+SUB	to
+DEF	the
+CON	opera
+NIL	.
+
+EXS	Stop
+EXG	telling
+PRO	me
+QUE	what
+SUB	to
+EXS	do
+AND	and
+CON	mind
+HAS	your
+CON	business
+NIL	.
+
+DST	That
+CON	boy
+EXS	speaking
+GPO	English
+NOW	is
+COM	taller
+MOR	than
+PRO	I
+NOW	am
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	concerned
+AND	about
+HAS	my
+CON	wife
+NOW	's
+CON	hacking
+CON	cough
+NIL	.
+
+PRO	I
+NOW	'm
+DEF	the
+CON	mother
+AND	of
+DIS	a
+CON	son
+AND	of
+DIS	a
+CON	bitch
+NIL	.
+
+NOW	Do
+PRO	you
+EXS	happen
+SUB	to
+EXS	know
+DIS	a
+CON	man
+REL	by
+DEF	the
+CON	name
+AND	of
+PER	Brown
+QUE	?
+
+QUE	How
+HAS	's
+PER	Tom
+HAS	's
+CON	cold
+QUE	?
+
+NOW	Have
+PRO	you
+EPS	made
+DIS	a
+CON	decision
+ALT	yet
+QUE	?
+
+NOW	Does
+DEF	the
+CON	soil
+CON	suit
+CON	vegetables
+QUE	?
+
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	miss
+PRO	you
+NIL	.
+
+DEF	The
+CON	Tatoeba Project
+NIL	,
+UNK	which
+POS	can
+EXS	be
+EXS	found
+IST	online
+REL	at
+CLO	tatoeba.org
+NIL	,
+NOW	is
+EXS	working
+REL	on
+EXS	creating
+DIS	a
+IST	large
+CON	database
+AND	of
+CON	example
+CON	sentences
+EXS	translated
+REL	into
+QUV	many
+CON	languages
+NIL	.
+
+QUE	How
+QUV	many
+CON	people
+EPS	came
+SUB	to
+DEF	the
+CON	zoo
+PST	yesterday
+QUE	?
+
+DIS	Sometimes
+NIL	,
+AND	as
+DEF	the
+GEO	Earth
+EQU	orbits
+DEF	the
+CON	Sun
+NIL	,
+PRO	it
+ENS	comes
+REL	between
+DEF	the
+CON	Sun
+AND	and
+DEF	the
+CON	Moon
+NIL	.
+SUB	When
+PRX	this
+ENS	happens
+NIL	,
+DEF	the
+GEO	Earth
+ENS	throws
+DIS	a
+IST	dark
+CON	shadow
+REL	across
+DEF	the
+CON	Moon
+NIL	.
+PRX	This
+NOW	is
+EXS	known
+AND	as
+DIS	an
+CON	eclipse
+AND	of
+DEF	the
+CON	Moon
+NIL	,
+DIS	or
+DIS	a
+IST	lunar
+CON	eclipse
+NIL	.
+
+PRO	You
+NOW	do
+NOT	n't
+EXS	intend
+EXS	going
+IST	there
+NIL	,
+NOW	do
+PRO	you
+QUE	?
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	understand
+QUE	how
+SUB	to
+EXS	use
+DIS	a
+CON	computer
+NIL	.
+
+UNK	There
+NOW	are
+CON	lots
+AND	of
+CON	things
+REL	to
+EXS	do
+NIL	.
+
+NOW	Do
+PRO	you
+ENS	know
+QUE	what
+CON	time
+SUB	that
+CON	accident
+EPS	happened
+QUE	?
+
+PER	Mary
+IST	just
+EPS	left
+NIL	.
+
+PRO	It
+PST	was
+NOT	n't
+EXS	supposed
+SUB	to
+EXS	be
+PRX	this
+CON	way
+NIL	.
+
+PRO	She
+EPS	threw
+HAS	her
+CON	arms
+AND	around
+HAS	her
+CON	husband
+NOW	's
+CON	neck
+NIL	.
+
+EXT	Having
+AND	everything
+NOW	is
+IST	sometimes
+NOT	nothing
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+AND	either
+AND	of
+DEF	the
+QUC	two
+ROL	sisters
+NIL	.
+
+DEF	The
+CON	pyramids
+AND	of
+GPE	Egypt
+NOW	are
+QUC	one
+AND	of
+DEF	the
+QUC	seven
+CON	wonders
+AND	of
+DEF	the
+CON	world
+NIL	.
+
+PER	Tom
+EPS	killed
+PER	John
+REL	in
+CON	self-defence
+NIL	.
+
+DEF	The
+CON	game
+EXS	excited
+CON	lots
+AND	of
+CON	people
+NIL	.
+
+DST	That
+NOW	does
+NOT	n't
+EXS	mean
+PRO	I
+NOW	'm
+NOT	not
+EXS	happy
+NIL	.
+
+PRX	This
+CON	wall
+NOW	feels
+EXS	cold
+NIL	.
+
+QUE	Who
+HAS	's
+HAS	your
+IST	favorite
+CON	philosopher
+QUE	?
+
+PRO	It
+NOW	's
+DIS	a
+IST	terrible
+CON	thing
+NIL	.
+
+PRO	I
+FUT	'd
+EXS	do
+PRO	it
+ALT	again
+NIL	.
+
+AND	About
+PRX	this
+CON	time
+FUT	tomorrow
+NIL	,
+PRO	we
+FUT	will
+EXS	be
+REL	in
+GPE	London
+NIL	.
+
+PRO	It
+NOW	's
+INT	very
+EXS	abused
+NIL	.
+
+PRO	I
+NOW	am
+EXS	uncertain
+SUB	whether
+PRX	this
+NOW	is
+DIS	a
+CON	thing
+AND	of
+CON	value
+NIL	.
+
+PRO	It
+FUT	'll
+EXS	be
+AND	over
+IST	soon
+NIL	.
+
+HAS	My
+CON	son
+IST	still
+ENS	believes
+REL	in
+PER	Santa Claus
+NIL	.
+
+HES	Skating
+EQU	is
+QUC	one
+AND	of
+HAS	my
+CON	hobbies
+NIL	.
+
+CON	Divide
+PRX	this
+CON	line
+CON	segment
+REL	into
+QUC	twenty
+IST	equal
+CON	parts
+NIL	.
+
+ORG	Was
+DEF	the
+CON	gate
+IST	wide
+EXS	open
+DIS	or
+IST	just
+DEC	ajar
+NIL	?
+
+EXS	Take
+CON	care
+NOT	not
+SUB	to
+EXS	throw
+IST	away
+PRX	this
+CON	chance
+NIL	.
+
+NOW	Now
+NIL	,
+EXS	wait
+IST	just
+DIS	a
+CON	minute
+NIL	.
+
+HES	Polyglots
+EQU	are
+QUC	much
+PRX	sexier
+NIL	.
+
+AND	Like
+DIS	a
+CON	bolt
+AND	of
+CON	lightning
+NIL	,
+DIS	a
+CON	haiku
+EPS	struck
+PRO	me
+PRX	this
+CON	morning
+NIL	,
+AND	then
+EXS	vanished
+NIL	.
+
+PRO	He
+EPS	got
+QUE	what
+PRO	he
+EPS	deserved
+NIL	.
+
+PRO	I
+NOW	feel
+EXS	like
+PRO	I
+ENS	know
+PRO	you
+NIL	.
+
+DEF	The
+CON	air
+NOW	feels
+EXS	cold
+PRX	this
+CON	morning
+COO	;
+CON	winter
+NOW	is
+EXG	approaching
+NIL	.
+
+HES	Auto-destruct
+CON	sequence
+IST	armed
+NIL	.
+
+NOW	Do
+PRO	you
+NOW	have
+DIS	a
+IST	better
+CON	solution
+QUE	?
+
+PRO	It
+NOW	's
+EXS	difficult
+SUB	to
+EXS	help
+CON	people
+AND	who
+NOW	do
+NOT	n't
+EXS	want
+HAS	your
+CON	help
+NIL	.
+
+NIL	"
+NOW	Do
+PRO	you
+NOW	have
+DIS	anything
+SUB	to
+EXS	do
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+NOT	not
+IST	really
+NIL	.
+NIL	"
+
+PRO	I
+NOW	have
+NOT	never
+EXS	felt
+MOR	prouder
+REL	in
+HAS	my
+IST	whole
+CON	life
+NIL	.
+
+PRO	He
+PST	was
+REL	in
+DEF	the
+CON	process
+AND	of
+EXG	making
+DIS	a
+IST	final
+CON	decision
+NIL	.
+
+PRO	We
+EPS	wanted
+SUB	to
+EXS	keep
+PRO	you
+EXS	informed
+NIL	.
+
+PER	Tom
+EPS	appreciated
+PER	Mary
+HAS	's
+CON	help
+NIL	.
+
+UNK	There
+NOW	is
+NOT	no
+CON	God
+AND	and
+NOT	no
+CON	Buddha
+NIL	.
+
+PRO	He
+NOW	is
+EXS	leaving
+GPE	Chicago
+FUT	tomorrow
+NIL	.
+
+EXS	Thank
+PRO	you
+REL	for
+DST	that
+CON	information
+NIL	.
+
+NOW	Have
+PRO	you
+EPS	heard
+SUB	that
+DIS	a
+IST	psychic
+CON	dwarf
+AND	just
+EPS	escaped
+REL	from
+CON	prison
+QUE	?
+UNK	There
+NOW	's
+DIS	a
+IST	small
+CON	medium
+REL	at
+IST	large
+NIL	!
+
+PER	Father
+NOW	has
+IST	recently
+EXS	come
+IST	back
+SUB	to
+GPE	Japan
+NIL	.
+
+PER	Tom
+NOW	is
+DIS	a
+CON	traitor
+NIL	.
+
+HAS	Our
+CON	visit
+PST	was
+IST	wonderful
+NIL	.
+
+NIL	"
+TIM	Christmas
+NOW	is
+NOT	not
+FUT	tomorrow
+NIL	,
+PRO	it
+NOW	's
+NOW	today
+NIL	!
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	it
+NOW	's
+FUT	tomorrow
+NIL	!
+NIL	"
+
+PRO	He
+NOW	's
+EXS	rich
+NIL	,
+IST	young
+AND	and
+IST	handsome
+NIL	.
+
+NIL	Re
+EXS	read
+DEF	the
+CON	article
+NIL	.
+
+PRO	He
+EPS	saved
+DEF	the
+CON	child
+REL	at
+DEF	the
+CON	risk
+AND	of
+HAS	his
+CON	life
+NIL	.
+
+ITJ	Well
+NIL	,
+SUB	that
+PST	was
+EXS	quick
+NIL	!
+
+QUE	Where
+NOW	is
+DEF	the
+GPE	Tokyo
+CON	patent
+CON	office
+QUE	?
+
+AND	Every
+CON	body
+NOT	except
+PER	Joe
+EPS	went
+SUB	to
+DEF	the
+CON	party
+NIL	.
+
+PER	Tom
+HAS	's
+IST	last
+CON	girlfriend
+PST	was
+PER	Mary
+NIL	.
+
+ROL	Mr
+PER	Wood
+PST	was
+EXS	like
+DIS	a
+ROL	father
+SUB	to
+PER	Tony
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	seem
+AND	particularly
+EXS	worried
+NIL	.
+
+PRO	He
+EPS	gave
+DIS	a
+IST	vague
+CON	answer
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	work
+REL	by
+CON	bicycle
+NIL	.
+
+POS	Can
+PRO	I
+NOW	have
+DIS	some
+CON	water
+QUE	?
+
+PRO	She
+NOW	's
+NOT	not
+MOR	more
+IST	beautiful
+MOR	than
+HAS	their
+ROL	mother
+NIL	.
+
+PRO	I
+PST	did
+NOT	n't
+EXS	tell
+DIS	anyone
+QUE	what
+CON	time
+PRO	I
+FUT	'd
+EXS	be
+EXS	arriving
+NIL	.
+
+PER	Tom
+NOW	does
+IST	own
+DIS	a
+CON	lot
+AND	of
+CON	cars
+NIL	.
+
+NOW	Is
+SUB	that
+QUE	why
+PRO	you
+NOW	're
+EXS	upset
+QUE	?
+
+NOW	Have
+PRO	you
+IST	ever
+EXS	cut
+HAS	your
+CON	finger
+REL	with
+DIS	a
+CON	knife
+QUE	?
+
+EXS	Let
+HAS	's
+IST	just
+EXS	talk
+NIL	.
+
+CON	Oceans
+NOW	are
+EXS	expected
+SUB	to
+EXS	rise
+REL	by
+QUC	50
+UOM	centimeters
+REL	by
+DEF	the
+CON	end
+AND	of
+DEF	the
+IST	next
+CON	century
+NIL	.
+
+PRO	I
+ENS	wish
+PRO	I
+POS	could
+EXS	take
+IST	back
+QUE	what
+PRO	I
+EPS	said
+NIL	.
+
+HAS	My
+CON	cram
+CON	school
+NOW	is
+DIS	a
+IST	long
+CON	way
+REL	from
+PRX	here
+NIL	.
+
+PRO	He
+NOW	's
+INT	almost
+IST	always
+REL	in
+DEF	the
+CON	hospital
+NIL	.
+
+EXS	Let
+HAS	's
+EXS	build
+DEF	the
+CON	country
+REL	with
+CON	actions
+AND	and
+CON	words
+NIL	.
+
+PRO	I
+ENS	wish
+SUB	to
+EXS	become
+DIS	a
+CON	dentist
+REL	in
+CON	future
+NIL	.
+
+UNK	There
+NOW	is
+DIS	a
+CON	bank
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	station
+NIL	.
+
+REL	In
+CON	case
+PRO	you
+ENS	go
+IST	out
+REL	before
+QUC	5
+NIL	,
+AND	just
+EXS	let
+PRO	me
+ENS	know
+NIL	.
+
+PER	Tom
+IST	carefully
+EPS	wiped
+HAS	his
+CON	fingerprints
+REL	off
+DEF	the
+CON	knife
+NIL	.
+
+HAS	Your
+CON	jokes
+NOW	are
+NOT	n't
+EXS	funny
+NIL	.
+
+NOW	Have
+PRO	you
+IST	ever
+EPS	told
+PRO	me
+DEF	the
+CON	truth
+QUE	?
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	speak
+HAS	your
+CON	language
+NIL	,
+SUB	because
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+NIL	.
+
+PRO	I
+ENS	like
+SUB	to
+EXS	study
+CON	languages
+NIL	.
+
+PER	Tom
+HAS	's
+DIS	a
+INT	very
+IST	practical
+NIL	,
+BUT	down-to-earth
+CON	person
+NIL	.
+
+NOW	Have
+PRO	you
+IST	ever
+EXS	seen
+PRX	this
+CON	movie
+REL	before
+QUE	?
+
+PER	Tom
+NOW	is
+IST	out
+AND	of
+HAS	his
+CON	mind
+NIL	,
+NOW	is
+NOT	n't
+PRO	he
+QUE	?
+
+DEF	The
+CON	word
+EPS	became
+CON	flesh
+AND	and
+EPS	lived
+REL	for
+DIS	a
+CON	while
+AND	among
+PRO	us
+NIL	.
+
+PRO	He
+PST	was
+EXS	making
+HAS	his
+CON	way
+AND	through
+DEF	the
+CON	crowd
+NIL	.
+
+ORG	Human
+NOW	remains
+PST	were
+EXS	found
+AND	during
+DEF	the
+CON	excavation
+NIL	.
+
+PER	Tom
+NOW	is
+INT	very
+IST	good
+REL	at
+CON	poker
+NIL	.
+
+IST	Hard
+CON	work
+IST	really
+NOW	does
+EXS	pay
+REL	off
+NIL	.
+
+DEF	The
+DEC	crescent
+CON	moon
+AND	and
+CON	star
+NOW	is
+DIS	a
+CON	symbol
+AND	of
+GEO	Islam
+NIL	.
+
+NIL	"
+PRO	I
+NOW	have
+DIS	a
+INT	very
+EXS	sweet
+CON	husband
+NIL	,
+NIL	"
+EPS	said
+PER	Mary
+NIL	.
+
+DEF	The
+CON	treaty
+EPS	made
+GEO	Texas
+IST	independent
+NIL	.
+
+PRO	I
+EPS	went
+SUB	to
+DEF	the
+CON	park
+AND	last
+DOW	Saturday
+NIL	.
+
+PRO	You
+POS	ca
+NOT	n't
+EXS	understand
+PRX	this
+CON	sentence
+NIL	,
+POS	can
+PRO	you
+QUE	?
+
+DEF	The
+IST	old
+CON	man
+NOW	is
+EXS	taking
+DIS	a
+CON	walk
+REL	in
+DEF	the
+CON	park
+NIL	.
+
+PRO	You
+FUT	'll
+EXT	have
+SUB	to
+EXS	do
+PRO	it
+NIL	,
+SUB	whether
+PRO	you
+ENS	like
+PRO	it
+DIS	or
+NOT	not
+NIL	.
+
+PRO	He
+NOW	drives
+PRO	me
+EXS	crazy
+NIL	.
+
+PRO	They
+EPS	caught
+QUC	five
+CON	butterflies
+NIL	.
+
+POS	May
+PRO	I
+EXS	ask
+QUE	why
+QUE	?
+
+PER	Tom
+NOW	is
+DIS	a
+IST	common
+CON	name
+NIL	.
+
+PER	Tom
+ENS	wakes
+IST	up
+IST	early
+AND	almost
+AND	every
+CON	morning
+NIL	.
+
+PRO	He
+IST	always
+NOW	keeps
+HAS	his
+CON	word
+NIL	.
+
+DEF	The
+CON	girl
+NOW	sees
+DEF	the
+CON	boy
+NIL	.
+
+ITJ	OK
+NIL	,
+SUB	that
+HAS	's
+IST	enough
+NIL	.
+
+PRO	They
+NOW	are
+REL	in
+DEF	the
+CON	hands
+AND	of
+DEF	the
+CON	gods
+NIL	.
+
+PRO	It
+NOW	's
+EXS	like
+DIS	some
+CON	people
+AND	like
+CON	ketchup
+AND	and
+ALT	other
+CON	people
+AND	like
+CON	mustard
+NIL	.
+
+PER	Tom
+NOW	is
+NOT	n't
+EXS	helpful
+NIL	.
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	remember
+QUE	what
+PRO	I
+EPS	ate
+IST	last
+CON	night
+NIL	.
+
+POS	May
+PRO	I
+EXS	turn
+REL	on
+DEF	the
+CON	television
+QUE	?
+
+PRO	He
+NOW	gives
+IST	plain
+NIL	,
+IST	simple
+CON	explanations
+NIL	.
+
+NOW	Are
+PRO	they
+IST	important
+SUB	to
+PRO	you
+QUE	?
+
+NOW	Do
+PRO	you
+ENS	like
+SUB	to
+EXS	travel
+REL	by
+REF	yourself
+QUE	?
+
+PRO	You
+REF	yourself
+NOW	have
+SUB	to
+EXS	finish
+PRO	it
+NIL	.
+
+PRO	I
+NOW	have
+EXS	lost
+HAS	my
+CON	pencil
+NIL	.
+
+NOW	Does
+PER	Tom
+NOW	look
+IST	nervous
+SUB	to
+PRO	you
+QUE	?
+
+PER	Tom
+NOW	enjoys
+EXS	reading
+CON	novels
+NIL	.
+
+NOW	Are
+PRO	you
+EXS	going
+SUB	to
+EXS	write
+SUB	to
+HAS	your
+ROL	father
+QUE	?
+
+TIM	Valentine's Day
+NOW	is
+REL	on
+DOW	Sunday
+PRX	this
+CON	year
+NIL	.
+
+AND	Had
+PRO	they
+EPS	left
+DIS	a
+IST	little
+AND	earlier
+NIL	,
+PRO	they
+FUT	would
+EXT	have
+EXS	avoided
+DEF	the
+CON	traffic
+CON	jam
+NIL	.
+
+PRO	I
+EXS	apologize
+REL	for
+EXG	showing
+IST	up
+CON	unannounced
+NIL	.
+
+PER	Tom
+ENS	seems
+INT	fairly
+IST	sure
+AND	of
+REF	himself
+NIL	.
+
+PRO	He
+PST	was
+EXS	lucky
+AND	and
+EPS	won
+DEF	the
+CON	competition
+NIL	.
+
+PER	Tom
+NOW	is
+NOT	n't
+IST	really
+EXS	listening
+NIL	.
+
+REL	After
+DIS	a
+IST	short
+CON	break
+DEF	the
+CON	show
+PST	was
+SUB	to
+EXS	be
+EXS	resumed
+NIL	...
+
+PRO	He
+EPS	ran
+REL	at
+DEF	the
+CON	sight
+AND	of
+DEF	the
+CON	policeman
+NIL	.
+
+HAS	His
+ROL	sister
+NOW	is
+NOT	not
+EXS	going
+SUB	to
+GEO	America
+NIL	.
+
+PRO	I
+EPS	met
+PER	Tony
+REL	on
+HAS	my
+CON	way
+CON	school
+PRX	this
+CON	morning
+NIL	.
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	believe
+PRO	I
+NOW	'm
+EXS	agreeing
+SUB	to
+PRX	this
+NIL	.
+
+ORG	War
+EXS	compelled
+CON	soldiers
+REL	to
+EXS	go
+SUB	to
+DEF	the
+CON	front
+NIL	.
+
+DST	That
+HAS	's
+IST	quite
+ALT	another
+CON	thing
+REL	to
+QUE	what
+PRO	you
+EPS	promised
+NIL	.
+
+PRO	He
+PST	had
+NOT	no
+CON	friend
+REL	to
+CON	help
+PRO	him
+NIL	.
+
+REL	For
+QUC	one
+CON	thing
+NIL	,
+PRO	I
+NOW	'm
+PRG	penniless
+NIL	;
+REL	for
+ALT	another
+NIL	,
+PRO	I
+NOW	do
+NOT	n't
+EXT	have
+DEF	the
+CON	time
+NIL	.
+
+PRO	You
+NOW	are
+NOT	n't
+IST	likely
+SUB	to
+EXS	find
+SUB	that
+CON	word
+REL	in
+DIS	a
+CON	dictionary
+SUB	that
+HAS	's
+PRX	this
+IST	small
+NIL	.
+
+PRX	These
+CON	cars
+PST	were
+EXS	imported
+REL	from
+GPE	Germany
+NIL	.
+
+NIL	"
+DIS	A
+NOW	is
+EXS	equivalent
+SUB	to
+UNK	B
+NIL	"
+NOW	has
+DEF	the
+IST	same
+CON	meaning
+AND	as
+NIL	"
+DIS	A
+NOW	is
+EXS	true
+IMP	if
+AND	and
+XCL	only
+IMP	if
+UNK	B
+NOW	is
+EXS	true
+NIL	"
+NIL	.
+
+QUE	Better
+EXS	leave
+PRO	it
+NIL	!
+
+NOW	Today
+PRO	I
+PST	had
+DIS	some
+PRI	kipper
+REL	for
+CON	breakfast
+NIL	.
+
+PRO	It
+ENS	seems
+SUB	that
+DEF	the
+CON	teacher
+EPS	mistook
+PRO	me
+REL	for
+HAS	my
+MOR	older
+CON	brother
+NIL	.
+
+PRO	She
+NOW	's
+DEF	the
+TOP	most
+IST	beautiful
+CON	woman
+NIL	.
+
+POS	Maybe
+PRO	we
+NEC	should
+EXS	ask
+PER	Tom
+IMP	if
+PRO	he
+ENS	wants
+PRX	this
+IST	old
+CON	piano
+NIL	.
+
+CON	Obviously
+PRO	he
+ENS	speaks
+GPO	English
+NIL	,
+BUT	but
+PRO	he
+POS	can
+IST	even
+EXS	speak
+GPO	Spanish
+NIL	.
+
+PRO	I
+ENS	know
+QUE	what
+PRO	he
+NOW	's
+EXS	intending
+SUB	to
+EXS	do
+NIL	.
+
+PER	Tom
+ENS	plans
+SUB	to
+EXS	put
+IST	new
+CON	locks
+REL	on
+AND	all
+DEF	the
+CON	doors
+NIL	.
+
+NOT	Never
+EXT	have
+PRO	I
+EXS	seen
+AND	such
+DIS	a
+CON	thing
+NIL	.
+
+PER	Tom
+NEC	should
+EXT	have
+EXS	paid
+CON	attention
+REL	to
+QUE	what
+PER	Mary
+EPS	said
+NIL	.
+
+PRO	I
+NOW	remember
+PRG	mentioning
+NIL	it
+QUC	once
+DIS	or
+QUC	twice
+NIL	.
+
+PRO	You
+NOT	never
+EXS	say
+QUE	what
+PRO	you
+IST	really
+EXS	think
+NIL	.
+
+CON	Soup
+PST	was
+EXS	boiling
+REL	in
+DIS	a
+IST	large
+DEC	cauldron
+NIL	.
+
+CON	Poverty
+NOW	is
+NOT	not
+DIS	an
+CON	accident
+NIL	.
+AND	Like
+CON	slavery
+AND	and
+CON	apartheid
+NIL	,
+PRO	it
+NOW	is
+IST	man-made
+AND	and
+POS	can
+EXS	be
+EXS	removed
+REL	by
+DEF	the
+CON	actions
+AND	of
+TIM	human beings
+NIL	.
+
+AND	Why
+NOW	is
+HAS	your
+GPO	French
+IST	so
+IST	good
+QUE	?
+
+NOW	Do
+PRO	you
+ENS	want
+PRO	him
+QUE	?
+
+REL	In
+DEF	the
+IST	past
+PRO	it
+PST	was
+EXS	thought
+DEF	the
+CON	world
+PST	was
+EXS	flat
+NIL	.
+
+PRO	They
+NOW	're
+EXS	looking
+REL	for
+PRO	it
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	going
+SUB	to
+EXS	do
+HAS	my
+TOP	best
+NIL	.
+
+HES	Clothes
+NIL	make
+CON	people
+NIL	,
+BUT	rags
+EXS	make
+REF	lice
+NIL	.
+
+AND	Would
+PRO	you
+ENS	like
+SUB	to
+EXS	live
+REL	in
+GPE	Mumbai
+QUE	?
+
+PER	Tom
+EPS	warned
+PRO	us
+SUB	that
+PRX	this
+POS	might
+EXS	happen
+NIL	.
+
+PRO	I
+PST	had
+EXS	got
+HAS	my
+CON	camera
+EXS	stolen
+REL	in
+DEF	the
+CON	train
+NIL	.
+
+QUE	What
+DIS	a
+CON	lot
+AND	of
+CON	books
+NIL	!
+NOW	Do
+PRO	they
+NOW	belong
+SUB	to
+DEF	the
+CON	university
+CON	library
+QUE	?
+
+EXS	Thank
+PRO	you
+REL	for
+EXG	helping
+PRO	me
+EXS	write
+HAS	my
+CON	resume
+NIL	.
+
+DIS	An
+IST	old
+CON	man
+EPS	told
+HAS	his
+CON	grandson
+NIL	,
+NIL	"
+HAS	My
+CON	son
+NIL	,
+UNK	there
+NOW	is
+DIS	a
+CON	battle
+REL	between
+QUC	two
+CON	wolves
+AND	inside
+PRO	us
+AND	all
+NIL	.
+QUC	One
+NOW	is
+IST	evil
+NIL	.
+PRO	It
+NOW	is
+CON	anger
+NIL	,
+CON	jealousy
+NIL	,
+CON	greed
+NIL	,
+CON	resentment
+NIL	,
+CON	inferiority
+NIL	,
+ENS	lies
+AND	and
+CON	ego
+NIL	.
+DEF	The
+ALT	other
+NOW	is
+IST	good
+NIL	.
+PRO	It
+NOW	is
+CON	joy
+NIL	,
+CON	peace
+NIL	,
+CON	love
+NIL	,
+NOW	hope
+NIL	,
+GEO	humility
+EQU	,
+CON	kindness
+NIL	,
+CON	empathy
+AND	and
+CON	truth
+NIL	.
+NIL	"
+DEF	The
+CON	boy
+EPS	thought
+AND	about
+PRO	it
+AND	and
+EPS	asked
+NIL	,
+NIL	"
+ROL	Grandfather
+NIL	,
+UNK	which
+CON	wolf
+ENS	wins
+QUE	?
+NIL	"
+DEF	The
+IST	old
+CON	man
+IST	quietly
+EPS	replied
+NIL	,
+NIL	"
+DEF	The
+CON	one
+PRO	you
+EXS	feed
+NIL	.
+NIL	"
+
+PRO	I
+NOW	'm
+NOT	not
+EXS	creative
+NIL	.
+
+PRO	She
+EPS	started
+REL	for
+GEO	Kyoto
+PST	yesterday
+NIL	.
+
+PRO	I
+NOW	think
+PER	Tom
+NOW	has
+EXS	come
+SUB	to
+EXS	make
+CON	trouble
+NIL	.
+
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+QUC	one
+REL	for
+PRO	me
+NOW	now
+NIL	.
+
+PER	Tom
+IST	certainly
+ENS	thinks
+PRO	he
+NOW	's
+EXS	clever
+NIL	.
+
+PRO	We
+NOW	think
+PRO	it
+NOW	is
+INT	very
+IST	dangerous
+SUB	that
+PRO	you
+NOW	're
+EXS	climbing
+DEF	the
+CON	mountain
+AND	alone
+NIL	.
+
+PRO	I
+EPS	gave
+HAS	my
+CON	hat
+DIS	a
+CON	brush
+NIL	.
+
+PER	Mom
+NOW	is
+INT	about
+REL	to
+EXS	enter
+DEF	the
+CON	bath
+NIL	.
+
+PRO	We
+FUT	'll
+EXS	be
+IST	there
+IST	anyway
+NIL	.
+
+PRO	You
+NOW	've
+EXS	put
+REL	on
+CON	weight
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?
+
+QUE	What
+HAS	's
+ORD	Glauke
+REL	's
+CON	role
+QUE	?
+
+PRO	I
+NOW	think
+SUB	that
+HAS	my
+GPO	German
+NOW	is
+IST	really
+IST	bad
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	sorry
+NIL	,
+PST	did
+PRO	you
+NOW	say
+DIS	something
+QUE	?
+
+DEF	The
+ROL	Colonel
+EPS	said
+DEF	the
+CON	situation
+NOW	is
+REL	under
+CON	control
+NIL	.
+
+PRO	You
+NEC	should
+EXS	try
+SUB	to
+EXS	enjoy
+REF	yourself
+NIL	.
+
+PER	Tom
+PST	did
+NOT	n't
+IST	even
+CON	offer
+PER	Mary
+DIS	a
+CON	cup
+AND	of
+CON	coffee
+NIL	.
+
+ITJ	Yes
+NIL	,
+ROL	Sir
+NIL	!
+
+PER	Albert Einstein
+HAS	's
+CON	theory
+AND	of
+GEO	relativity
+NOW	is
+DEF	the
+TOP	most
+IST	famous
+CON	formula
+REL	in
+DEF	the
+CON	world
+NIL	.
+
+AND	Why
+PST	did
+NOT	n't
+DIS	somebody
+EXS	stop
+HAS	her
+QUE	?
+
+PRO	You
+ENS	know
+SUB	where
+DEF	the
+CON	problem
+ENS	lies
+NIL	.
+
+PRO	I
+NOW	recall
+LES	less
+AND	and
+LES	less
+AND	of
+HAS	my
+CON	childhood
+NIL	.
+
+CON	Time
+ENS	flies
+SUB	when
+PRO	you
+NOW	're
+EXT	having
+EXS	fun
+NIL	.
+
+DEF	The
+CON	box
+NOW	is
+CON	leaning
+REL	to
+QUC	one
+CON	side
+NIL	.
+
+DST	That
+ENS	goes
+REL	for
+PRO	you
+ALT	too
+NIL	!
+
+DEF	The
+CON	boy
+EPS	fainted
+NIL	,
+BUT	but
+PRO	he
+EPS	came
+SUB	to
+SUB	when
+PRO	we
+EPS	threw
+CON	water
+REL	on
+HAS	his
+CON	face
+NIL	.
+
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+AND	anyone
+POS	can
+EXS	help
+NIL	.
+
+DEF	The
+CON	summer
+CON	goods
+NOW	are
+NOW	now
+REL	on
+CON	sale
+NIL	.
+
+DEF	The
+CON	bridge
+NOW	is
+EXS	designed
+SUB	to
+EXS	open
+REL	in
+DEF	the
+CON	middle
+NIL	.
+
+DST	That
+HAS	's
+DIS	a
+CON	lot
+NIL	!
+
+DEF	The
+CON	facts
+EPS	became
+EXS	known
+SUB	to
+AND	everyone
+NIL	.
+
+PRO	It
+NOW	's
+DIS	a
+IST	great
+CON	pity
+PRO	you
+NOW	do
+NOT	n't
+EXS	know
+PRO	him
+NIL	.
+
+EXS	Stay
+PRX	here
+REL	with
+PER	Tom
+NIL	.
+
+PRO	He
+ENS	says
+PRO	he
+FUT	will
+EXS	come
+REL	at
+QUC	once
+NIL	.
+
+PER	Kelly
+NOW	carries
+DEF	the
+CON	news
+CON	department
+NIL	.
+
+PRO	I
+PST	was
+INT	very
+IST	good
+NIL	.
+
+SUB	To
+EXS	understand
+DIS	someone
+NOW	is
+SUB	to
+EXS	love
+DIS	someone
+NIL	.
+
+UNK	There
+PST	was
+DIS	an
+CON	explanation
+NIL	.
+
+HAS	My
+CON	blood
+NOW	is
+NOT	no
+XCL	redder
+AND	than
+HAS	yours
+NIL	.
+
+PER	Tom
+PST	had
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+DEF	the
+CON	kidnapping
+NIL	.
+
+PER	Tom
+NEC	should
+EXS	be
+IST	there
+NIL	.
+
+PRX	These
+CON	computers
+NOW	use
+EXS	punch
+CON	cards
+NIL	.
+
+EXS	Did
+PRO	you
+NOW	remember
+SUB	to
+EXS	turn
+REL	off
+DEF	the
+CON	gas
+QUE	?
+
+PRO	He
+NOW	is
+DIS	a
+ROL	lawyer
+AND	and
+NEC	must
+EXS	be
+EXS	treated
+AND	as
+AND	such
+NIL	.
+
+QUE	Where
+NOW	is
+IST	nearest
+IST	American Express
+CON	office
+QUE	?
+
+PER	Tom
+ENS	wants
+PRO	you
+SUB	to
+EXS	take
+PRO	us
+SUB	to
+CON	school
+NIL	.
+
+HAS	My
+ROL	father
+NOW	is
+IST	always
+DEC	poking
+HAS	his
+CON	nose
+REL	into
+HAS	my
+IST	private
+CON	life
+NIL	.
+
+PER	Love
+NIL	,
+PER	Jon
+NIL	.
+
+DEF	The
+ROL	natives
+PST	were
+EXS	tormented
+REL	by
+DIS	a
+IST	long
+CON	spell
+AND	of
+IST	dry
+CON	weather
+NIL	.
+
+PER	Mary
+NOW	is
+DIS	a
+CON	waitress
+NIL	.
+
+NOW	Does
+PER	Tom
+IST	ever
+EXS	get
+IST	violent
+QUE	?
+
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+EXS	married
+SUB	to
+PER	Tom
+QUE	?
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	love
+PRO	you
+NIL	.
+
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	talk
+SUB	to
+PRO	you
+NIL	.
+
+PRO	I
+EPS	took
+DIS	a
+CON	taxi
+REL	to
+EXS	get
+IST	there
+REL	in
+CON	time
+NIL	.
+
+DEF	The
+CON	widow
+PST	had
+SUB	to
+EXS	get
+AND	through
+DIS	a
+CON	lot
+AND	of
+CON	hardships
+NIL	.
+
+UNK	There
+NOW	are
+INT	almost
+NOT	no
+CON	books
+NIL	.
+
+PRO	We
+NEC	should
+EXS	tell
+CON	children
+QUE	how
+SUB	to
+EXS	protect
+REF	themselves
+NIL	.
+
+QUE	Who
+PST	was
+PRO	I
+EXS	trying
+SUB	to
+EXS	fool
+SUB	when
+PRO	I
+EPS	cut
+SUB	that
+CON	slice
+AND	of
+CON	pizza
+REL	in
+CON	half
+QUE	?
+
+DEF	The
+CON	game
+FUT	will
+IST	probably
+EXS	be
+EXS	called
+REL	off
+NIL	.
+
+PRO	She
+PST	was
+CON	kind
+IST	enough
+SUB	to
+EXS	help
+PRO	me
+NIL	.
+
+AND	Anybody
+ENS	knows
+AND	who
+GEO	Florence
+NOW	is
+QUE	?
+
+PRO	I
+NOW	've
+EXS	forgotten
+HAS	your
+CON	number
+NIL	.
+
+PRO	He
+NOW	's
+XCL	only
+DIS	a
+IST	subordinate
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	remember
+DEF	the
+IST	last
+CON	time
+PRO	I
+EPS	saw
+PER	Mary
+NIL	.
+
+PRO	I
+EPS	bought
+DIS	a
+CON	guidebook
+REL	for
+DEF	the
+CON	museums
+AND	of
+GEO	Florence
+NIL	.
+
+PRO	I
+NEC	should
+EXT	've
+EXS	done
+PRX	this
+CON	months
+PST	ago
+NIL	.
+
+QUV	Many
+CON	people
+EPS	thought
+SUB	that
+DEF	the
+CON	war
+FUT	would
+EXS	be
+AND	over
+REL	by
+TIM	Christmas
+NIL	.
+
+EXS	Tell
+PER	Tom
+PRO	I
+FUT	wo
+NOT	n't
+EXS	be
+EXS	needing
+HAS	his
+CON	help
+NIL	.
+
+DEF	The
+ROL	enemy
+NOW	is
+EXS	weakened
+NIL	!
+
+PRO	I
+PST	did
+NOT	n't
+EXS	know
+PRO	you
+PST	were
+GPO	Canadian
+NIL	.
+
+QUE	Where
+HAS	's
+HAS	your
+CON	medication
+QUE	?
+
+PRO	They
+NOW	have
+DIS	a
+CON	kid
+NIL	.
+
+HES	Pocket
+End_Sent	calculators
+NOW	are
+AND	as
+IST	cheap
+SUB	to
+EXS	buy
+AND	as
+DIS	a
+CON	pair
+AND	of
+CON	socks
+NIL	,
+COO	and
+AND	as
+IST	essential
+SUB	to
+CON	thousands
+AND	of
+GPO	British
+CON	school
+CON	children
+AND	as
+DIS	a
+CON	pencil
+AND	and
+TIM	eraser
+NIL	.
+
+DST	That
+IST	strong
+CON	light
+CON	blinds
+PRO	me
+NIL	.
+
+PRO	We
+EXS	adjourned
+DEF	the
+CON	meeting
+REL	until
+DEF	the
+IST	following
+DOW	Friday
+NIL	.
+
+PRO	We
+NOW	've
+PFT	been
+CON	friends
+NIL	.
+
+QUV	Many
+CON	people
+AND	around
+DEF	the
+CON	world
+EXS	eat
+QUC	three
+CON	meals
+DIS	a
+CON	day
+NIL	.
+
+DEF	The
+DEC	cube
+CON	root
+AND	of
+QUV	twenty-seven
+NOW	is
+QUC	three
+NIL	.
+
+PER	Tom
+NOW	is
+INT	extremely
+EXS	gullible
+NIL	.
+
+PER	Tom
+HAS	's
+CON	meeting
+REL	with
+HAS	his
+CON	boss
+PST	was
+INT	very
+EXS	tense
+NIL	.
+
+PRO	You
+NOW	have
+EXS	come
+INT	too
+IST	soon
+NIL	.
+
+PER	Tom
+IST	actually
+PST	did
+SUB	that
+NIL	.
+
+DST	Those
+IST	selected
+FUT	will
+EXT	have
+SUB	to
+EXS	face
+IST	extensive
+IST	medical
+AND	and
+IST	psychological
+CON	tests
+NIL	.
+
+PRO	It
+ENS	says
+REL	in
+DEF	the
+CON	Bible
+NIL	,
+NIL	"
+ORG	Man
+NEC	shall
+NOT	not
+EXS	live
+REL	on
+CON	bread
+AND	alone
+NIL	.
+NIL	"
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	do
+QUC	much
+NIL	,
+NOW	does
+PRO	he
+QUE	?
+
+PER	Tom
+EPS	told
+DEF	the
+CON	men
+EXS	sitting
+AND	around
+DEF	the
+CON	table
+SUB	that
+PRO	he
+FUT	'd
+NOT	never
+EXS	played
+CON	poker
+REL	before
+NIL	.
+
+PRO	She
+NOW	's
+REL	on
+DEF	the
+CON	rolls
+NIL	.
+
+PRO	I
+ENS	want
+SUB	to
+EXS	see
+PRO	them
+NIL	!
+
+PER	Tom
+AND	and
+PRO	I
+NOW	are
+PRG	lifeguards
+NIL	.
+
+PER	Tom
+NOW	has
+NOT	never
+PFT	been
+CON	skiing
+NIL	.
+
+PRX	This
+NOW	is
+DEF	the
+CON	video
+PRO	I
+EPS	wanted
+SUB	to
+EXS	see
+NIL	.
+
+CON	Pick
+REL	on
+DIS	somebody
+HAS	your
+IST	own
+CON	size
+NIL	,
+PRO	you
+ENS	bully
+NIL	.
+
+PER	Will
+PRO	you
+NOW	look
+REL	after
+HAS	my
+CON	children
+REL	for
+PRO	me
+QUE	?
+
+NOW	Has
+PER	Tom
+IST	ever
+EPS	told
+PRO	you
+QUE	how
+PRO	he
+EPS	met
+PER	Mary
+QUE	?
+
+DEF	The
+CON	method
+PST	was
+INT	too
+EXS	expensive
+SUB	to
+EXS	be
+IST	practical
+NIL	.
+
+PRO	You
+NOW	've
+EXS	helped
+PRO	me
+DIS	a
+CON	lot
+NIL	.
+
+PRO	They
+EPS	got
+EXS	married
+QUC	three
+CON	months
+AND	later
+NIL	.
+
+PRO	He
+NOW	makes
+NOT	no
+CON	disguise
+AND	of
+HAS	his
+CON	feelings
+NIL	.
+
+PRO	It
+NOW	takes
+QUC	two
+REL	to
+CON	tango
+NIL	.
+
+PER	Chris
+PST	did
+NOT	n't
+EXT	have
+DIS	a
+CON	car
+REL	to
+EXS	drive
+NIL	.
+
+PRO	She
+IST	always
+ENS	wears
+CON	clothes
+AND	which
+NOW	are
+IST	out
+AND	of
+CON	fashion
+NIL	.
+
+HAS	His
+CON	scheme
+EPS	went
+IST	wrong
+REL	in
+DEF	the
+CON	end
+NIL	.
+
+PRO	He
+EPS	woke
+IST	up
+AND	of
+REF	himself
+NIL	.
+
+PRO	He
+NOW	has
+NOT	n't
+EXS	got
+AND	over
+DEF	the
+CON	death
+AND	of
+HAS	his
+CON	wife
+ALT	yet
+NIL	.
+
+PRO	We
+NOW	regard
+PRO	him
+AND	as
+DIS	an
+IST	important
+CON	man
+NIL	.
+
+PRO	She
+EPS	tried
+SUB	to
+EXS	persuade
+PRO	him
+SUB	to
+EXS	buy
+HAS	her
+DIS	a
+CON	pearl
+CON	necklace
+NIL	.
+
+ITJ	Please
+ENS	give
+PRO	me
+DIS	a
+PRI	cupful
+REL	of
+CON	rice
+NIL	.
+
+PRO	It
+NOW	's
+DIS	an
+IST	old
+CON	stereotype
+NIL	.
+
+HES	Newton's Second Law
+ENS	says
+AND	:
+NIL	"
+ORG	Force
+NOW	is
+IST	equal
+SUB	to
+DEF	the
+CON	change
+REL	in
+CON	momentum
+AND	per
+CON	change
+REL	in
+CON	time
+NIL	.
+REL	For
+DIS	a
+IST	constant
+CON	mass
+NIL	,
+CON	force
+AND	equals
+CON	mass
+CON	times
+CON	acceleration
+NIL	"
+NIL	.
+
+PER	Tom
+EPS	said
+NIL	goodnight
+SUB	to
+PER	Mary
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+NIL	,
+BUT	but
+PRO	I
+EPS	thought
+AND	about
+PRO	you
+AND	as
+IST	soon
+AND	as
+PRO	I
+EXS	read
+PRX	this
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	angry
+REL	with
+HAS	my
+CON	boyfriend
+REL	for
+EXG	forgetting
+AND	about
+TIM	Valentine's Day
+NIL	.
+
+PRO	I
+FUT	'd
+EXS	like
+SUB	to
+EXS	make
+DIS	a
+CON	call
+NIL	.
+
+PRO	He
+NOW	's
+HAS	your
+ROL	father
+NIL	.
+
+PRO	I
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+PRO	I
+POS	can
+EXS	do
+NIL	.
+
+REL	In
+CLO	1683
+DEF	the
+GPE	Turks
+EPS	attacked
+GEO	Vienna
+REL	for
+DEF	the
+IST	second
+CON	time
+NIL	.
+
+PER	Tom
+NEC	should
+EXT	have
+EXS	discussed
+DEF	the
+CON	matter
+REL	with
+PRO	me
+NIL	.
+
+NIL	"
+NOW	Is
+SUB	that
+DIS	a
+PRI	Ferrari
+IST	or
+DIS	a
+PRI	Lamborghini
+NIL	?
+NIL	"
+NIL	"
+PRO	It
+NOW	's
+DIS	a
+CON	Maserati
+NIL	.
+NIL	"
+
+DEF	The
+CON	fog
+EPS	prevented
+DEF	the
+CON	planes
+REL	from
+EXG	taking
+REL	off
+NIL	.
+
+DEF	The
+CON	newspaper
+EPS	called
+REL	for
+DEF	the
+CON	government
+REL	to
+EXS	stop
+CON	inflation
+NIL	.
+
+IMP	If
+PRO	you
+ENS	want
+SUB	to
+EXS	go
+NIL	,
+AND	then
+EXS	go
+NIL	.
+
+EXS	Put
+DIS	a
+CON	dash
+AND	of
+CON	brandy
+REL	in
+HAS	my
+CON	tea
+NIL	.
+
+PER	Dad
+HAS	's
+REL	in
+DIS	an
+IST	impatient
+CON	mood
+NOW	today
+NIL	.
+
+IMP	If
+PRO	I
+EXS	send
+PRO	it
+REL	by
+CON	air
+CON	mail
+NIL	,
+QUE	how
+QUV	much
+FUT	will
+PRO	it
+EPS	cost
+QUE	?
+
+CON	Tolerance
+NOW	becomes
+DIS	a
+CON	crime
+SUB	when
+EXS	applied
+SUB	to
+EXS	evil
+NIL	.
+
+PRO	I
+NOW	have
+EXS	had
+DIS	a
+IST	slight
+CON	fever
+REL	since
+PRX	this
+CON	morning
+NIL	.
+
+DIS	A
+CON	friend
+AND	of
+HAS	mine
+EPS	made
+PRO	it
+REL	with
+DIS	a
+CON	mask
+NIL	.
+
+EXS	Let
+HAS	's
+CON	hope
+PRO	she
+NOW	's
+PRG	all right
+NIL	.
+
+FUT	Must
+PRO	I
+EXS	clean
+DEF	the
+CON	room
+QUE	?
+
+AND	Unfortunately
+NIL	,
+PRX	these
+IST	beautiful
+CON	words
+NOW	are
+NOT	not
+HAS	mine
+NIL	.
+
+PRX	This
+CON	soup
+NOW	has
+NOT	no
+CON	substance
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	look
+AND	like
+HAS	his
+ROL	father
+NIL	.
+
+QUE	What
+CON	time
+NOW	is
+HAS	your
+CON	plane
+QUE	?
+
+PER	Tom
+HAS	's
+EXS	changed
+IST	so
+QUC	much
+AND	that
+PRO	I
+NOW	do
+NOT	n't
+EXS	think
+PRO	you
+FUT	'd
+EXS	recognize
+PRO	him
+IMP	if
+PRO	you
+EPS	saw
+PRO	him
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	proud
+SUB	that
+HAS	my
+ROL	father
+NOW	is
+DIS	a
+IST	good
+CON	cook
+NIL	.
+
+PRO	They
+EPS	searched
+DEF	the
+CON	house
+NIL	,
+BUT	but
+EPS	found
+NOT	no
+CON	clues
+NIL	.
+
+DEF	The
+CON	mother
+EPS	put
+DEF	the
+CON	children
+REL	to
+CON	bed
+NIL	.
+
+PER	Tom
+EPS	put
+REL	on
+HAS	his
+CON	gloves
+NIL	.
+
+PER	Tom
+ENS	wants
+PRO	us
+SUB	to
+EXS	go
+SUB	to
+CON	church
+NIL	.
+
+HES	Persistence
+FUT	will
+EXS	pay
+REL	off
+NIL	.
+
+QUE	How
+QUV	many
+PST	were
+UNK	there
+QUE	?
+
+QUE	What
+NOW	is
+DEF	the
+GPO	English
+REL	for
+NIL	"
+BUT	kaisha
+NIL	"
+QUE	?
+
+NOW	Do
+PRO	you
+EXS	see
+DEF	the
+CON	star
+QUE	?
+
+PRO	We
+NOW	use
+IST	really
+IST	state-of-the-art
+CON	equipment
+NIL	.
+
+NOW	Do
+PRO	you
+NOW	have
+DEF	the
+IST	same
+CON	thing
+REL	in
+DIS	a
+ALT	different
+CON	color
+QUE	?
+
+PRO	I
+EPS	thought
+PRO	it
+FUT	would
+EXS	make
+HAS	her
+CON	laugh
+NIL	.
+
+PRO	I
+EPS	saw
+PRO	him
+ALT	again
+NIL	.
+
+PRX	Here
+NOW	is
+DEF	the
+CON	map
+NIL	.
+
+NIL	"
+PRO	You
+NOT	never
+EXS	told
+PRO	me
+SUB	that
+NIL	!
+NIL	"
+NIL	"
+ITJ	Yes
+NIL	,
+PRO	I
+PST	did
+NIL	!
+NIL	"
+
+PRO	I
+EPS	worked
+SUB	as
+IMP	if
+UNK	there
+PST	were
+NOT	no
+FUT	tomorrow
+NIL	.
+
+HES	Insects
+EQU	are
+INT	very
+EXS	nutritious
+AND	and
+DIS	a
+IST	good
+CON	source
+AND	of
+CON	proteins
+NIL	.
+
+PRO	I
+EPS	called
+PRO	you
+SUB	because
+PRO	I
+ENS	need
+SUB	to
+EXS	ask
+PRO	you
+DIS	a
+CON	question
+NIL	.
+
+PER	Sumo
+CON	wrestling
+NOW	is
+DIS	a
+IST	traditional
+GPO	Japanese
+CON	sport
+NIL	.
+
+QUE	Where
+PST	did
+PRO	you
+EPS	put
+PRO	them
+QUE	?
+
+PRO	I
+EPS	met
+PRO	him
+REL	on
+DOW	Friday
+DEF	the
+CON	13th
+NIL	.
+
+HAS	My
+CON	watch
+ENS	says
+CLO	2:30
+NIL	.
+
+EXS	Tell
+PRO	us
+AND	about
+DST	that
+NIL	.
+
+PER	Tom
+EPS	tried
+SUB	to
+CTC	pry
+IST	open
+DEF	the
+CON	window
+REL	with
+DIS	a
+CON	screwdriver
+NIL	.
+
+QUE	How
+POS	can
+PRO	we
+EXS	prove
+SUB	that
+QUE	?
+
+HES	Delegates
+EPS	debated
+DEF	the
+CON	compromise
+REL	for
+QUV	many
+CON	days
+NIL	.
+
+DEF	The
+CON	dinner
+PST	was
+INT	very
+IST	good
+NIL	.
+
+PRO	It
+NOW	is
+DIS	a
+CON	pleasure
+REL	to
+CON	watch
+DIS	a
+CON	baseball game
+REL	on
+CON	TV
+NIL	.
+
+PRO	He
+EPS	broke
+HAS	his
+CON	promise
+NIL	,
+UNK	which
+PST	was
+DIS	a
+IST	big
+CON	mistake
+NIL	.
+
+PER	Tom
+NOW	has
+HAS	his
+ROL	father
+HAS	's
+CON	eyes
+NIL	.
+
+PER	Will
+PRO	you
+IST	please
+CON	call
+PRO	me
+PRX	this
+CON	evening
+QUE	?
+
+QUE	What
+HAS	's
+PER	Tom
+HAS	's
+CON	job
+QUE	?
+
+PRO	I
+NOW	am
+EXS	sorry
+REL	for
+PRO	you
+NIL	.
+
+NOW	Is
+UNK	there
+DIS	a
+CON	hospital
+REL	near
+PRX	here
+QUE	?
+
+NOT	No
+CON	man
+NOW	hath
+EXS	seen
+CON	God
+REL	at
+AND	any
+CON	time
+COO	;
+DEF	the
+XCL	only
+QUC	begotten
+CON	Son
+NIL	,
+UNK	which
+NOW	is
+REL	in
+DEF	the
+CON	bosom
+AND	of
+DEF	the
+PER	Father
+NIL	,
+PRO	he
+NOW	hath
+EXS	declared
+PRO	him
+NIL	.
+
+DEF	The
+IST	next
+CON	morning
+PRO	I
+EPS	woke
+SUB	to
+EXS	see
+DEF	the
+CON	fruit
+CON	trees
+REL	in
+CON	bloom
+AND	underneath
+HAS	my
+CON	window
+NIL	.
+
+PRX	This
+CON	sentence
+NOW	is
+INT	too
+IST	long
+NIL	.
+
+PER	George
+PST	was
+IST	always
+HAS	my
+IST	favorite
+NIL	.
+
+DST	That
+CON	sentence
+NOW	does
+NOT	n't
+EXS	exist
+REL	in
+AND	any
+CON	song
+NIL	.
+
+PRO	You
+NOW	have
+DIS	a
+IST	poor
+CON	memory
+NIL	!
+
+DIS	An
+IST	independent
+CON	advisor
+NOW	has
+PFT	been
+EXS	brought
+REL	in
+REL	to
+CLO	conciliate
+REL	between
+DEF	the
+CON	unions
+AND	and
+DEF	the
+CON	employer
+NIL	.
+
+PER	Tom
+AND	and
+PER	John
+EPS	pretended
+PRO	they
+PST	were
+CON	brothers
+NIL	.
+
+PRO	I
+EPS	stopped
+EXS	working
+REL	for
+PER	Tom
+QUC	three
+UOM	years
+PST	ago
+NIL	.
+
+PRO	I
+NOW	'm
+IST	really
+EXS	sorry
+AND	about
+PER	Tom
+NIL	.
+
+PRO	We
+EPS	saw
+DEF	the
+CON	car
+CON	start
+NIL	.
+
+PRO	You
+POS	ca
+NOT	n't
+EXS	let
+SUB	that
+EXS	come
+REL	between
+PRO	you
+AND	and
+PER	Tom
+NIL	.
+
+PRO	I
+ENS	hate
+PRX	these
+CON	words
+NIL	.
+
+PRX	This
+CON	kind
+AND	of
+CON	dog
+ENS	exists
+XCL	only
+REL	in
+GPE	Japan
+NIL	.
+
+QUE	What
+NOW	is
+NOW	today
+HAS	's
+CON	recommendation
+QUE	?
+
+EXS	Did
+PRO	you
+EXS	get
+REL	in
+CON	touch
+REL	with
+PRO	them
+QUE	?
+
+QUC	1
+NIL	)
+NOW	Today
+PRO	I
+NOW	'm
+EXG	eating
+DIS	an
+CON	apple
+NIL	.
+QUC	2
+NIL	)
+PST	Yesterday
+PRO	I
+EPS	ate
+DIS	an
+CON	apple
+NIL	.
+QUC	3
+NIL	)
+FUT	Tomorrow
+PRO	I
+FUT	'll
+EXS	eat
+DIS	an
+CON	apple
+NIL	.
+
+PER	Tom
+ENS	says
+PRO	he
+NOW	's
+EXT	having
+CON	trouble
+REL	with
+HAS	his
+CON	computer
+NIL	.
+
+PRO	I
+EXS	read
+DIS	a
+CON	book
+AND	as
+PRO	I
+EPS	walked
+NIL	.
+
+PRO	I
+EPS	met
+HAS	my
+ROL	teacher
+REL	on
+DEF	the
+CON	way
+REL	to
+DEF	the
+CON	railway
+CON	station
+NIL	.
+
+PRO	She
+EPS	won
+DIS	a
+CON	medal
+SUB	when
+PRO	she
+PST	was
+IST	just
+QUC	15
+UOM	years
+DEG	old
+NIL	.
+
+PRO	He
+EPS	went
+SUB	to
+DEF	the
+CON	store
+AND	just
+AND	as
+PRO	it
+PST	was
+EXS	going
+SUB	to
+EXS	close
+NIL	.
+
+DEF	The
+DEC	buds
+EPS	began
+SUB	to
+EXS	open
+NIL	.
+
+UNK	There
+NOW	are
+QUV	many
+CON	islands
+REL	in
+GEO	Greece
+NIL	.
+
+QUE	How
+IST	long
+NOW	have
+PRO	you
+PFT	been
+EXS	living
+REL	in
+GPE	Boston
+QUE	?
+
+CON	Days
+EXS	go
+REL	by
+AND	and
+IST	still
+NOT	no
+EXS	sign
+AND	of
+PER	Tom
+NIL	.
+
+PRO	You
+NOW	're
+PRG	braver
+NOT	than
+PRO	I
+NOW	am
+NIL	.
+
+PRO	It
+NOW	is
+DIS	a
+CON	fact
+SUB	that
+EXS	smoking
+NOW	is
+IST	bad
+REL	for
+CON	health
+NIL	.
+
+HAS	Her
+ROL	mother
+NOW	is
+DIS	a
+ROL	pornstar
+NIL	.
+
+IMP	If
+PRO	it
+NOW	is
+NOT	n't
+EXS	broken
+NIL	,
+NOW	do
+NOT	n't
+EXS	fix
+PRO	it
+NIL	.
+
+PER	Tom
+NOW	is
+DIS	a
+CON	refugee
+NIL	.
+
+PER	Tom
+NIL	,
+PER	Mary
+AND	and
+PER	John
+EPS	spent
+DOW	Saturday
+EXS	practicing
+REL	for
+DEF	the
+CON	talent
+NOW	show
+NIL	.
+
+PRX	Here
+NOW	's
+SUB	to
+PRO	you
+NIL	!
+
+REL	In
+DEF	the
+GPO	German
+CON	language
+NIL	there
+NOW	are
+QUV	many
+IST	long
+CON	words
+NIL	.
+
+PRO	They
+AND	both
+AND	like
+DEF	the
+IST	same
+CON	girl
+NIL	.
+
+DIS	Someone
+NEC	should
+EXS	talk
+CON	turkey
+REL	to
+PRO	him
+NIL	.
+
+AND	Instead
+AND	of
+EXG	waiting
+REL	for
+PER	Tom
+NIL	,
+EXS	let
+HAS	's
+EXS	eat
+NOW	now
+REL	before
+DEF	the
+CON	food
+NOW	gets
+EXS	cold
+NIL	.
+
+PRO	It
+NOW	is
+EXS	said
+SUB	that
+PRO	he
+ENS	knows
+DEF	the
+CON	secret
+NIL	.
+
+NOW	Do
+PRO	I
+NOW	have
+SUB	to
+EXS	make
+DIS	a
+CON	speech
+QUE	?
+
+QUE	What
+PER	Tom
+IST	really
+EPS	wanted
+PST	was
+DIS	a
+IST	new
+CON	guitar
+NIL	.
+
+PRO	He
+NOW	has
+IST	just
+EPS	arrived
+PRX	here
+NIL	.
+
+PRO	He
+EPS	took
+HAS	her
+IST	out
+REL	for
+DIS	a
+CON	drive
+NIL	.
+
+QUE	How
+HAS	's
+DEF	the
+CON	dog
+QUE	?
+
+DEF	The
+CON	policeman
+EPS	seized
+DEF	the
+CON	boy
+REL	by
+DEF	the
+CON	arm
+NIL	.
+
+PRO	I
+NOW	am
+INT	very
+EXS	tired
+REL	from
+CON	swimming
+NIL	.
+
+PRO	We
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+DEF	the
+IST	next
+CON	day
+FUT	will
+EXS	bring
+NIL	.
+
+PRO	I
+EPS	thought
+PRO	she
+PST	was
+INT	pretty
+NIL	.
+
+PER	Tom
+PST	had
+SUB	to
+EXS	explain
+DEF	the
+CON	joke
+REL	to
+PER	Mary
+NIL	.
+
+NOT	Nothing
+NOW	is
+INT	so
+IST	valuable
+AND	as
+CON	friendship
+NIL	.
+
+PRO	I
+NOT	never
+EPS	drank
+AND	any
+CON	thing
+COO	but
+EPS	soda
+NIL	.
+
+PER	Tom
+POS	may
+EXS	be
+EXS	wrong
+NIL	.
+
+PRO	You
+POS	can
+EXS	take
+DIS	or
+EXS	leave
+HAS	my
+CON	suggestions
+NIL	,
+AND	as
+PRO	you
+ENS	wish
+NIL	.
+PRO	It
+NOW	's
+NOT	no
+CON	skin
+REL	off
+HAS	my
+CON	nose
+NIL	.
+
+PRX	This
+NOW	is
+IST	exactly
+QUE	what
+PRO	I
+EPS	wanted
+SUB	to
+EXS	see
+NIL	.
+
+PRO	I
+ENS	want
+SUB	to
+EXS	be
+AND	as
+IST	rich
+AND	as
+PER	Tom
+NIL	.
+
+HES	Grennan
+EPS	found
+DEF	the
+CON	translation
+AND	of
+TIM	Leopardi
+INT	very
+IST	difficult
+NIL	.
+
+HAS	His
+CON	acts
+AND	of
+CON	courage
+EPS	brought
+PRO	him
+CON	glory
+NIL	.
+
+AND	Why
+NOW	do
+NOT	n't
+PRO	you
+IST	just
+EXS	ask
+PRO	them
+QUE	?
+
+HAS	My
+CON	opinion
+NOW	is
+DEF	the
+CON	one
+SUB	that
+CON	counts
+NIL	!
+
+PRO	I
+EPS	met
+HAS	my
+CON	friend
+REL	on
+DEF	the
+CON	street
+NIL	.
+
+PRO	I
+FUT	'll
+NOT	never
+EXS	see
+PRO	him
+ALT	again
+AND	as
+IST	long
+AND	as
+PRO	I
+ENS	live
+NIL	.
+
+PER	Will
+PRO	you
+EXS	stop
+EXS	answering
+HAS	my
+CON	questions
+REL	with
+DIS	a
+CON	question
+QUE	?
+
+PRO	I
+NOT	never
+EXS	thought
+PRO	it
+FUT	'd
+EXS	be
+PRX	this
+IST	hard
+SUB	to
+EXS	create
+DIS	an
+CON	iPad
+CON	app
+NIL	.
+
+PRX	This
+NOW	is
+NOT	n't
+DEF	the
+IST	first
+CON	time
+PRO	I
+NOW	've
+EXS	ridden
+DIS	a
+CON	bicycle
+NIL	.
+
+PRO	We
+NOW	are
+EXS	living
+REL	in
+DEF	the
+IST	atomic
+CON	age
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	have
+AND	any
+CON	secrets
+REL	from
+PRO	you
+NIL	.
+
+HAS	My
+CON	income
+ENS	falls
+IST	short
+AND	of
+HAS	my
+CON	expenditure
+REL	by
+QUC	five hundred
+UOM	pounds
+NIL	.
+
+PER	Tom
+HAS	's
+CON	eyes
+EPS	lit
+IST	up
+SUB	when
+PER	Mary
+EPS	walked
+REL	into
+DEF	the
+CON	room
+NIL	.
+
+HES	Friendship
+EQU	is
+DEF	the
+TOP	most
+IST	precious
+AND	of
+AND	all
+NIL	.
+
+PRO	They
+NOW	think
+PRO	it
+PST	was
+CON	arson
+NIL	.
+
+PRO	It
+NOW	's
+EXS	possible
+SUB	that
+PRO	we
+FUT	wo
+NOT	n't
+EXS	be
+IST	able
+SUB	to
+EXS	eat
+CON	tuna
+REL	in
+DEF	the
+CON	future
+NIL	.
+
+PRO	She
+NOW	has
+DIS	a
+IST	cold
+AND	and
+NOW	is
+EXS	absent
+REL	from
+CON	school
+NIL	.
+
+PRO	I
+NOW	have
+SUB	to
+EXS	warn
+PRO	him
+NIL	.
+
+QUE	How
+NOW	is
+DEF	the
+CON	climate
+REL	in
+HAS	your
+CON	country
+QUE	?
+
+PRO	She
+EPS	removed
+HAS	her
+IST	wet
+CON	socks
+NIL	.
+
+PER	Tom
+PST	reminded
+PER	Mary
+SUB	to
+EXS	go
+SUB	to
+DEF	the
+CON	bank
+REL	before
+CLO	5:00
+NIL	.
+
+PRO	He
+NOW	has
+EXS	perfect
+CON	teeth
+NIL	.
+
+PRO	I
+POS	can
+EXS	tell
+HAS	my
+TOP	best
+CON	friend
+AND	anything
+NIL	.
+
+HAS	His
+CON	job
+NOW	has
+SUB	to
+EXS	do
+REL	with
+CON	printing
+NIL	.
+
+REL	In
+DST	those
+CON	days
+NIL	,
+UNK	there
+PST	were
+NOT	no
+CON	radios
+NIL	.
+
+EXS	Thank
+PRO	you
+REL	from
+DEF	the
+CON	bottom
+AND	of
+HAS	my
+CON	heart
+NIL	.
+
+EXS	Call
+PRO	us
+SUB	when
+PRO	you
+EXS	get
+IST	there
+NIL	.
+
+PER	Tom
+ENS	laughs
+HAP	a lot
+NIL	.
+
+ITJ	Oh
+NIL	,
+DEF	the
+CON	train
+NOW	is
+EXS	being
+EXS	delayed
+NIL	.
+
+PER	Tom
+PST	had
+DIS	a
+IST	bright
+CON	idea
+NIL	.
+
+EXS	Keep
+DEF	the
+CON	door
+EPS	locked
+NIL	.
+
+PRO	I
+EPS	thought
+PRO	we
+PST	were
+EXS	going
+IST	out
+SUB	to
+CON	dinner
+NIL	.
+
+PRO	I
+PST	was
+EXS	born
+AND	during
+DEF	the
+CON	Cold War
+NIL	.
+
+PRO	It
+ENS	seems
+SUB	to
+PRO	me
+SUB	that
+PRO	he
+ENS	likes
+CON	music
+NIL	.
+
+PRO	She
+NOW	is
+QUC	much
+MOR	younger
+MOR	than
+PER	Tom
+NIL	.
+
+PER	Tom
+AND	and
+PER	Mary
+EPS	agreed
+REL	on
+AND	everything
+NIL	.
+
+PER	Tom
+PST	did
+NOT	n't
+EXS	write
+PER	Mary
+IST	back
+NIL	.
+
+DST	That
+HAS	's
+HAS	my
+CON	theory
+NIL	.
+
+PRO	She
+NOW	looks
+IST	down
+REL	on
+PRO	me
+REL	for
+NOT	not
+EXS	having
+DIS	a
+CON	sense
+AND	of
+CON	humor
+NIL	.
+
+PRO	She
+POS	could
+NOT	n't
+EXS	keep
+REL	from
+EXG	crying
+NIL	.
+
+NIL	"
+CON	Where
+NOW	are
+HAS	my
+CON	keys
+QUE	?
+NIL	"
+NIL	"
+PRO	They
+NOW	are
+REL	in
+HAS	my
+CON	handbag
+NIL	.
+NIL	"
+
+PRO	It
+PST	was
+NOT	n't
+EXS	easy
+REL	for
+PRO	him
+SUB	to
+EXS	keep
+HAS	his
+CON	promise
+NIL	.
+
+UNK	There
+EPS	lived
+DIS	a
+IST	pretty
+CON	girl
+REL	in
+DEF	the
+CON	village
+NIL	.
+
+PRO	You
+EPS	lied
+SUB	to
+PRO	us
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?
+
+DEF	The
+IST	new
+CON	document
+CON	system
+NOW	is
+IST	worth
+UOM	$
+QUC	4,000
+NIL	.
+
+DIS	A
+CON	lot
+AND	of
+IST	back
+CON	problems
+POS	can
+EXS	be
+EXS	attributed
+SUB	to
+EXS	poor
+EXS	sitting
+CON	posture
+NIL	.
+
+POS	Can
+PRO	you
+EXS	help
+PER	Tom
+QUE	?
+
+PRO	It
+NOW	's
+IST	more
+CON	fun
+REL	to
+EXS	play
+CON	baseball
+AND	than
+SUB	to
+EXS	watch
+PRO	it
+NIL	.
+
+PER	Tom
+EPS	got
+REL	off
+REL	at
+DEF	the
+IST	next
+CON	bus
+EXS	stop
+NIL	.
+
+QUE	What
+DIS	a
+CON	jungle
+NIL	!
+
+REL	At
+CON	home
+NIL	,
+PRO	we
+XCL	only
+EXS	speak
+GPO	French
+NIL	.
+
+PRO	We
+NOW	're
+REL	on
+DEF	the
+IST	same
+CON	side
+NIL	,
+PER	Tom
+NIL	.
+
+PRO	I
+NOW	'm
+IST	really
+IST	glad
+PRO	you
+NOW	're
+PRX	here
+NIL	.
+
+PRO	You
+NOW	've
+PFT	been
+AND	through
+DIS	a
+CON	lot
+NIL	,
+NOW	have
+NOT	n't
+PRO	you
+QUE	?
+
+AND	As
+IST	far
+AND	as
+PRO	I
+NOW	am
+EXS	concerned
+NIL	,
+PRO	I
+NOW	have
+NOT	no
+CON	objection
+REL	to
+DEF	the
+CON	plan
+NIL	.
+
+PRO	I
+NOW	wonder
+AND	who
+DEF	the
+CON	people
+PRO	I
+EPS	saw
+HAS	her
+REL	with
+PST	were
+NIL	.
+
+PRO	I
+NOW	'm
+NOT	not
+IST	sure
+IMP	if
+DST	that
+HAS	's
+DIS	a
+IST	good
+CON	idea
+NIL	.
+
+PER	Tom
+NOW	is
+NOT	not
+EXS	playing
+REL	by
+DEF	the
+CON	rules
+NIL	.
+
+UNK	Internet
+NOW	is
+INT	very
+EXS	slow
+NIL	.
+
+PRO	She
+NOW	is
+NOW	now
+REL	on
+CON	vacation
+NIL	.
+
+PRO	Whoever
+NOW	is
+EXS	born
+REL	in
+GEO	Austria
+EQU	,
+NOW	is
+DIS	an
+GPO	Austrian
+NIL	.
+
+PER	Tom
+EPS	arrived
+INT	too
+IST	early
+NIL	.
+
+PER	Tom
+NOW	has
+EXS	fallen
+REL	in
+CON	love
+REL	with
+PER	Mary
+NIL	.
+
+PRX	This
+CON	time
+NIL	,
+PRO	I
+IST	really
+EXS	mean
+PRO	it
+NIL	.
+
+PRO	He
+NOT	never
+ENS	speaks
+AND	of
+DEF	the
+CON	accident
+NIL	.
+
+DEF	The
+CON	rooster
+ENS	crows
+REL	at
+CON	sunrise
+NIL	.
+
+PRO	We
+FUT	'd
+IST	better
+CON	hurry
+NIL	.
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+IST	late
+REL	for
+DEF	the
+CON	concert
+NIL	.
+
+PRO	They
+EPS	relaxed
+REL	in
+CON	front
+AND	of
+DEF	the
+CON	fire
+NIL	.
+
+AND	Could
+PRO	you
+NOT	not
+EXS	do
+SUB	that
+PRX	here
+QUE	?
+
+NOW	Do
+PRO	you
+IST	really
+ENS	want
+SUB	to
+EXS	know
+QUE	what
+EPS	happened
+QUE	?
+
+PRX	This
+CON	woman
+NEC	definitely
+ENS	knows
+SUB	that
+PRO	she
+NOW	does
+NOT	n't
+EXS	know
+QUE	what
+PRO	she
+ENS	wants
+NIL	.
+
+PRO	I
+FUT	'll
+EXS	do
+PRO	it
+EMP	myself
+NIL	.
+
+QUE	How
+QUV	many
+CON	weeks
+NOW	are
+UNK	there
+REL	in
+DIS	a
+CON	month
+QUE	?
+
+PRO	I
+NOW	am
+EXS	calling
+REL	from
+GPE	Germany
+NIL	.
+
+PER	Joe
+PST	was
+EXS	pleased
+REL	at
+DEF	the
+CON	thought
+AND	of
+EXS	going
+SUB	to
+GPE	New York
+NIL	.
+
+NOW	Is
+GPE	Boston
+IST	far
+IST	away
+QUE	?
+
+QUE	What
+HAS	's
+DEF	the
+IST	next
+CON	step
+REL	to
+EXS	be
+EXS	done
+QUE	?
+
+PER	Tom
+EPS	dreamed
+AND	of
+HAS	her
+IST	often
+NIL	.
+
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	give
+PRO	him
+DIS	a
+CON	present
+REL	for
+HAS	his
+CON	birthday
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	seem
+SUB	to
+EXS	have
+AND	any
+CON	self-confidence
+NIL	.
+
+NOW	Are
+PRO	you
+EXS	interested
+REL	in
+CON	art
+QUE	?
+
+HES	Seize
+EQU	the
+CON	moments
+AND	of
+CON	happiness
+NIL	,
+CON	love
+AND	and
+EXS	be
+EXS	loved
+NIL	!
+DST	That
+NOW	is
+DEF	the
+XCL	only
+CON	reality
+REL	in
+DEF	the
+CON	world
+NIL	,
+AND	all
+AND	else
+NOW	is
+CON	folly
+NIL	.
+PRO	It
+NOW	is
+DEF	the
+CON	one
+CON	thing
+PRO	we
+NOW	are
+EXS	interested
+REL	in
+PRX	here
+NIL	.
+
+PRO	They
+ENS	want
+SUB	to
+EXS	change
+DEF	the
+CON	law
+NIL	.
+
+PRO	It
+NOW	's
+IST	strange
+SUB	that
+PRO	she
+EPS	came
+CON	home
+AND	so
+IST	late
+REL	at
+CON	night
+NIL	.
+
+QUE	How
+IST	long
+FUT	would
+PRO	it
+EXS	take
+SUB	to
+EXS	swim
+REL	across
+DEF	the
+CON	river
+QUE	?
+
+PRO	I
+PST	was
+IST	distressed
+SUB	to
+EXS	see
+PER	Tom
+AND	so
+NOT	un
+EXS	happy
+NIL	.
+
+PRO	We
+FUT	'll
+EXT	have
+SUB	to
+EXS	come
+IST	back
+NIL	.
+
+SUB	When
+EXS	do
+PRO	you
+EXS	work
+QUE	?
+
+PRX	This
+NOW	is
+INT	too
+IST	good
+SUB	to
+EXS	be
+EXS	true
+NIL	.
+
+PRO	We
+NOW	do
+NOT	n't
+EXT	have
+DIS	a
+IST	whole
+CON	lot
+AND	of
+CON	time
+NIL	.
+
+PRO	She
+ENS	works
+SUB	as
+DIS	an
+ROL	assistant
+SUB	to
+DEF	the
+CON	manager
+NIL	.
+
+QUE	What
+NOW	are
+PRO	you
+EXS	trying
+SUB	to
+EXS	do
+QUE	?
+
+GPE	Turkey
+PST	did
+NOT	not
+EXS	qualify
+REL	in
+PRX	this
+CON	year
+NOW	's
+CON	World Cup
+NIL	.
+
+UNK	There
+PST	was
+DIS	a
+CON	light
+CON	rain
+PST	yesterday
+NIL	.
+
+DIS	A
+CON	skull
+EPS	shaped
+CON	asteroid
+EPS	flew
+REL	by
+DEF	the
+GEO	Earth
+REL	on
+HAP	Halloween
+NIL	.
+
+PRO	I
+ENS	know
+QUE	what
+SUB	that
+CON	piece
+AND	of
+CON	paper
+NOW	is
+NIL	.
+
+PRO	I
+NOW	am
+EXS	hearing
+DIS	a
+CON	voice
+NIL	.
+
+PRO	You
+EPS	said
+PRO	she
+PST	was
+CON	kind
+AND	and
+IST	so
+PRO	she
+NOW	is
+NIL	.
+
+PRO	You
+POS	could
+EXS	learn
+DIS	a
+CON	lot
+REL	from
+PRO	them
+IMP	if
+PRO	you
+FUT	'd
+XCL	only
+EXS	listen
+NIL	.
+
+QUE	What
+HAS	's
+DEF	the
+IST	thirteenth
+CON	month
+QUE	?
+
+PER	Mary
+EPS	broke
+IST	up
+REL	with
+PRO	me
+NIL	.
+
+PRX	This
+CON	glass
+NOW	is
+IST	dirty
+NIL	.
+
+PRO	I
+NOW	've
+EXS	looked
+IST	everywhere
+NIL	.
+
+PRO	I
+NOW	have
+DIS	a
+IST	great
+CON	deal
+REL	to
+EXS	do
+NIL	.
+
+PRO	We
+EPS	saw
+HAS	her
+REL	on
+DEF	the
+CON	beach
+NIL	.
+
+HAS	My
+CON	children
+NOW	have
+SUB	to
+EXS	stay
+IST	indoors
+REL	after
+IST	dark
+NIL	.
+
+AND	Why
+NOW	are
+PRO	you
+EXS	shouting
+QUE	?
+
+QUE	Where
+PST	did
+PRO	we
+EXS	leave
+REL	off
+IST	last
+CON	time
+QUE	?
+
+PRO	It
+NOW	is
+SUB	to
+HAS	his
+CON	advantage
+NIL	.
+
+PRO	They
+NOW	're
+AND	all
+HAS	mine
+NIL	.
+
+PRO	I
+NOW	feel
+DIS	a
+IST	good
+CON	cry
+EXS	coming
+REL	on
+NIL	.
+
+PRO	I
+PST	was
+NOT	n't
+IST	quite
+IST	sure
+QUE	what
+SUB	to
+EXS	say
+NIL	.
+
+POS	May
+PRO	I
+EXS	take
+HAS	your
+CON	order
+QUE	?
+
+PER	Tom
+EPS	accepted
+DEF	the
+CON	invitation
+NIL	.
+
+ORG	College
+CON	graduates
+NOW	earn
+REL	on
+IST	average
+AND	over
+QUC	fifty
+UOM	per cent
+MOR	more
+MOR	than
+DST	those
+REL	with
+XCL	only
+DIS	a
+IST	high-school
+CON	degree
+NIL	.
+
+EXS	Let
+HAS	's
+EXS	take
+DEF	the
+DEC	Intercity-Express
+NIL	.
+
+PRO	You
+EPS	made
+DEF	the
+IST	same
+CON	mistake
+AND	as
+IST	last
+CON	time
+NIL	.
+
+EXS	Come
+SUB	to
+GEO	Romania
+ALT	again
+NIL	.
+
+CON	Children
+NOW	do
+NOT	n't
+EXS	grow
+IST	up
+EXS	speaking
+REF	pidgin
+CON	languages
+COO	;
+PRO	they
+EXS	turn
+PRO	them
+REL	into
+IST	real
+CON	languages
+AND	:
+TIM	creoles
+NIL	.
+
+QUE	What
+NOW	do
+PRO	you
+IST	usually
+EXS	eat
+REL	with
+CON	red wine
+QUE	?
+
+DEF	Being
+IST	sick
+NIL	,
+PRO	I
+PST	had
+SUB	to
+EXS	stay
+CON	home
+NIL	.
+
+PRO	We
+NOW	've
+EXS	received
+QUC	thirteen
+CON	complaints
+AND	so
+IST	far
+PRX	this
+CON	week
+NIL	.
+
+PER	Tom
+EPS	asked
+PER	Mary
+NOT	not
+SUB	to
+EXS	wake
+PRO	him
+IST	up
+REL	before
+CLO	seven
+NIL	.
+
+PRO	She
+IST	really
+NOW	looks
+INT	pretty
+NIL	.
+
+PER	Tom
+IST	usually
+NOW	shows
+IST	up
+REL	on
+CON	time
+NIL	.
+
+PRO	He
+POS	could
+EXS	swim
+IST	fast
+IST	enough
+SUB	to
+EXS	pass
+DEF	the
+CON	test
+NIL	.
+
+PRO	I
+ENS	know
+DEF	the
+ROL	artist
+AND	who
+EPS	painted
+PRX	this
+CON	picture
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	why
+PRO	I
+NOW	'm
+PRX	here
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	know
+QUE	what
+SUB	to
+EXS	do
+FUT	tomorrow
+NIL	.
+
+HAS	My
+ROL	father
+PST	was
+EXS	busy
+NIL	.
+
+PRO	I
+ENS	need
+DIS	someone
+SUB	to
+EXS	talk
+SUB	to
+NIL	.
+
+QUV	Many
+CON	kiss
+DEF	the
+CON	hand
+PRO	they
+ENS	wish
+SUB	to
+EXS	cut
+REL	off
+NIL	.
+
+NOT	Not
+SUB	to
+EXS	advance
+NOW	is
+SUB	to
+EXS	go
+IST	back
+NIL	.
+
+PRO	He
+NOW	's
+IST	ready
+SUB	to
+EXS	go
+NIL	.
+
+HAS	My
+ROL	father
+NOW	does
+NOT	nothing
+BUT	but
+CON	watch
+CON	TV
+REL	on
+DOW	Sundays
+NIL	.
+
+DEF	The
+CON	baby
+EPS	kept
+EXS	crying
+AND	all
+CON	night
+NIL	.
+
+PRX	This
+NOW	is
+QUE	what
+PRO	I
+NOW	'm
+EXS	paying
+PRO	you
+REL	for
+NIL	.
+
+NOW	Are
+PRO	you
+EXS	studying
+GPO	English
+AND	every
+CON	day
+QUE	?
+
+UNK	Fall
+ENS	begins
+REL	in
+MOY	October
+NIL	.
+
+PRO	I
+NOW	have
+SUB	to
+EXS	use
+DEF	the
+CON	dictionary
+NIL	.
+
+PER	Tom
+EPS	told
+PER	Mary
+SUB	that
+PRO	he
+FUT	'd
+EXS	go
+SUB	to
+GPE	Boston
+REL	in
+MOY	October
+NIL	.
+
+PRO	I
+PST	had
+HAS	my
+IST	thirtieth
+CON	birthday
+AND	last
+CON	week
+NIL	.
+
+GPE	Tokyo
+ENS	seems
+SUB	to
+EXS	have
+EXS	got
+DEF	the
+CON	message
+REL	from
+GEO	Washington
+NIL	.
+
+QUE	How
+NOW	are
+DEF	the
+CON	children
+QUE	?
+
+PRO	I
+ENS	like
+SUB	to
+EXS	eat
+CON	watermelon
+NIL	.
+
+PRO	I
+ENS	want
+SUB	to
+EXS	stay
+NIL	.
+
+PRO	He
+REF	himself
+EPS	tried
+PRO	it
+NIL	.
+
+DEF	The
+CON	chair
+PST	was
+INT	too
+IST	high
+NIL	,
+COO	and
+PRO	I
+EPS	found
+REF	myself
+REL	with
+HAS	my
+CON	legs
+EXS	hanging
+REL	in
+DEF	the
+CON	air
+NIL	.
+
+PER	Tom
+AND	and
+PER	Mary
+EPS	stopped
+EXG	hugging
+NIL	.
+
+TIM	Christmas
+NOW	is
+EXS	coming
+IST	soon
+NIL	.
+
+PRO	I
+NOW	'm
+EXS	sick
+AND	of
+EXS	being
+EXS	sick
+NIL	.
+
+PRO	It
+NOW	is
+NOT	not
+EXS	known
+AND	who
+NOW	has
+DEF	the
+CON	authority
+REL	in
+PRX	this
+CON	matter
+NIL	.
+
+QUV	Many
+POS	could
+NOT	not
+EXS	hear
+PRO	him
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	like
+CON	girls
+AND	who
+EXS	wear
+DIS	a
+CON	lot
+AND	of
+CON	makeup
+NIL	.
+
+DEF	The
+IST	old
+CON	lady
+NOW	has
+PFT	been
+INT	rather
+IST	feeble
+REL	since
+HAS	her
+CON	illness
+NIL	.
+
+QUE	Who
+HAS	's
+HAS	your
+IST	favorite
+CON	country
+CON	musician
+QUE	?
+
+PRO	I
+IST	almost
+NOT	never
+EXS	listen
+SUB	to
+DEF	the
+CON	radio
+NIL	.
+
+PRO	You
+NEC	should
+EXT	have
+EXS	consulted
+HAS	your
+ROL	lawyer
+NIL	.
+
+HES	Daddy
+NIL	,
+EXS	let
+HAS	's
+EXS	make
+CON	faces
+REL	at
+REF	each other
+AND	and
+EXS	see
+AND	who
+POS	can
+EXS	keep
+REL	from
+EXS	laughing
+DEF	the
+TOP	longest
+NIL	.
+
+QUE	How
+QUV	much
+PST	did
+DEF	the
+CON	glasses
+CON	cost
+QUE	?
+
+PER	Mary
+NOW	is
+AND	as
+IST	tall
+AND	as
+PER	Tom
+NOW	is
+NIL	.
+
+PER	Tom
+ENS	earns
+QUC	three
+CON	times
+AND	as
+QUC	much
+AND	as
+PRO	me
+NIL	.
+
+PRO	She
+NEC	must
+EXS	be
+IST	mad
+REL	at
+PRO	you
+NIL	.
+
+PRO	I
+FUT	'll
+EXS	be
+IST	back
+REL	at
+CLO	six-thirty
+NIL	.
+
+PRO	I
+NOW	think
+PRO	he
+NOW	's
+EXG	telling
+DEF	the
+CON	truth
+NIL	.
+
+QUE	How
+NOW	are
+PRO	you
+EXS	doing
+NIL	,
+PER	Tom
+QUE	?
+
+HAS	My
+ROL	grandmother
+EPS	passed
+IST	away
+NIL	.
+
+QUC	Eight
+UOM	plus
+QUC	two
+NOW	is
+QUC	ten
+NIL	.
+
+PRO	It
+FUT	will
+EXS	take
+DIS	an
+CON	hour
+REL	to
+EXS	get
+IST	there
+NIL	.
+
+QUE	How
+HAS	's
+EXS	married
+CON	life
+EXS	going
+QUE	?
+
+PRX	This
+CON	shop
+NOW	carries
+CON	men
+NOW	's
+CON	clothing
+NIL	.
+
+ITJ	Ah
+NIL	...
+AND	maybe
+CON	tonight
+NIL	...
+
+AND	Why
+PST	did
+NOT	n't
+PRO	you
+EXS	stay
+REL	in
+GPE	Germany
+QUE	?
+
+PER	Tom
+EPS	told
+PRO	me
+SUB	that
+PRO	he
+FUT	would
+EXS	help
+PRO	us
+NIL	.
+
+PRO	We
+FUT	'll
+EXS	go
+REL	on
+DIS	a
+CON	picnic
+AND	next
+DOW	Sunday
+NIL	.
+
+PRO	You
+NOW	look
+IST	really
+CON	pale
+NIL	.
+NOW	Are
+PRO	you
+End_Sent	all right
+QUE	?
+
+PRO	I
+ENS	want
+PRO	you
+SUB	to
+EXS	return
+SUB	to
+HAS	your
+CON	seat
+NIL	.
+
+PRO	He
+NOW	is
+DIS	a
+CON	man
+AND	of
+IST	warm
+CON	heart
+NIL	.
+
+DIS	Somebody
+HAS	's
+TOP	at
+DEF	the
+DEC	front door
+NIL	.
+
+PER	Tom
+ENS	likes
+SUB	to
+EXS	stay
+CON	home
+AND	and
+EXS	read
+CON	books
+REL	on
+CON	weekends
+NIL	.
+
+PER	Tom
+HAS	's
+CON	house
+NOW	is
+EXS	easy
+SUB	to
+EXS	find
+NIL	.
+
+PRO	We
+NEC	must
+EXS	be
+EXG	imagining
+CON	things
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	be
+IST	rich
+NIL	.
+
+DEF	The
+CON	police
+NOW	are
+EXG	checking
+HAS	their
+CON	bags
+NIL	.
+
+ITJ	Oh
+NIL	,
+FUT	would
+PRO	you
+EXS	catch
+DEF	the
+CON	phone
+REL	for
+PRO	me
+NIL	,
+IST	please
+QUE	?
+
+PRO	I
+NOW	think
+PRO	you
+ENS	know
+QUE	why
+PRO	I
+POS	ca
+NOT	n't
+EXS	do
+SUB	that
+NIL	.
+
+DIS	A
+CON	hero
+NOW	is
+IST	often
+IST	just
+DIS	a
+CON	person
+AND	who
+NOW	does
+NOT	n't
+EXT	have
+DEF	the
+CON	ability
+REL	to
+CLO	recognise
+CON	danger
+NIL	.
+
+DIS	A
+CON	stranger
+EPS	came
+REL	into
+DEF	the
+CON	building
+NIL	.
+
+PRO	I
+NOW	wonder
+QUE	what
+HAS	's
+IST	wrong
+NIL	.
+
+DST	That
+NOW	has
+NOT	nothing
+SUB	to
+EXS	do
+REL	with
+PRO	him
+NIL	.
+
+AND	Everybody
+NOW	is
+CON	subject
+REL	to
+CON	law
+NIL	.
+
+PRO	He
+PST	had
+IST	huge
+CON	mood
+CON	swings
+NIL	.
+
+PRO	She
+EPS	asked
+REL	for
+DIS	a
+CON	picture
+NIL	.
+
+PRO	He
+EPS	went
+SUB	to
+GEO	Paris
+EQU	,
+SUB	where
+PRO	he
+EPS	met
+PRO	me
+REL	for
+DEF	the
+IST	first
+CON	time
+NIL	.
+
+PRO	She
+NOW	has
+DIS	a
+PRI	double-barrelled
+CON	name
+NIL	.
+
+EXS	Forget
+DEF	the
+CON	anxieties
+AND	of
+CON	life
+AND	and
+EXS	learn
+SUB	to
+EXS	relax
+NIL	.
+
+PRO	I
+ENS	like
+SUB	to
+EXS	cut
+IST	up
+CON	wood
+REL	in
+HAS	my
+CON	backyard
+NIL	.
+
+PRO	I
+NOW	'm
+QUC	17
+NIL	,
+ALT	too
+NIL	.
+
+PER	Tom
+EPS	left
+REL	for
+CON	home
+NIL	well
+AND	over
+DIS	an
+CON	hour
+PST	ago
+NIL	.
+
+PRO	She
+EPS	crawled
+IST	out
+AND	of
+CON	bed
+NIL	.
+
+PRO	You
+PST	had
+COM	better
+CON	go
+AND	and
+EXS	thank
+HAS	her
+REL	in
+CON	person
+NIL	.
+
+PER	Brian
+NOW	gets
+HAS	his
+ROL	mother
+SUB	to
+EXS	do
+HAS	his
+CON	homework
+NIL	.
+
+QUE	How
+QUV	much
+CON	property
+NOW	does
+DEF	the
+DEC	landlord
+IST	own
+QUE	?
+
+QUC	One
+NEC	should
+EXS	keep
+QUC	one
+HAS	's
+CON	promises
+NIL	.
+
+PER	Tom
+POS	ca
+NOT	n't
+EXS	swim
+INT	very
+IST	well
+ALT	yet
+NIL	.
+
+PER	Tom
+NOW	does
+NOT	n't
+EXS	look
+EXS	happy
+NIL	.
+
+NOW	Is
+PRX	this
+HAS	your
+CON	bike
+QUE	?
+
+PRO	You
+EPS	gave
+PER	Tom
+DEF	the
+CON	money
+PRO	he
+EPS	asked
+REL	for
+NIL	,
+PST	did
+NOT	n't
+PRO	you
+QUE	?
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	want
+SUB	to
+EXS	work
+REL	at
+DIS	a
+CON	supermarket
+AND	all
+HAS	my
+CON	life
+NIL	.
+
+PRO	We
+NOW	've
+EXS	run
+IST	short
+AND	of
+CON	oil
+NIL	.
+
+PRO	I
+NOW	hear
+CON	voices
+REL	in
+HAS	my
+CON	head
+NIL	.
+
+PRO	I
+ENS	need
+SUB	to
+EXS	speak
+SUB	to
+PRO	you
+AND	about
+DIS	something
+NIL	.
+
+PER	Tom
+NOW	is
+NOT	never
+EXS	going
+SUB	to
+EXS	give
+IST	up
+EXS	trying
+NIL	.
+
+PRO	I
+NOW	do
+NOT	n't
+EXS	see
+DIS	anything
+NIL	.
+
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	find
+DIS	a
+IST	creative
+CON	way
+REL	to
+EXS	tell
+PER	Mary
+SUB	that
+PRO	he
+EPS	loved
+HAS	her
+NIL	.
+
+EXS	Let
+PRO	me
+EXS	see
+NIL	.
+UNK	There
+PST	were
+QUC	fifteen
+CON	people
+NIL	.
+
+EXS	Put
+REF	yourself
+REL	in
+HAS	my
+CON	position
+NIL	.
+
+PRO	He
+NOT	never
+CON	counts
+REL	on
+HAS	my
+CON	help
+NIL	.
+
+DEF	The
+CON	rain
+EVE	soaked
+REL	through
+HAS	my
+CON	clothes
+NIL	.
+
+POS	Maybe
+PRO	she
+ENS	likes
+PRO	you
+NIL	,
+ALT	too
+NIL	.
+
+PRX	This
+CON	year
+DEF	the
+CON	circus
+NOW	has
+QUC	ten
+CON	elephants
+NIL	.
+
+PER	Tom
+EPS	asked
+PRO	me
+SUB	to
+EXS	go
+REL	with
+PER	Mary
+NIL	.
+
+PER	Tom
+ENS	loves
+SUB	to
+EXS	lie
+REL	in
+DEF	the
+CON	grass
+REL	on
+DIS	a
+IST	sunny
+CON	day
+NIL	.
+
+PER	Tom
+EPS	helped
+PER	Mary
+EXS	steal
+DEF	the
+CON	jewels
+NIL	.
+
+PRO	It
+End_Sent	â€™s
+DEF	the
+IST	first
+CON	time
+SUB	that
+PRO	I
+EXS	read
+DEF	the
+CON	Bible
+NIL	.
+
+UNK	There
+NOW	is
+CON	trouble
+CON	brewing
+NIL	.
+
+PRO	We
+PST	were
+AND	as
+QUC	one
+REL	in
+HAS	our
+CON	opinion
+NIL	.
+
+PER	Tom
+NOW	is
+EXS	sad
+NIL	,
+AND	as
+REL	in
+GPO	German
+CON	sentences
+PRO	he
+NOW	is
+IST	often
+EXS	separated
+REL	from
+PER	Mary
+REL	by
+DIS	a
+CON	comma
+NIL	.
+
+PRO	We
+PST	had
+EXS	snow
+PRX	this
+CON	morning
+NIL	.
+
+QUE	What
+HAS	's
+EXS	happening
+PRX	here
+QUE	?
+
+DEF	The
+CON	rest
+AND	of
+PRO	us
+AND	all
+PST	had
+DEF	the
+EPS	smoked
+CON	salmon
+NIL	.
+
+AND	Why
+PST	did
+NOT	n't
+PRO	she
+EXS	tell
+PRO	me
+QUE	?
+
+PER	Tom
+NOW	is
+AND	as
+IST	tall
+AND	as
+HAS	his
+ROL	father
+NIL	.
+
+PRO	He
+ENS	knows
+DIS	a
+CON	lot
+AND	about
+IST	foreign
+CON	affairs
+NIL	.
+
+PRO	I
+EPS	studied
+GPO	Chinese
+REL	in
+GEO	Beijing
+NIL	.
+
+NOW	Have
+PRO	they
+EPS	announced
+DEF	the
+CON	court
+NOW	's
+CON	decision
+ALT	yet
+QUE	?
+
+PRO	I
+EPS	arrived
+REL	in
+GPE	London
+NIL	.
+
+DEF	The
+CON	plot
+REL	to
+CLO	assassinate
+DEF	the
+ROL	president
+PST	was
+EXS	discovered
+IST	just
+REL	in
+CON	time
+NIL	.
+
+PRO	I
+ENS	want
+SUB	to
+EXS	buy
+DIS	a
+CON	pair
+AND	of
+CON	ski
+CON	boots
+NIL	.
+
+PER	Tom
+EPS	told
+PRO	me
+SUB	to
+EXS	wait
+AND	outside
+NIL	.
+
+PRO	It
+NOW	looks
+EXS	like
+PER	Mary
+NOW	is
+EXS	drunk
+ALT	again
+NIL	.
+
+NOT	No
+CON	thanks
+NIL	,
+PRO	I
+NOW	'm
+EXS	pregnant
+NIL	.
+
+DEF	The
+CON	information
+ENS	counts
+REL	for
+QUC	much
+REL	to
+PRO	us
+NIL	.
+
+PRO	I
+NOW	have
+QUC	five
+CON	copies
+COO	but
+PRO	I
+ENS	need
+IST	double
+SUB	that
+NIL	.
+
+PRO	It
+NOW	is
+COM	better
+SUB	to
+EXS	live
+QUC	one
+CON	day
+AND	as
+DIS	a
+CON	lion
+AND	than
+QUC	100
+UOM	years
+AND	as
+DIS	a
+CON	sheep
+NIL	.
+
+PRO	He
+NOW	has
+EXS	started
+EXS	acting
+IST	strangely
+NIL	.
+
+PER	Mary
+POS	could
+EXS	be
+DIS	a
+CON	model
+NIL	.
+
+NOT	Neither
+CON	God
+QUE	nor
+CON	Master
+NIL	.
+
+REL	After
+DIS	a
+CON	day
+AND	of
+EXG	visiting
+DEF	the
+CON	amusement
+CON	park
+NIL	,
+DEF	the
+CON	children
+EPS	fell
+EXS	asleep
+REL	on
+DEF	the
+CON	car
+CON	ride
+CON	home
+NIL	.
+
+PRO	I
+NOW	'm
+IST	ashamed
+AND	of
+QUE	what
+HAS	my
+CON	fellow
+CON	professionals
+AND	and
+PRO	I
+NOW	have
+EXS	done
+AND	during
+DEF	the
+IST	past
+NIL	.
+
+NOW	Is
+SUB	that
+QUE	why
+PRO	you
+EPS	called
+PRO	me
+QUE	?
+
+PER	Tom
+NOW	has
+DIS	a
+GPO	Swiss
+CON	bank
+CON	account
+NIL	.
+
+PRO	I
+NOW	've
+PFT	been
+REL	to
+DEF	the
+CON	mall
+NIL	.
+
+PRO	He
+PST	was
+EXS	named
+REL	after
+HAS	his
+ROL	grandfather
+NIL	.
+
+PRO	I
+EPS	gave
+PRO	him
+DIS	a
+IST	huge
+CON	hug
+NIL	.
+
+PER	Tom
+EPS	wanted
+SUB	to
+EXS	become
+DIS	a
+GPO	Canadian
+CON	citizen
+NIL	.
+
+PRO	I
+EPS	wanted
+SUB	to
+EXS	help
+PER	Tom
+ENS	understand
+QUE	what
+PER	Mary
+PST	was
+EXS	trying
+SUB	to
+EXS	tell
+PRO	him
+NIL	.
+
+NOW	Have
+PRO	you
+EPS	told
+PER	Tom
+QUE	what
+SUB	to
+EXS	buy
+QUE	?
+
+PRO	He
+POS	might
+EXT	have
+EXS	missed
+DEF	the
+IST	last
+CON	train
+NIL	.
+
+PER	Tom
+EPS	thought
+PER	Mary
+PST	was
+EXG	exaggerating
+NIL	.
+
+PRO	I
+POS	ca
+NOT	n't
+EXS	take
+PRO	you
+SUB	to
+EXS	work
+REL	with
+PRO	me
+NIL	.
+
+ORG	Iron
+NOW	is
+DIS	a
+INT	very
+IST	useful
+CON	metal
+NIL	.
+
+CON	Wait
+REL	for
+DEF	the
+CON	bread
+REL	to
+IST	completely
+CON	cool
+IST	down
+REL	before
+EXG	eating
+PRO	it
+NIL	.
+
+PER	Tom
+NOW	has
+NOT	never
+EXS	cheated
+REL	on
+HAS	his
+CON	wife
+NIL	.
+
+PRO	It
+NOW	is
+DEF	the
+CON	secret
+REL	for
+EXG	improving
+CON	one
+CON	self
+NIL	.
+
+PRO	I
+NOW	've
+PFT	been
+EXS	stung
+REL	by
+DIS	a
+CON	hornet
+NIL	.
+
+DEF	The
+CON	man
+AND	who
+CON	lives
+AND	next
+SUB	to
+PER	Tom
+NOW	is
+IST	quite
+EXS	peculiar
+NIL	.
+
+POS	May
+PRO	I
+EXS	see
+SUB	that
+CON	blouse
+NIL	,
+IST	please
+QUE	?
+
+REL	In
+DEF	the
+CON	distance
+PRO	we
+EPS	saw
+DEF	the
+CON	island
+NIL	.
+
+PRX	These
+CON	letters
+NIL	,
+REL	in
+DEF	the
+IST	main
+NIL	,
+NOW	are
+REL	from
+HAS	my
+ROL	mother
+NIL	.
+
+PRO	It
+NOW	is
+NOT	n't
+EXS	worthwhile
+EXS	going
+IST	there
+NIL	.
+
+PRO	I
+FUT	'd
+EXS	hate
+SUB	to
+EXS	be
+REL	in
+PER	Tom
+HAS	's
+CON	shoes
+NIL	.
+
+NIL	"
+QUE	What
+HAS	's
+DEF	the
+CON	reason
+REL	for
+HAS	your
+CON	allergy
+PRX	this
+CON	time
+QUE	?
+NOW	Is
+PRO	it
+DEF	the
+IST	olive
+CON	oil
+REL	in
+DEF	the
+CON	salad
+QUE	?
+NIL	"
+NIL	"
+NOT	No
+NIL	,
+PRO	it
+NOW	's
+DEF	the
+CON	tomatoes
+NIL	.
+NIL	"
+
+QUE	What
+HAS	's
+HAS	your
+IST	favorite
+IST	commercial
+QUE	?
+
+PRO	I
+ENS	believe
+PRO	him
+SUB	to
+EXS	be
+IST	intelligent
+NIL	.
+
+QUE	How
+IST	long
+NOW	has
+PRO	he
+EPS	lived
+REL	in
+GPE	London
+QUE	?
+
+CON	Life
+NOW	is
+INT	too
+IST	short
+SUB	to
+EXS	seek
+CON	perfection
+REL	in
+CON	material
+CON	things
+NIL	.
+
+PRO	I
+FUT	would
+EXS	like
+SUB	to
+EXS	try
+DEF	the
+COL	blue
+COO	striped
+CON	skirt
+NIL	.
+
+DST	That
+HAS	's
+IST	discouraging
+NIL	.
+
+QUE	How
+QUV	many
+CON	guests
+PST	did
+PRO	you
+EXS	invite
+QUE	?
+
+PER	Tom
+AND	almost
+IST	never
+NOW	makes
+DIS	a
+CON	mistake
+NIL	.
+
+PER	Tom
+EPS	lowered
+DEF	the
+CON	bucket
+REL	into
+DEF	the
+IST	well
+NIL	.
+
+PRO	He
+NOW	's
+DEF	the
+TOP	oldest
+CON	son
+NIL	.
+
+REL	After
+PRO	we
+PST	had
+EXS	eaten
+NIL	,
+PRO	we
+EPS	went
+AND	outside
+SUB	to
+EXS	skate
+NIL	.
+
+PER	Tom
+NOT	never
+FUT	would
+EXT	've
+EXS	done
+PRX	this
+NIL	.
+
+PRO	You
+NOW	're
+EXS	doing
+PRO	it
+REL	on
+CON	purpose
+NIL	!
+
+PRO	I
+ENS	know
+NOT	not
+REL	with
+QUE	what
+CON	weapons
+CON	World War III
+FUT	will
+EXS	be
+EXS	fought
+NIL	,
+BUT	but
+ALT	World War IV
+FUT	will
+EXS	be
+EXS	fought
+REL	with
+CON	sticks
+AND	and
+CON	stones
+NIL	.
+
+PRO	I
+NOW	'm
+IST	afraid
+SUB	that
+PRO	she
+FUT	'll
+EXS	refuse
+HAS	my
+CON	request
+NIL	.
+
+NOW	Has
+PER	Tom
+IST	ever
+EXS	eaten
+REL	at
+PRX	this
+CON	restaurant
+QUE	?
+
+PRO	You
+NEC	should
+EXS	apologize
+SUB	to
+PER	Dad
+REL	for
+NOT	not
+EXS	coming
+CON	home
+REL	in
+CON	time
+REL	for
+CON	supper
+NIL	.
+
+PRO	He
+EPS	reached
+REL	for
+DEF	the
+CON	pistol
+NIL	.
+
+QUV	Many
+DIS	a
+CON	man
+ENS	believes
+DEF	the
+CON	story
+NIL	.
+
+PRO	She
+NOW	's
+DIS	a
+IST	good
+CON	actress
+AND	and
+PRO	she
+NOW	's
+IST	really
+IST	pretty
+NIL	.
+
+PER	Sally
+NOW	is
+QUC	two
+UOM	years
+COM	older
+MOR	than
+PER	Ken
+NIL	.
+
+PER	Tom
+AND	and
+PER	Mary
+NOW	are
+EXS	planning
+SUB	to
+EXS	have
+DIS	a
+CON	house
+EXS	built
+REL	after
+PRO	they
+NOW	have
+HAS	their
+IST	first
+CON	child
+NIL	.
+
+PRX	This
+NOW	is
+IST	just
+DEF	the
+CON	type
+AND	of
+CON	car
+PRO	I
+ENS	want
+NIL	.
+
+REL	At
+CON	school
+NIL	,
+PRO	I
+NOW	've
+EXS	learned
+SUB	to
+EXS	write
+IST	Latin
+NIL	.
+
+CON	Catholics
+NOW	are
+AND	against
+CON	birth
+CON	control
+NIL	.
+
+PRO	I
+FUT	will
+EXS	remove
+DEF	the
+CON	labels
+EXG	tagging
+DEF	the
+CON	above
+CON	sentences
+NIL	.
+
+PRO	He
+PST	was
+EXS	compelled
+SUB	to
+EXS	sign
+DEF	the
+CON	contract
+NIL	.
+
+UNK	There
+PST	were
+DIS	a
+CON	lot
+AND	of
+CON	people
+REL	at
+PER	Tom
+HAS	's
+CON	funeral
+NIL	.
+
+PRO	You
+NOW	do
+NOT	n't
+EXS	speak
+GPO	French
+NIL	,
+NOW	do
+PRO	you
+QUE	?
+
+DIS	Some
+CON	families
+NOW	spend
+HAS	their
+CON	vacation
+REL	near
+DEF	the
+CON	beach
+NIL	.
+
+EXS	Stop
+EXS	being
+IST	so
+DEC	bull-headed
+NIL	!
+
+PRO	I
+EPS	took
+DIS	a
+CON	bus
+AND	so
+PRO	I
+FUT	would
+NOT	n't
+EXS	be
+IST	late
+REL	for
+HAS	my
+CON	appointment
+NIL	.
+
+NOW	Do
+NOT	n't
+EXS	be
+IST	so
+IST	greedy
+NIL	.
+
+DEF	The
+IST	first
+CON	thing
+PRO	you
+NEC	should
+EXS	do
+NOW	is
+EXS	call
+DIS	a
+ROL	lawyer
+NIL	.
+
+PER	Tom
+EPS	lived
+REL	in
+DIS	an
+IST	interesting
+CON	part
+AND	of
+GPE	Boston
+NIL	.
+
+NIL	"
+EXS	Thank
+PRO	you
+NIL	,
+PRO	I
+FUT	'd
+EXS	love
+SUB	to
+EXS	have
+ALT	another
+CON	piece
+AND	of
+CON	cake
+NIL	,
+NIL	"
+EPS	said
+DEF	the
+IST	shy
+IST	young
+CON	man
+NIL	.
+
+PRO	It
+NOW	's
+IST	nice
+SUB	that
+PER	Tom
+IST	finally
+NOW	has
+DIS	a
+CON	hobby
+NIL	.
+
+IST	Native
+GPO	French
+CON	speakers
+IST	often
+EXS	add
+CON	spaces
+REL	before
+CON	punctuation
+REL	in
+ALT	other
+CON	languages
+AND	even
+SUB	though
+PRO	it
+NOW	is
+IST	usually
+EXS	incorrect
+NIL	.
+
+PRO	I
+POS	could
+EXS	make
+EMP	myself
+EXS	understood
+REL	in
+GPO	English
+NIL	.
+
+QUE	Where
+HAS	's
+CON	today
+NOW	's
+CON	newspaper
+QUE	?
+
