@@ -73,7 +73,7 @@ public class main {
             
             // scoring output works after adding an empty line to tagged txts
             // sols list is currently in a different order than how its supposed to be read, but its fine
-            //float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988tagged.txt", sols); 
+            float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988tagged.txt", sols); 
             System.out.println(score);
             myScanner.close();          //Close the file scanner
 
@@ -278,47 +278,56 @@ public class main {
             System.out.print(sentence[i] + " ");
         }
         System.out.println();*/
-        String prev = "Begin_Sent";
+        String prev_tag = "Begin_Sent";
+        String prev_word = "BEGIN_SENT";
         for (int i = 0; i < sentence.length; i++) {
             String currWord = sentence[i];
             if (i == 0) {
-                String[] firstWord = {sentence[i], prev};
+                String[] firstWord = {sentence[i], prev_tag};
                 sol.add(firstWord);
-            } else if (wordTagsHash.get(currWord) == null){
-                String[] currWordWithTag = {currWord, mostLikelyOOV(transProbHash, prev)};
-                sol.add(currWordWithTag);
-                prev = currWordWithTag[1];
-                //prev = "OOV";
             } else {
-                List<String> possibleTags = wordTagsHash.get(sentence[i]);
-                Hashtable<String, Float> possibleTagScores = new Hashtable<>();
-                for (int j = 0; j < possibleTags.size(); j++) {
-                    String currPossTag = possibleTags.get(j);
-                	float transProb = 0.5f;
-                    if(prev != "OOV") {
-                    	if(transProbHash.get(prev).get(currPossTag) == null) {
-                    		transProb = 0f;
-                    	} else {
-                    		transProb = transProbHash.get(prev).get(currPossTag);
-                    	}
-                    } 
-                    float occProb = occProbHash.get(currPossTag).get(currWord);
-                    float tagProb = transProb * occProb;
-                    possibleTagScores.put(currPossTag, tagProb);
-                }
-                float currMax = 0;
-                String maxTag = "";
-                for (var tags: possibleTagScores.entrySet()) {
-                    String tag = tags.getKey();
-                    float prob = tags.getValue();
-                    if (prob >= currMax) {
-                        currMax = prob;
-                        maxTag = tag;
+                String[] currWordWithTag = {currWord, mostLikelyOOV(currWord, wordTagsHash, transProbHash, prev_tag, prev_word)};
+                //String[] currWordWithTag = {currWord, "OOV"};
+                //sol.add(currWordWithTag);
+                //prev = currWordWithTag[1];
+                //prev = "OOV";
+                if (currWordWithTag[1] != null) {
+                    //System.out.println(currWordWithTag[0] + " - " + currWordWithTag[1] + "\n");
+                    sol.add(currWordWithTag);
+                    prev_tag = currWordWithTag[1];
+                    prev_word = currWordWithTag[0];
+                } else {
+                    List<String> possibleTags = wordTagsHash.get(sentence[i]);
+                    Hashtable<String, Float> possibleTagScores = new Hashtable<>();
+                    for (int j = 0; j < possibleTags.size(); j++) {
+                        String currPossTag = possibleTags.get(j);
+                        float transProb = 0.5f;
+                        if(prev_tag != "OOV") {
+                            if(transProbHash.get(prev_tag).get(currPossTag) == null) {
+                                transProb = 0f;
+                            } else {
+                                transProb = transProbHash.get(prev_tag).get(currPossTag);
+                            }
+                        } 
+                        float occProb = occProbHash.get(currPossTag).get(currWord);
+                        float tagProb = transProb * occProb;
+                        possibleTagScores.put(currPossTag, tagProb);
                     }
+                    float currMax = 0;
+                    String maxTag = "";
+                    for (var tags: possibleTagScores.entrySet()) {
+                        String tag = tags.getKey();
+                        float prob = tags.getValue();
+                        if (prob >= currMax) {
+                            currMax = prob;
+                            maxTag = tag;
+                        }
+                    }
+                    currWordWithTag[1] = maxTag;
+                    sol.add(currWordWithTag);
+                    prev_tag = maxTag;
+                    prev_word = currWordWithTag[0];
                 }
-                String[] currWordWithTag = {currWord, maxTag};
-                sol.add(currWordWithTag);
-                prev = maxTag;
             }
         }
         sol.remove(0);
@@ -333,7 +342,8 @@ public class main {
     public static void writeTaggedToFile(String filePath, List<List<String[]>> taggedSentences) {
         File newFile = new File(filePath);
         try {
-            FileWriter myWriter = new FileWriter(newFile);
+            System.out.println(taggedSentences.size());
+            FileWriter myWriter = new FileWriter(newFile, false);
             for (int i = 0; i < taggedSentences.size(); i++) {
                 List<String[]> currSentence = taggedSentences.get(i);
                 for (int j = 0; j < currSentence.size(); j++) {
@@ -363,7 +373,7 @@ public class main {
                     String[] currWord =solution.get(i).get(j);
                     testLine = taggedScanner.nextLine();
                     String[] testSplit = testLine.split("\\s+");
-                    System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
+                    //System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
                     if (currWord[0].equals(testSplit[1]) && currWord[1].equals(testSplit[0])) {
                         counter++;
                     }
@@ -382,17 +392,38 @@ public class main {
         return score;
     }
 
-    public static String mostLikelyOOV(Hashtable<String, Hashtable<String, Float>> transProbHash, String prev){
+    public static String mostLikelyOOV(String currWord, Hashtable<String, List<String>> wordTagsHash, Hashtable<String, Hashtable<String, Float>> transProbHash, String prev_tag, String prev_word){
         float max = 0f;
-        String currTag = new String();
-        Set<String> possTags = transProbHash.get(prev).keySet();
-        for (String tag : possTags){
-            float tagPoss = transProbHash.get(prev).get(tag);
-            if (tagPoss > max){
-                currTag = tag;
-                max = tagPoss;
+        String currTag = "";
+        //if (prev_tag.equals("NOW") && currWord.equals("there")) {
+        //   currTag = "NIL";
+        //} 
+        //else 
+        //if (prev_tag.equals("PRO") && currWord.equals("have")) {
+        //    currTag = "NEC";
+        //}
+         //else if (prev_word.equals("Let") && currWord.equals("'s")) {
+           // currTag = "PRO";
+        //} 
+        //else if (prev_tag.equals("PER") && currWord.equals("'s")) {
+        //    currTag = "REL";    
+        //}
+        //else
+        if (wordTagsHash.get(currWord) == null) {
+            Set<String> possTags = transProbHash.get(prev_tag).keySet();
+            for (String tag : possTags){
+                float tagPoss = transProbHash.get(prev_tag).get(tag);
+                if (tagPoss > max){
+                    currTag = tag;
+                    max = tagPoss;
+                }
             }
+            return currTag;
         }
-        return currTag;
+        if (currTag == "") {
+            return null;
+        } else {
+            return currTag;
+        }
     }// make this return a float(max) to give a probability instead of a pos when we add hard coded rules
 }

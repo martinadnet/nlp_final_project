@@ -79,7 +79,7 @@ NIL	.
 
 HES	Murder
 ENS	has
-EXT	shown
+EXS	shown
 REF	itself
 REL	to
 EXS	be
@@ -109,7 +109,7 @@ DEF	the
 TOP	newest
 IST	explosive
 AND	-
-TIM	nitroglycerin
+GEO	nitroglycerin
 NIL	.
 
 DEF	The
@@ -141,9 +141,9 @@ AND	and
 IST	illegal
 NIL	,
 AND	including
-TIM	drug-trafficking
-NIL	,
-BUT	gun-smuggling
+GEO	drug-trafficking
+EQU	,
+LIT	gun-smuggling
 NIL	,
 CON	prostitution
 NIL	,
@@ -232,6 +232,7 @@ IST	serious
 IST	financial
 CON	loss
 NIL	.
+
 PRO	It
 NOW	has
 PFT	been
@@ -244,7 +245,7 @@ QUC	25
 UOM	%
 AND	of
 AND	all
-TIM	non-domestic
+GEO	non-domestic
 CON	fires
 CON	result
 REL	from
@@ -255,9 +256,9 @@ NIL	'
 NIL	,
 AND	such
 AND	as
-TIM	refurbishment
-NIL	,
-EXS	repair
+GEO	refurbishment
+EQU	,
+CON	repair
 AND	and
 CON	construction
 NIL	.
@@ -274,7 +275,7 @@ LIT	Giulio Andreotti
 NIL	,
 EXS	accused
 AND	of
-TIM	Mafia
+GEO	Mafia
 CON	connections
 NIL	,
 ENS	begins
@@ -1040,6 +1041,7 @@ AND	of
 DEF	the
 CON	union
 NIL	.
+
 PRO	They
 ENS	symbolize
 DEF	the
@@ -1145,7 +1147,7 @@ SUB	to
 EXS	tell
 DIS	anyone
 NIL	,
-AND	so
+COO	so
 PRO	I
 PST	did
 NOT	n't
@@ -1350,6 +1352,7 @@ DEF	the
 COL	green
 CON	button
 NIL	.
+
 IMP	If
 PRO	you
 NOW	do
@@ -1427,6 +1430,7 @@ DIS	a
 IST	new
 CON	broom
 NIL	.
+
 PRX	This
 CON	one
 NOW	's
@@ -1464,6 +1468,7 @@ DIS	a
 CON	radio
 CON	amateur
 NIL	.
+
 HAS	My
 CON	call
 CON	sign
@@ -1715,7 +1720,7 @@ DEF	the
 DEC	1813
 CON	capture
 AND	of
-TIM	Fort Niagara
+GEO	Fort Niagara
 QUE	?
 
 SUB	When
@@ -1853,7 +1858,7 @@ CON	problem
 REL	in
 CON	terms
 AND	of
-TIM	recycling
+GEO	recycling
 NIL	.
 
 PRO	He
@@ -1876,6 +1881,7 @@ NOW	Do
 NOT	n't
 EXS	worry
 NIL	.
+
 PRO	They
 FUT	will
 EXS	be
@@ -1931,6 +1937,7 @@ NIL	.
 EXS	Try
 PRO	it
 NIL	.
+
 PRO	You
 FUT	'll
 EXS	like
@@ -2127,7 +2134,7 @@ EXS	prejudiced
 AND	against
 CON	lesbians
 AND	and
-TIM	bisexuals
+GEO	bisexuals
 QUE	?
 
 PER	Tom
@@ -2168,11 +2175,13 @@ AND	All
 CON	men
 EXS	die
 NIL	.
+
 PER	Tom
 NOW	is
 DIS	a
 CON	man
 NIL	.
+
 AND	Therefore
 NIL	,
 PER	Tom
@@ -2193,7 +2202,7 @@ DIS	a
 IST	fine
 CON	day
 NIL	,
-AND	so
+COO	so
 PRO	we
 EPS	went
 CON	swimming
@@ -2293,11 +2302,11 @@ PER	Mary
 PST	had
 DIS	a
 IST	little
-CON	lamb
+DEC	lamb
 HAS	whose
-CON	fleece
-PST	was
-COL	white
+ORD	fleece
+EQU	was
+IST	white
 AND	as
 CON	snow
 NIL	.
@@ -2317,6 +2326,7 @@ NOT	n't
 EXS	change
 PRO	it
 NIL	.
+
 NOT	Nobody
 ENS	listens
 SUB	to
@@ -2664,7 +2674,7 @@ PST	was
 INT	very
 EXS	tired
 NIL	,
-AND	so
+COO	so
 PRO	I
 EPS	fell
 EXS	asleep
@@ -2731,6 +2741,7 @@ ENS	comes
 DIS	a
 CON	bus
 NIL	.
+
 PRO	We
 POS	might
 AND	as
@@ -2758,6 +2769,7 @@ NIL	.
 PRO	I
 ENS	know
 NIL	!
+
 AND	And
 EXS	let
 PRO	me
@@ -3051,7 +3063,7 @@ CON	zoo
 PST	yesterday
 QUE	?
 
-DIS	Sometimes
+AND	Sometimes
 NIL	,
 AND	as
 DEF	the
@@ -3069,6 +3081,7 @@ AND	and
 DEF	the
 CON	Moon
 NIL	.
+
 SUB	When
 PRX	this
 ENS	happens
@@ -3083,6 +3096,7 @@ REL	across
 DEF	the
 CON	Moon
 NIL	.
+
 PRX	This
 NOW	is
 EXS	known
@@ -3334,7 +3348,7 @@ PRX	this
 CON	chance
 NIL	.
 
-NOW	Now
+AND	Now
 NIL	,
 EXS	wait
 IST	just
@@ -3427,6 +3441,7 @@ DIS	anything
 SUB	to
 EXS	do
 QUE	?
+
 NIL	"
 NIL	"
 NOT	No
@@ -3434,8 +3449,8 @@ NIL	,
 NOT	not
 IST	really
 NIL	.
-NIL	"
 
+NIL	"
 PRO	I
 NOW	have
 NOT	never
@@ -3509,6 +3524,7 @@ EPS	escaped
 REL	from
 CON	prison
 QUE	?
+
 UNK	There
 NOW	's
 DIS	a
@@ -3549,6 +3565,7 @@ PRO	it
 NOW	's
 NOW	today
 NIL	!
+
 NIL	"
 NIL	"
 NOT	No
@@ -3557,11 +3574,11 @@ PRO	it
 NOW	's
 FUT	tomorrow
 NIL	!
-NIL	"
 
+NIL	"
 PRO	He
 NOW	's
-EXS	rich
+IST	rich
 NIL	,
 IST	young
 AND	and
@@ -4250,7 +4267,6 @@ SUB	to
 EXS	be
 EXS	resumed
 NIL	...
-
 PRO	He
 EPS	ran
 REL	at
@@ -4392,7 +4408,7 @@ EXS	true
 NIL	"
 NIL	.
 
-QUE	Better
+MOR	Better
 EXS	leave
 PRO	it
 NIL	!
@@ -4528,6 +4544,7 @@ NOT	not
 DIS	an
 CON	accident
 NIL	.
+
 AND	Like
 CON	slavery
 AND	and
@@ -4544,7 +4561,7 @@ REL	by
 DEF	the
 CON	actions
 AND	of
-TIM	human beings
+GEO	human beings
 NIL	.
 
 AND	Why
@@ -4633,6 +4650,7 @@ CON	lot
 AND	of
 CON	books
 NIL	!
+
 NOW	Do
 PRO	they
 NOW	belong
@@ -4674,10 +4692,12 @@ AND	inside
 PRO	us
 AND	all
 NIL	.
+
 QUC	One
 NOW	is
 IST	evil
 NIL	.
+
 PRO	It
 NOW	is
 CON	anger
@@ -4694,18 +4714,20 @@ ENS	lies
 AND	and
 CON	ego
 NIL	.
+
 DEF	The
 ALT	other
 NOW	is
 IST	good
 NIL	.
+
 PRO	It
 NOW	is
 CON	joy
 NIL	,
 CON	peace
 NIL	,
-CON	love
+EXS	love
 NIL	,
 NOW	hope
 NIL	,
@@ -4717,6 +4739,7 @@ CON	empathy
 AND	and
 CON	truth
 NIL	.
+
 NIL	"
 DEF	The
 CON	boy
@@ -4733,6 +4756,7 @@ UNK	which
 CON	wolf
 ENS	wins
 QUE	?
+
 NIL	"
 DEF	The
 IST	old
@@ -4746,8 +4770,8 @@ CON	one
 PRO	you
 EXS	feed
 NIL	.
-NIL	"
 
+NIL	"
 PRO	I
 NOW	'm
 NOT	not
@@ -4947,8 +4971,8 @@ ENS	flies
 SUB	when
 PRO	you
 NOW	're
-EXT	having
-EXS	fun
+EXS	having
+CON	fun
 NIL	.
 
 DEF	The
@@ -5109,8 +5133,8 @@ NIL	.
 
 PRX	These
 CON	computers
-NOW	use
-EXS	punch
+CON	use
+CON	punch
 CON	cards
 NIL	.
 
@@ -5428,7 +5452,7 @@ AND	as
 DIS	a
 CON	pencil
 AND	and
-TIM	eraser
+GEO	eraser
 NIL	.
 
 DST	That
@@ -5533,8 +5557,8 @@ REL	on
 CON	bread
 AND	alone
 NIL	.
-NIL	"
 
+NIL	"
 PER	Tom
 NOW	does
 NOT	n't
@@ -5779,6 +5803,7 @@ CON	change
 REL	in
 CON	time
 NIL	.
+
 REL	For
 DIS	a
 IST	constant
@@ -5886,6 +5911,7 @@ IST	or
 DIS	a
 PRI	Lamborghini
 NIL	?
+
 NIL	"
 NIL	"
 PRO	It
@@ -5893,8 +5919,8 @@ NOW	's
 DIS	a
 CON	Maserati
 NIL	.
-NIL	"
 
+NIL	"
 DEF	The
 CON	fog
 EPS	prevented
@@ -6184,6 +6210,7 @@ EXS	told
 PRO	me
 SUB	that
 NIL	!
+
 NIL	"
 NIL	"
 ITJ	Yes
@@ -6191,8 +6218,8 @@ NIL	,
 PRO	I
 PST	did
 NIL	!
-NIL	"
 
+NIL	"
 PRO	I
 EPS	worked
 SUB	as
@@ -6544,6 +6571,7 @@ EXG	eating
 DIS	an
 CON	apple
 NIL	.
+
 QUC	2
 NIL	)
 PST	Yesterday
@@ -6552,6 +6580,7 @@ EPS	ate
 DIS	an
 CON	apple
 NIL	.
+
 QUC	3
 NIL	)
 FUT	Tomorrow
@@ -6566,7 +6595,7 @@ PER	Tom
 ENS	says
 PRO	he
 NOW	's
-EXT	having
+EXS	having
 CON	trouble
 REL	with
 HAS	his
@@ -6900,6 +6929,7 @@ AND	as
 PRO	you
 ENS	wish
 NIL	.
+
 PRO	It
 NOW	's
 NOT	no
@@ -6934,7 +6964,7 @@ EPS	found
 DEF	the
 CON	translation
 AND	of
-TIM	Leopardi
+GEO	Leopardi
 INT	very
 IST	difficult
 NIL	.
@@ -7317,6 +7347,7 @@ NOW	are
 HAS	my
 CON	keys
 QUE	?
+
 NIL	"
 NIL	"
 PRO	They
@@ -7325,8 +7356,8 @@ REL	in
 HAS	my
 CON	handbag
 NIL	.
-NIL	"
 
+NIL	"
 PRO	It
 PST	was
 NOT	n't
@@ -7574,6 +7605,7 @@ FUT	'd
 IST	better
 CON	hurry
 NIL	.
+
 PRO	I
 NOW	do
 NOT	n't
@@ -7722,11 +7754,12 @@ CON	moments
 AND	of
 CON	happiness
 NIL	,
-CON	love
+EXS	love
 AND	and
 EXS	be
 EXS	loved
 NIL	!
+
 DST	That
 NOW	is
 DEF	the
@@ -7741,6 +7774,7 @@ AND	else
 NOW	is
 CON	folly
 NIL	.
+
 PRO	It
 NOW	is
 DEF	the
@@ -7849,7 +7883,7 @@ SUB	to
 EXS	do
 QUE	?
 
-GPE	Turkey
+GEO	Turkey
 PST	did
 NOT	not
 EXS	qualify
@@ -8092,7 +8126,7 @@ REL	into
 IST	real
 CON	languages
 AND	:
-TIM	creoles
+GEO	creoles
 NIL	.
 
 QUE	What
@@ -8228,7 +8262,7 @@ NIL	.
 
 PRO	He
 NOW	's
-IST	ready
+EXS	ready
 SUB	to
 EXS	go
 NIL	.
@@ -8574,7 +8608,6 @@ NIL	...
 AND	maybe
 CON	tonight
 NIL	...
-
 AND	Why
 PST	did
 NOT	n't
@@ -8609,6 +8642,7 @@ NOW	look
 IST	really
 CON	pale
 NIL	.
+
 NOW	Are
 PRO	you
 End_Sent	all right
@@ -8664,7 +8698,7 @@ NIL	.
 PRO	We
 NEC	must
 EXS	be
-EXG	imagining
+EXS	imagining
 CON	things
 NIL	.
 
@@ -8993,6 +9027,7 @@ EXS	Let
 PRO	me
 EXS	see
 NIL	.
+
 UNK	There
 PST	were
 QUC	fifteen
@@ -9554,6 +9589,7 @@ CON	allergy
 PRX	this
 CON	time
 QUE	?
+
 NOW	Is
 PRO	it
 DEF	the
@@ -9563,6 +9599,7 @@ REL	in
 DEF	the
 CON	salad
 QUE	?
+
 NIL	"
 NIL	"
 NOT	No
@@ -9572,8 +9609,8 @@ NOW	's
 DEF	the
 CON	tomatoes
 NIL	.
-NIL	"
 
+NIL	"
 QUE	What
 HAS	's
 HAS	your
@@ -9995,4 +10032,133 @@ CON	today
 NOW	's
 CON	newspaper
 QUE	?
+
+AND	Had
+PRO	he
+PFT	been
+UNK	there
+NIL	,
+FUT	would
+PRO	you
+NOW	have
+EPS	wanted
+SUB	to
+EXS	come
+QUE	?
+
+PRO	He
+ENS	puts
+DIS	a
+CON	lot
+AND	of
+EPS	thought
+REL	into
+QUE	how
+PRO	he
+ENS	thinks
+NIL	.
+
+PER	Tom
+NOW	is
+EXS	taking
+CON	care
+AND	of
+PRO	it
+REL	for
+PRO	us
+NIL	.
+
+PER	Tom
+POS	ca
+NOT	n't
+EXS	see
+PER	Mary
+REL	from
+SUB	where
+PRO	he
+NOW	is
+NIL	.
+
+NOW	Do
+QUE	what
+PRO	you
+NOW	think
+NOW	is
+TOP	best
+NIL	.
+
+PER	Tom
+NOW	looks
+PRG	disoriented
+NIL	.
+
+EXS	Did
+PRO	you
+NOW	call
+PRO	him
+ALT	yet
+QUE	?
+
+NOW	Today
+NOW	is
+EXS	going
+SUB	to
+EXS	be
+DIS	a
+IST	good
+CON	day
+NIL	!
+
+PRO	You
+NOW	're
+DEF	the
+XCL	only
+CON	person
+SUB	that
+POS	can
+EXS	persuade
+PRO	him
+NIL	.
+
+EXS	Adjust
+DEF	the
+CON	microscope
+NOW	's
+EXS	focus
+NIL	.
+
+PRO	I
+NOW	remember
+SUB	that
+NIL	.
+
+IMP	If
+DEF	the
+CON	text
+NOW	does
+NOT	n't
+EXS	make
+CON	sense
+NIL	,
+PRO	it
+NOW	is
+NOT	n't
+IST	coherent
+NIL	.
+
+QUE	Where
+HAS	's
+PER	Mary
+HAS	's
+CON	ring
+QUE	?
+
+DEF	The
+IST	modern
+NIL	,
+IST	rational
+NIL	,
+IST	logical
+AND	and
+NOT	un
 

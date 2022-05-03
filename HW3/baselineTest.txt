@@ -1,0 +1,5449 @@
+Prev: by	REL
+Wrong: Kraft	CLO
+Right: Kraft	ORG
+
+Prev: which	AND
+Wrong: expanded	EXS
+Right: expanded	EPS
+
+Prev: marketing	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Mumbai	GPE
+Wrong: 's	NOW
+Right: 's	REL
+
+Prev: killed	EPS
+Wrong: yet	ALT
+Right: yet	IST
+
+Prev: latter	CON
+Wrong: one	CON
+Right: one	QUC
+
+Prev: teen	CON
+Wrong: looks	NOW
+Right: looks	ENS
+
+Prev: ,	NIL
+Wrong: while	SUB
+Right: while	AND
+
+Prev: woman	CON
+Wrong: looks	NOW
+Right: looks	ENS
+
+Wrong: Murder	HES
+Right: Murder	ROL
+
+Prev: Murder	ROL
+Wrong: has	ENS
+Right: has	NOW
+
+Prev: has	NOW
+Wrong: shown	EXS
+Right: shown	EXT
+
+Prev: itself	REF
+Wrong: to	REL
+Right: to	NIL
+
+Prev: method	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: in	REL
+Wrong: Russia	GEO
+Right: Russia	GPE
+
+Prev: Alfred	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: was	PST
+Wrong: producing	EXS
+Right: producing	EXG
+
+Prev: newest	TOP
+Wrong: explosive	IST
+Right: explosive	CON
+
+Prev: -	AND
+Wrong: nitroglycerin	GEO
+Right: nitroglycerin	CON
+
+Prev: The	DEF
+Wrong: Yamaguchi-gumi	DEC
+Right: Yamaguchi-gumi	ORG
+
+Prev: Yamaguchi-gumi	ORG
+Wrong: claims	CON
+Right: claims	ENS
+
+Prev: membership	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: 23,000	NIL
+Wrong: gangsters	ROL
+Right: gangsters	CON
+
+Prev: gangsters	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: or	DIS
+Wrong: "	NIL
+Right: "	IST
+
+Prev: "	IST
+Wrong: yakuza	BUT
+Right: yakuza	CON
+
+Prev: "	NIL
+Wrong: as	AND
+Right: as	SUB
+
+Prev: businesses	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: both	AND
+Right: both	DEF
+
+Prev: both	DEF
+Wrong: legal	IST
+Right: legal	SST
+
+Prev: and	AND
+Wrong: illegal	IST
+Right: illegal	SST
+
+Prev: ,	NIL
+Wrong: including	AND
+Right: including	EXS
+
+Prev: including	EXS
+Wrong: drug-trafficking	GEO
+Right: drug-trafficking	CON
+
+Prev: drug-trafficking	CON
+Wrong: ,	EQU
+Right: ,	COO
+
+Prev: ,	COO
+Wrong: gun-smuggling	LIT
+Right: gun-smuggling	EXS
+
+Prev: gun-smuggling	EXS
+Wrong: ,	NIL
+Right: ,	COO
+
+Prev: prostitution	CON
+Wrong: ,	NIL
+Right: ,	COO
+
+Prev: ,	COO
+Wrong: extortion	BUT
+Right: extortion	CON
+
+Prev: extortion	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: real-estate	IST
+Wrong: swindles	DEC
+Right: swindles	CON
+
+Prev: The	DEF
+Wrong: World	CON
+Right: World	ORG
+
+Prev: World	ORG
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: power	CON
+Wrong: to	REL
+Right: to	SUB
+
+Wrong: Washington	GEO
+Right: Washington	GPE
+
+Prev: repeatedly	IST
+Wrong: sought	EPS
+Right: sought	EXT
+
+Prev: sought	EXT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: reassure	EXS
+Right: reassure	EXT
+
+Prev: reassure	EXT
+Wrong: Russia	GEO
+Right: Russia	GPE
+
+Prev: it	PRO
+Wrong: has	NOW
+Right: has	NEC
+
+Prev: nothing	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: a	DIS
+Wrong: serial	PRI
+Right: serial	ROL
+
+Prev: used	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Carelessness	HES
+Right: Carelessness	NIL
+
+Prev: cause	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: fires	CON
+Wrong: that	SUB
+Right: that	AND
+
+Prev: that	AND
+Wrong: result	EXS
+Right: result	CON
+
+Prev: been	PFT
+Wrong: estimated	EXS
+Right: estimated	EXT
+
+Prev: that	SUB
+Wrong: perhaps	TIM
+Right: perhaps	POS
+
+Prev: %	UOM
+Wrong: of	AND
+Right: of	REL
+
+Prev: all	AND
+Wrong: non-domestic	GEO
+Right: non-domestic	IST
+
+Prev: '	HAS
+Wrong: on-going	ORD
+Right: on-going	AND
+
+Prev: work	CON
+Wrong: '	NIL
+Right: '	CON
+
+Prev: as	AND
+Wrong: refurbishment	GEO
+Right: refurbishment	CON
+
+Prev: 26	DOM
+Wrong: -	AND
+Right: -	REL
+
+Prev: -	REL
+Wrong: Trial	ORG
+Right: Trial	CON
+
+Prev: Trial	CON
+Wrong: against	AND
+Right: against	REL
+
+Prev: against	REL
+Wrong: former	IST
+Right: former	PRI
+
+Prev: Prime	ROL
+Wrong: Giulio	LIT
+Right: Giulio	PER
+
+Prev: of	AND
+Wrong: Mafia	GEO
+Right: Mafia	CON
+
+Prev: "	NIL
+Wrong: killing	EXS
+Right: killing	CON
+
+Prev: killing	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: civilians	CON
+Right: civilians	ROL
+
+Prev: civilians	ROL
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: enforced	EXS
+Right: enforced	IST
+
+Prev: enforced	IST
+Wrong: disappearances	REF
+Right: disappearances	CON
+
+Prev: disappearances	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: destruction	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: villages	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: forms	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: violence	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: pillaging	BUT
+Right: pillaging	CON
+
+Prev: and	AND
+Wrong: forced	EXS
+Right: forced	IST
+
+Prev: throughout	AND
+Wrong: Darfur	GEO
+Right: Darfur	GPE
+
+Prev: named	EPS
+Wrong: alleged	IST
+Right: alleged	PRI
+
+Prev: criminals	CON
+Wrong: that	SUB
+Right: that	AND
+
+Prev: by	REL
+Wrong: Denmark	GEO
+Right: Denmark	GPE
+
+Prev: Netherlands	GPE
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: Belgium	GEO
+Right: Belgium	GPE
+
+Prev: Sweden	GPE
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: Finland	GPE
+Wrong: and	AND
+Right: and	EQU
+
+Prev: thus	IST
+Wrong: ranks	CON
+Right: ranks	ENS
+
+Prev: ranks	ENS
+Wrong: 7th	DOM
+Right: 7th	ORD
+
+Prev: the	DEF
+Wrong: 25-member	DEC
+Right: 25-member	IST
+
+Prev: 25-member	IST
+Wrong: European	CON
+Right: European	ORG
+
+Prev: terms	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: broadband	CON
+Right: broadband	IST
+
+Prev: broadband	IST
+Wrong: Internet	UNK
+Right: Internet	CON
+
+Prev: flow	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: apparently	IST
+Wrong: incriminating	DEC
+Right: incriminating	IST
+
+Prev: ,	NIL
+Wrong: her	PRO
+Right: her	HAS
+
+Prev: on	REL
+Wrong: rival	CON
+Right: rival	IST
+
+Prev: rival	IST
+Wrong: calls	ENS
+Right: calls	CON
+
+Prev: scale	CON
+Wrong: down	IST
+Right: down	AND
+
+Prev: down	AND
+Wrong: U.S.	GEO
+Right: U.S.	GPE
+
+Prev: in	REL
+Wrong: Iraq	GEO
+Right: Iraq	GPE
+
+Prev: Iraq	GPE
+Wrong: ,	EQU
+Right: ,	NIL
+
+Prev: ,	NIL
+Wrong: and	AND
+Right: and	COO
+
+Prev: said	EPS
+Wrong: angry	EXS
+Right: angry	IST
+
+Prev: his	HAS
+Wrong: Mideast	ORD
+Right: Mideast	IST
+
+Prev: the	DEF
+Wrong: heavily	IST
+Right: heavily	INT
+
+Prev: endangers	ENS
+Wrong: seal	EXS
+Right: seal	CON
+
+Prev: Earthquakes	CON
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: potential	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: series	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: body	CON
+Wrong: of	AND
+Right: of	REL
+
+Wrong: Uh	HES
+Right: Uh	ITJ
+
+Prev: How	AND
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: that	SUB
+Wrong: working	EXS
+Right: working	EXG
+
+Prev: story	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: no	NOT
+Wrong: answer	EXS
+Right: answer	CON
+
+Prev: have	EXT
+Wrong: spoken	EXS
+Right: spoken	EXT
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: demerits	QUE
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: both	DEF
+Right: both	AND
+
+Prev: opinions	CON
+Wrong: so	AND
+Right: so	COO
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: away	IST
+Wrong: which	AND
+Right: which	UNK
+
+Prev: which	UNK
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Travelling	HES
+Right: Travelling	CON
+
+Prev: Travelling	CON
+Wrong: is	EQU
+Right: is	NOW
+
+Prev: we	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: in	REL
+Wrong: Europe	GEO
+Right: Europe	GPE
+
+Prev: into	REL
+Wrong: Africa	GEO
+Right: Africa	GPE
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: piece	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: be	EXS
+Wrong: true	EXS
+Right: true	IST
+
+Prev: so	INT
+Wrong: crowded	EXS
+Right: crowded	IST
+
+Prev: I	PRO
+Wrong: had	PST
+Right: had	NEC
+
+Prev: had	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: ran	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: station	CON
+Wrong: so	AND
+Right: so	SUB
+
+Prev: as	AND
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Wash	EPS
+Right: Wash	EXS
+
+Prev: This	PRX
+Wrong: has	NOW
+Right: has	NEC
+
+Prev: nothing	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: poem	CON
+Wrong: by	AND
+Right: by	IST
+
+Wrong: Whose	HAS
+Right: Whose	SUB
+
+Prev: 'm	NOW
+Wrong: calling	EXS
+Right: calling	EXG
+
+Prev: 've	NOW
+Wrong: lost	EXS
+Right: lost	EXT
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: 's	PRO
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: the	DEF
+Wrong: Nile	NTH
+Right: Nile	GEO
+
+Prev: too	INT
+Wrong: careful	EXS
+Right: careful	IST
+
+Prev: you	PRO
+Wrong: drive	EXS
+Right: drive	ENS
+
+Prev: 'm	NOW
+Wrong: coming	EXS
+Right: coming	EXG
+
+Prev: "	NIL
+Wrong: repeated	EXS
+Right: repeated	EPS
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: anybody	DIS
+Wrong: today	CON
+Right: today	NOW
+
+Wrong: Imports	HES
+Right: Imports	CON
+
+Prev: exports	CON
+Wrong: last	AND
+Right: last	REL
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: fossil	IST
+Wrong: seashell	DEC
+Right: seashell	CON
+
+Prev: were	PST
+Wrong: dirty	EXS
+Right: dirty	IST
+
+Prev: tune	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: it	PRO
+Wrong: to	SUB
+Right: to	REL
+
+Prev: my	HAS
+Wrong: mommy	ORD
+Right: mommy	ROL
+
+Prev: enough	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: used	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: for	REL
+Wrong: myself	REF
+Right: myself	EMP
+
+Prev: nothing	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Keep	EXS
+Wrong: next	IST
+Right: next	AND
+
+Prev: 'm	NOW
+Wrong: sorry	EXS
+Right: sorry	IST
+
+Prev: write	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: bad	IST
+Wrong: sunburn	DEC
+Right: sunburn	CON
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: 's	NOW
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: head	CON
+Wrong: taller	COM
+Right: taller	MOR
+
+Prev: taller	MOR
+Wrong: than	MOR
+Right: than	AND
+
+Prev: has	NOW
+Wrong: lost	EXS
+Right: lost	EXT
+
+Prev: regret	ENS
+Wrong: missing	IST
+Right: missing	EXG
+
+Prev: meet	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: a	DIS
+Wrong: while	CON
+Right: while	SUB
+
+Prev: she	PRO
+Wrong: did	PST
+Right: did	EPS
+
+Prev: I	PRO
+Wrong: do	NOW
+Right: do	ENS
+
+Prev: How	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: in	REL
+Wrong: Dutch	GPO
+Right: Dutch	CON
+
+Prev: Is	NOW
+Wrong: English	GPO
+Right: English	CON
+
+Prev: you	PRO
+Wrong: do	NOW
+Right: do	EXS
+
+Prev: She	PRO
+Wrong: has	NOW
+Right: has	HAS
+
+Prev: three	QUC
+Wrong: brothers	CON
+Right: brothers	ROL
+
+Prev: not	NOT
+Wrong: able	IST
+Right: able	POS
+
+Prev: able	POS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: usually	IST
+Wrong: get	EXS
+Right: get	ENS
+
+Prev: get	ENS
+Wrong: up	IST
+Right: up	REL
+
+Prev: She	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: One	QUC
+Wrong: plus	UOM
+Right: plus	CON
+
+Prev: is	NOW
+Wrong: equal	IST
+Right: equal	EXS
+
+Prev: equal	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: I	PRO
+Wrong: deactivated	EXS
+Right: deactivated	EPS
+
+Prev: you	PRO
+Wrong: 're	NOW
+Right: 're	ENS
+
+Prev: a	DIS
+Wrong: teacher	CON
+Right: teacher	ROL
+
+Prev: flag	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: members	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: all	AND
+Wrong: just	IST
+Right: just	AND
+
+Prev: The	DEF
+Wrong: most	TOP
+Right: most	INT
+
+Prev: the	DEF
+Wrong: propagation	DEC
+Right: propagation	CON
+
+Prev: propagation	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: use	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Germany	GPE
+Wrong: shares	NOW
+Right: shares	ENS
+
+Prev: winter	CON
+Wrong: tyres	EVE
+Right: tyres	CON
+
+Prev: walk	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: like	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: today	NOW
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: will	FUT
+Wrong: last	IST
+Right: last	EXS
+
+Prev: not	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: ,	NIL
+Wrong: so	COO
+Right: so	SUB
+
+Wrong: Muammar	HES
+Right: Muammar	PER
+
+Prev: un	NOT
+Wrong: harmed	EXS
+Right: harmed	IST
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: She	PRO
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: favour	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: you	PRO
+Wrong: have	NOW
+Right: have	EXS
+
+Prev: was	PST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: Goodbye	GRE
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: 've	NOW
+Wrong: always	IST
+Right: always	AND
+
+Prev: always	AND
+Wrong: loved	EPS
+Right: loved	EXT
+
+Wrong: Was	ORG
+Right: Was	PST
+
+Prev: Was	PST
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: parents	CON
+Wrong: come	EXS
+Right: come	ENS
+
+Prev: I	PRO
+Wrong: hope	NOW
+Right: hope	ENS
+
+Prev: be	EXS
+Wrong: fine	IST
+Right: fine	EXS
+
+Wrong: It	PRO
+Right: It	NIL
+
+Prev: 's	NOW
+Wrong: cold	EXS
+Right: cold	CON
+
+Prev: You	PRO
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: full	IST
+Wrong: of	AND
+Right: of	REL
+
+Prev: me	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: was	PST
+Wrong: about	INT
+Right: about	REL
+
+Prev: about	REL
+Wrong: to	REL
+Right: to	NIL
+
+Wrong: Hope	PER
+Right: Hope	CON
+
+Prev: voice	CON
+Wrong: whispering	EXG
+Right: whispering	EXS
+
+Prev: "	NIL
+Wrong: maybe	AND
+Right: maybe	POS
+
+Wrong: Press	ORG
+Right: Press	EXS
+
+Prev: do	NOW
+Wrong: so	INT
+Right: so	PRO
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: go	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: Belgium	GEO
+Right: Belgium	GPE
+
+Prev: Is	NOW
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: aunt	ROL
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: father	ROL
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: not	NOT
+Wrong: feeling	EXS
+Right: feeling	EXG
+
+Prev: When	SUB
+Wrong: do	EXS
+Right: do	NOW
+
+Prev: go	ENS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: This	PRX
+Wrong: one	CON
+Right: one	QUC
+
+Prev: 's	NOW
+Wrong: shot	EXS
+Right: shot	CON
+
+Prev: I	PRO
+Wrong: do	NOW
+Right: do	ENS
+
+Prev: not	NOT
+Wrong: cold	EXS
+Right: cold	IST
+
+Prev: I	PRO
+Wrong: hope	NOW
+Right: hope	ENS
+
+Prev: ,	NIL
+Wrong: as	AND
+Right: as	SUB
+
+Prev: is	NOW
+Wrong: F5NQW	PRG
+Right: F5NQW	NTH
+
+Prev: ,	NIL
+Wrong: but	BUT
+Right: but	COO
+
+Prev: me	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: help	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Good	ORG
+Right: Good	IST
+
+Prev: Do	NOW
+Wrong: seedless	PRG
+Right: seedless	NIL
+
+Prev: especially	AND
+Wrong: about	AND
+Right: about	REL
+
+Prev: you	PRO
+Wrong: say	NOW
+Right: say	EXS
+
+Prev: you	PRO
+Wrong: love	ENS
+Right: love	EXS
+
+Prev: need	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: eat	EXS
+Wrong: more	MOR
+Right: more	IST
+
+Prev: manufacturer	CON
+Wrong: Iscor	EVE
+Right: Iscor	ORG
+
+Prev: Iscor	ORG
+Wrong: plans	CON
+Right: plans	ENS
+
+Prev: plans	ENS
+Wrong: to	REL
+Right: to	NIL
+
+Prev: height	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: tallest	TOP
+Wrong: redwood	TOP
+Right: redwood	CON
+
+Wrong: Who	QUE
+Right: Who	SUB
+
+Prev: "	NIL
+Wrong: Fail	BUT
+Right: Fail	ART
+
+Prev: pro	IST
+Wrong: tempore	DEC
+Right: tempore	CON
+
+Prev: tempore	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: the	DEF
+Wrong: US	DEC
+Right: US	ORG
+
+Prev: US	ORG
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: is	NOW
+Wrong: Mike	PRG
+Right: Mike	PER
+
+Prev: Mike	PER
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: are	NOW
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: Who	QUE
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: the	DEF
+Wrong: author	CON
+Right: author	ROL
+
+Prev: author	ROL
+Wrong: of	AND
+Right: of	REL
+
+Prev: the	DEF
+Wrong: Brady	DEC
+Right: Brady	ART
+
+Prev: Brady	ART
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: Mussolini	PER
+Wrong: of	AND
+Right: of	REL
+
+Prev: Berbers	GPE
+Wrong: speak	NOW
+Right: speak	EXS
+
+Prev: in	REL
+Wrong: U.S.	GEO
+Right: U.S.	GPE
+
+Prev: not	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: the	DEF
+Wrong: 1813	DEC
+Right: 1813	YOC
+
+Prev: capture	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: was	PST
+Wrong: Lyndon	NOT
+Right: Lyndon	PER
+
+Prev: What	QUE
+Wrong: breed	ENS
+Right: breed	CON
+
+Prev: breed	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: used	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: the	DEF
+Wrong: Lipizzaner	DEC
+Right: Lipizzaner	CON
+
+Prev: Lipizzaner	CON
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: which	UNK
+Wrong: U.S.	ORG
+Right: U.S.	GPE
+
+Prev: have	NOW
+Wrong: there	UNK
+Right: there	IST
+
+Prev: there	IST
+Wrong: been	EXS
+Right: been	PFT
+
+Prev: fatalities	CON
+Wrong: caused	EPS
+Right: caused	EXT
+
+Prev: snow	CON
+Wrong: avalanches	EVE
+Right: avalanches	CON
+
+Prev: avalanches	CON
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: did	PST
+Wrong: Jerry	NOT
+Right: Jerry	PER
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: Mr	ROL
+Wrong: Kato	LIT
+Right: Kato	PER
+
+Prev: Kato	PER
+Wrong: was	EQU
+Right: was	PST
+
+Prev: too	INT
+Wrong: old	IST
+Right: old	DEG
+
+Prev: old	DEG
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: work	EXS
+Right: work	CON
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: urgent	IST
+Wrong: need	ENS
+Right: need	CON
+
+Prev: improved	IST
+Wrong: living	EXS
+Right: living	CON
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: you	PRO
+Wrong: like	ENS
+Right: like	AND
+
+Prev: something	DIS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: an	DIS
+Wrong: Elven	PRI
+Right: Elven	GPO
+
+Prev: the	DEF
+Wrong: teacher	CON
+Right: teacher	ROL
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: He	PRO
+Wrong: and	AND
+Right: and	COO
+
+Prev: terms	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: recycling	GEO
+Right: recycling	CON
+
+Prev: knew	EPS
+Wrong: German	GPO
+Right: German	CON
+
+Prev: I	PRO
+Wrong: do	NOW
+Right: do	ENS
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: will	FUT
+Wrong: be	EXS
+Right: be	EXT
+
+Prev: be	EXT
+Wrong: supervised	EXT
+Right: supervised	EXS
+
+Prev: Please	ITJ
+Wrong: come	ENS
+Right: come	EXS
+
+Prev: come	EXS
+Wrong: downstairs	EXS
+Right: downstairs	REL
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: She	PRO
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: She	PRO
+Wrong: did	PST
+Right: did	EPS
+
+Prev: 've	NOW
+Wrong: known	EXS
+Right: known	EXT
+
+Wrong: Corsairfly	HES
+Right: Corsairfly	ORG
+
+Prev: Corsairfly	ORG
+Wrong: is	EQU
+Right: is	ENS
+
+Prev: in	REL
+Wrong: Paris	GEO
+Right: Paris	GPE
+
+Prev: terribly	IST
+Wrong: sorry	EXS
+Right: sorry	IST
+
+Prev: restored	EXS
+Wrong: and	AND
+Right: and	COO
+
+Prev: is	NOW
+Wrong: open	EXS
+Right: open	IST
+
+Prev: open	IST
+Wrong: to	SUB
+Right: to	REL
+
+Prev: the	DEF
+Wrong: public	IST
+Right: public	CON
+
+Prev: 're	NOW
+Wrong: both	DEF
+Right: both	AND
+
+Wrong: Predicting	AND
+Right: Predicting	EXS
+
+Prev: n't	NOT
+Wrong: always	IST
+Right: always	AND
+
+Prev: 've	NOW
+Wrong: always	IST
+Right: always	AND
+
+Prev: may	POS
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: Tom	PER
+Wrong: is	NOW
+Right: is	FUT
+
+Prev: is	FUT
+Wrong: going	EXS
+Right: going	NIL
+
+Prev: going	NIL
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: of	AND
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: he	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: Tom	PER
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: ,	NIL
+Wrong: and	COO
+Right: and	AND
+
+Wrong: Why	AND
+Right: Why	QUE
+
+Prev: Japanese	GPO
+Wrong: so	IST
+Right: so	AND
+
+Prev: so	AND
+Wrong: prejudiced	EXS
+Right: prejudiced	IST
+
+Prev: prejudiced	IST
+Wrong: against	AND
+Right: against	REL
+
+Prev: against	REL
+Wrong: lesbians	CON
+Right: lesbians	ROL
+
+Prev: and	AND
+Wrong: bisexuals	GEO
+Right: bisexuals	ROL
+
+Prev: Tom	PER
+Wrong: looks	NOW
+Right: looks	ENS
+
+Prev: He	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: no	NOT
+Wrong: saint	XCL
+Right: saint	CON
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: There	NIL
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: another	ALT
+Wrong: one	QUC
+Right: one	DIS
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: all	AND
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: men	CON
+Wrong: die	EXS
+Right: die	ENS
+
+Wrong: Therefore	AND
+Right: Therefore	SUB
+
+Prev: This	PRX
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: ,	NIL
+Wrong: so	COO
+Right: so	SUB
+
+Prev: suddenly	IST
+Wrong: got	EXS
+Right: got	EPS
+
+Prev: up	IST
+Wrong: and	AND
+Right: and	COO
+
+Prev: his	HAS
+Wrong: leave	EXS
+Right: leave	CON
+
+Prev: you	PRO
+Wrong: so	IST
+Right: so	INT
+
+Prev: so	INT
+Wrong: quiet	EXS
+Right: quiet	IST
+
+Prev: area	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: She	PRO
+Wrong: always	IST
+Right: always	AND
+
+Prev: Mary	PER
+Wrong: had	PST
+Right: had	EPS
+
+Prev: little	IST
+Wrong: lamb	DEC
+Right: lamb	CON
+
+Prev: whose	HAS
+Wrong: fleece	ORD
+Right: fleece	CON
+
+Prev: fleece	CON
+Wrong: was	EQU
+Right: was	PST
+
+Prev: was	PST
+Wrong: white	IST
+Right: white	COL
+
+Prev: must	NEC
+Wrong: be	EXS
+Right: be	NOW
+
+Prev: be	NOW
+Wrong: dead	EXS
+Right: dead	IST
+
+Prev: listens	ENS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: friendly	IST
+Wrong: as	AND
+Right: as	SUB
+
+Prev: used	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: n't	NOT
+Wrong: been	PFT
+Right: been	EXS
+
+Prev: we	PRO
+Wrong: sleep	EXS
+Right: sleep	ENS
+
+Prev: is	NOW
+Wrong: one	QUC
+Right: one	DIS
+
+Prev: She	PRO
+Wrong: 's	NOW
+Right: 's	HAS
+
+Prev: only	XCL
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: going	EXG
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: often	IST
+Wrong: compare	EXS
+Right: compare	ENS
+
+Prev: happy	EXS
+Wrong: about	AND
+Right: about	REL
+
+Wrong: Old	ORG
+Right: Old	IST
+
+Prev: are	NOW
+Wrong: crumbling	EXS
+Right: crumbling	EXG
+
+Prev: too	INT
+Wrong: ridiculous	IST
+Right: ridiculous	EXS
+
+Prev: anyone	DIS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: so	INT
+Wrong: unfair	IST
+Right: unfair	EXS
+
+Prev: unfair	EXS
+Wrong: sometimes	IST
+Right: sometimes	DIS
+
+Prev: happy	EXS
+Wrong: living	EXS
+Right: living	EXG
+
+Prev: her	HAS
+Wrong: mother-in-law	CON
+Right: mother-in-law	ROL
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: I	PRO
+Wrong: guess	NOW
+Right: guess	ENS
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: story	CON
+Wrong: reminded	PST
+Right: reminded	EPS
+
+Wrong: Seeing	AND
+Right: Seeing	EXG
+
+Prev: up	IST
+Wrong: to	SUB
+Right: to	REL
+
+Prev: You	PRO
+Wrong: say	NOW
+Right: say	ENS
+
+Prev: know	ENS
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: who	AND
+Wrong: feel	NOW
+Right: feel	ENS
+
+Prev: 're	NOW
+Wrong: working	EXS
+Right: working	EXG
+
+Prev: too	INT
+Wrong: busy	EXS
+Right: busy	IST
+
+Prev: am	NOW
+Wrong: shooting	EXS
+Right: shooting	EXG
+
+Prev: Russian	GPO
+Wrong: machine-gun	ROL
+Right: machine-gun	CON
+
+Prev: talk	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Wrong: It	PRO
+Right: It	NIL
+
+Prev: is	NOW
+Wrong: almost	INT
+Right: almost	LES
+
+Prev: theater	CON
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: What	QUE
+Wrong: keeps	NOW
+Right: keeps	ENS
+
+Prev: at	REL
+Wrong: night	CON
+Right: night	TIM
+
+Prev: who	AND
+Wrong: makes	NOW
+Right: makes	ENS
+
+Prev: lots	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: different	ALT
+Wrong: than	MOR
+Right: than	AND
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: think	ENS
+Wrong: about	INT
+Right: about	REL
+
+Prev: about	REL
+Wrong: Tom	LIT
+Right: Tom	PER
+
+Prev: ,	NIL
+Wrong: her	PRO
+Right: her	HAS
+
+Prev: her	HAS
+Wrong: acting	EXS
+Right: acting	CON
+
+Prev: very	INT
+Wrong: tired	EXS
+Right: tired	IST
+
+Prev: ,	NIL
+Wrong: so	COO
+Right: so	SUB
+
+Prev: asleep	EXS
+Wrong: right	IST
+Right: right	AND
+
+Prev: Smith	PER
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: a	DIS
+Wrong: lot	CON
+Right: lot	UOM
+
+Prev: lot	UOM
+Wrong: of	AND
+Right: of	REL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: rats	CON
+Wrong: in	REL
+Right: in	EXS
+
+Prev: that	SUB
+Wrong: cold	EXS
+Right: cold	IST
+
+Prev: need	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: had	PST
+Wrong: met	EXS
+Right: met	EPS
+
+Prev: OK	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: tell	EXS
+Wrong: lies	ENS
+Right: lies	CON
+
+Wrong: Cherry	HES
+Right: Cherry	CON
+
+Prev: Cherry	CON
+Wrong: are	EQU
+Right: are	NOW
+
+Prev: are	NOW
+Wrong: now	IST
+Right: now	NOW
+
+Prev: in	REL
+Wrong: Washington	GEO
+Right: Washington	GPE
+
+Prev: This	PRX
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: Miss	ROL
+Wrong: Curtis	LIT
+Right: Curtis	PER
+
+Prev: n't	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: kids	CON
+Wrong: do	NOW
+Right: do	EXS
+
+Prev: talks	CON
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: errs	ENS
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: when	SUB
+Wrong: one	QUC
+Right: one	DIS
+
+Prev: vowed	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: get	EXS
+Wrong: any	AND
+Right: any	DIS
+
+Prev: got	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: place	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: trying	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: who	AND
+Wrong: owns	NOW
+Right: owns	ENS
+
+Wrong: Yesterday	TIM
+Right: Yesterday	PST
+
+Prev: went	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: what	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: and	AND
+Wrong: mind	CON
+Right: mind	EXS
+
+Prev: boy	CON
+Wrong: speaking	EXS
+Right: speaking	EXG
+
+Prev: speaking	EXG
+Wrong: English	GPO
+Right: English	CON
+
+Prev: 'm	NOW
+Wrong: concerned	EXS
+Right: concerned	IST
+
+Prev: concerned	IST
+Wrong: about	AND
+Right: about	REL
+
+Prev: wife	CON
+Wrong: 's	NOW
+Right: 's	REL
+
+Prev: the	DEF
+Wrong: mother	CON
+Right: mother	ROL
+
+Prev: mother	ROL
+Wrong: of	AND
+Right: of	REL
+
+Prev: son	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: happen	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: name	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: How	QUE
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: Tom	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: I	PRO
+Wrong: 'm	NOW
+Right: 'm	NIL
+
+Prev: 'm	NIL
+Wrong: going	EXS
+Right: going	FUT
+
+Prev: going	FUT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: at	REL
+Wrong: tatoeba.org	CLO
+Right: tatoeba.org	QUE
+
+Prev: database	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: came	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: the	DEF
+Wrong: Earth	GEO
+Right: Earth	CON
+
+Prev: Earth	CON
+Wrong: orbits	EQU
+Right: orbits	ENS
+
+Prev: eclipse	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: intend	EXS
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: how	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: lots	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: things	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: you	PRO
+Wrong: know	ENS
+Right: know	EXS
+
+Prev: time	CON
+Wrong: that	SUB
+Right: that	AND
+
+Prev: supposed	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: husband	CON
+Wrong: 's	NOW
+Right: 's	REL
+
+Wrong: Having	EXT
+Right: Having	EXS
+
+Prev: is	NOW
+Wrong: sometimes	IST
+Right: sometimes	DIS
+
+Prev: pyramids	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: wonders	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: lots	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: not	NOT
+Wrong: happy	EXS
+Right: happy	IST
+
+Prev: wall	CON
+Wrong: feels	NOW
+Right: feels	ENS
+
+Prev: feels	ENS
+Wrong: cold	EXS
+Right: cold	IST
+
+Prev: Who	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Wrong: About	AND
+Right: About	REL
+
+Prev: be	EXS
+Wrong: over	AND
+Right: over	IST
+
+Wrong: Skating	HES
+Right: Skating	EXS
+
+Prev: Skating	EXS
+Wrong: is	EQU
+Right: is	ENS
+
+Prev: is	ENS
+Wrong: one	QUC
+Right: one	DIS
+
+Prev: one	DIS
+Wrong: of	AND
+Right: of	REL
+
+Wrong: Was	ORG
+Right: Was	PST
+
+Prev: just	IST
+Wrong: ajar	DEC
+Right: ajar	PRX
+
+Prev: ajar	PRX
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: Take	EXS
+Wrong: care	CON
+Right: care	EXS
+
+Prev: not	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Now	AND
+Right: Now	NOW
+
+Prev: wait	EXS
+Wrong: just	IST
+Right: just	AND
+
+Wrong: Polyglots	HES
+Right: Polyglots	NIL
+
+Prev: Polyglots	NIL
+Wrong: are	EQU
+Right: are	NOW
+
+Prev: are	NOW
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: bolt	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: lightning	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: then	AND
+Wrong: vanished	EXS
+Right: vanished	EPS
+
+Prev: I	PRO
+Wrong: feel	NOW
+Right: feel	ENS
+
+Prev: feel	ENS
+Wrong: like	EXS
+Right: like	AND
+
+Prev: air	CON
+Wrong: feels	NOW
+Right: feels	ENS
+
+Wrong: Auto-destruct	HES
+Right: Auto-destruct	CON
+
+Prev: you	PRO
+Wrong: have	NOW
+Right: have	EXS
+
+Prev: 's	NOW
+Wrong: difficult	EXS
+Right: difficult	IST
+
+Prev: difficult	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: you	PRO
+Wrong: have	NOW
+Right: have	EXS
+
+Prev: anything	DIS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: never	NOT
+Wrong: felt	EXS
+Right: felt	EXT
+
+Prev: process	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Mary	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: He	PRO
+Wrong: is	NOW
+Right: is	FUT
+
+Prev: is	FUT
+Wrong: leaving	EXS
+Right: leaving	EXG
+
+Prev: dwarf	CON
+Wrong: just	AND
+Right: just	IST
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: There	NIL
+Wrong: 's	NOW
+Right: 's	ENS
+
+Wrong: Father	PER
+Right: Father	ROL
+
+Prev: recently	IST
+Wrong: come	EXS
+Right: come	EXT
+
+Prev: back	IST
+Wrong: to	SUB
+Right: to	REL
+
+Prev: a	DIS
+Wrong: traitor	CON
+Right: traitor	ROL
+
+Prev: "	NIL
+Wrong: Christmas	TIM
+Right: Christmas	UNK
+
+Prev: rich	IST
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: Re	NIL
+Wrong: read	EXS
+Right: read	EPS
+
+Prev: risk	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: ,	NIL
+Wrong: that	SUB
+Right: that	AND
+
+Prev: was	PST
+Wrong: quick	EXS
+Right: quick	IST
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: went	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: Tom	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: 's	REL
+Wrong: last	IST
+Right: last	ORD
+
+Prev: last	ORD
+Wrong: girlfriend	CON
+Right: girlfriend	ROL
+
+Prev: girlfriend	ROL
+Wrong: was	PST
+Right: was	EPS
+
+Prev: was	PST
+Wrong: like	EXS
+Right: like	AND
+
+Prev: father	ROL
+Wrong: to	SUB
+Right: to	REL
+
+Prev: seem	EXS
+Wrong: particularly	AND
+Right: particularly	INT
+
+Prev: particularly	INT
+Wrong: worried	EXS
+Right: worried	IST
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: more	MOR
+Wrong: beautiful	IST
+Right: beautiful	EXS
+
+Prev: beautiful	EXS
+Wrong: than	MOR
+Right: than	AND
+
+Prev: I	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: be	EXS
+Wrong: arriving	EXS
+Right: arriving	EXG
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: ever	IST
+Wrong: cut	EXS
+Right: cut	EPS
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: just	IST
+Wrong: talk	EXS
+Right: talk	CON
+
+Prev: expected	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: end	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: almost	INT
+Wrong: always	IST
+Right: always	AND
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: wish	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: a	DIS
+Wrong: dentist	CON
+Right: dentist	ROL
+
+Prev: in	REL
+Wrong: future	CON
+Right: future	FUT
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: front	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: before	REL
+Wrong: 5	QUC
+Right: 5	CLO
+
+Prev: ,	NIL
+Wrong: just	AND
+Right: just	IST
+
+Prev: me	PRO
+Wrong: know	ENS
+Right: know	EXS
+
+Prev: n't	NOT
+Wrong: funny	EXS
+Right: funny	IST
+
+Prev: ever	IST
+Wrong: told	EPS
+Right: told	EXT
+
+Prev: like	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: ,	NIL
+Wrong: down-to-earth	BUT
+Right: down-to-earth	AND
+
+Prev: flesh	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: was	PST
+Wrong: making	EXS
+Right: making	EXG
+
+Wrong: Human	ORG
+Right: Human	CON
+
+Prev: Human	CON
+Wrong: remains	NOW
+Right: remains	CON
+
+Prev: very	INT
+Wrong: good	IST
+Right: good	EXS
+
+Prev: The	DEF
+Wrong: crescent	DEC
+Right: crescent	IST
+
+Prev: symbol	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: Islam	GEO
+Right: Islam	CON
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: very	INT
+Wrong: sweet	EXS
+Right: sweet	IST
+
+Prev: made	EPS
+Wrong: Texas	GEO
+Right: Texas	GPE
+
+Prev: went	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: is	NOW
+Wrong: taking	EXS
+Right: taking	EXG
+
+Prev: 'll	FUT
+Wrong: have	EXT
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: you	PRO
+Wrong: like	ENS
+Right: like	EXS
+
+Prev: He	PRO
+Wrong: drives	NOW
+Right: drives	ENS
+
+Wrong: Tom	PER
+Right: Tom	LIT
+
+Prev: up	IST
+Wrong: early	IST
+Right: early	AND
+
+Prev: early	AND
+Wrong: almost	AND
+Right: almost	IST
+
+Prev: He	PRO
+Wrong: always	IST
+Right: always	AND
+
+Prev: always	AND
+Wrong: keeps	NOW
+Right: keeps	ENS
+
+Prev: girl	CON
+Wrong: sees	NOW
+Right: sees	ENS
+
+Prev: ,	NIL
+Wrong: that	SUB
+Right: that	AND
+
+Prev: that	AND
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: hands	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: 's	NOW
+Wrong: like	EXS
+Right: like	AND
+
+Prev: n't	NOT
+Wrong: helpful	EXS
+Right: helpful	IST
+
+Prev: He	PRO
+Wrong: gives	NOW
+Right: gives	ENS
+
+Prev: plain	IST
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: they	PRO
+Wrong: important	IST
+Right: important	EXS
+
+Prev: important	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: you	PRO
+Wrong: like	ENS
+Right: like	EXS
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: yourself	REF
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: have	NOW
+Wrong: lost	EXS
+Right: lost	EXT
+
+Prev: Tom	PER
+Wrong: look	NOW
+Right: look	EXS
+
+Prev: nervous	IST
+Wrong: to	SUB
+Right: to	REL
+
+Prev: Tom	PER
+Wrong: enjoys	NOW
+Right: enjoys	ENS
+
+Prev: enjoys	ENS
+Wrong: reading	EXS
+Right: reading	EXG
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: write	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Wrong: Had	AND
+Right: Had	PST
+
+Prev: they	PRO
+Wrong: left	EPS
+Right: left	EXT
+
+Prev: little	IST
+Wrong: earlier	AND
+Right: earlier	IST
+
+Prev: have	EXT
+Wrong: avoided	EXS
+Right: avoided	EXT
+
+Prev: I	PRO
+Wrong: apologize	EXS
+Right: apologize	ENS
+
+Prev: apologize	ENS
+Wrong: for	REL
+Right: for	SUB
+
+Prev: lucky	EXS
+Wrong: and	AND
+Right: and	COO
+
+Prev: really	IST
+Wrong: listening	EXS
+Right: listening	EXG
+
+Prev: short	IST
+Wrong: break	CON
+Right: break	EXS
+
+Prev: was	PST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: sight	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: not	NOT
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: going	EXG
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: America	GEO
+Right: America	GPE
+
+Prev: 'm	NOW
+Wrong: agreeing	EXS
+Right: agreeing	EXG
+
+Prev: agreeing	EXG
+Wrong: to	SUB
+Right: to	REL
+
+Wrong: War	ORG
+Right: War	CON
+
+Prev: soldiers	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: go	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: 's	ENS
+Wrong: quite	IST
+Right: quite	INT
+
+Prev: thing	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: He	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: friend	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: help	CON
+Right: help	EXS
+
+Prev: 'm	NOW
+Wrong: penniless	PRG
+Right: penniless	EXS
+
+Prev: penniless	EXS
+Wrong: ;	NIL
+Right: ;	COO
+
+Prev: n't	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: likely	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: find	EXS
+Wrong: that	SUB
+Right: that	DST
+
+Prev: dictionary	CON
+Wrong: that	SUB
+Right: that	AND
+
+Prev: that	AND
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: equivalent	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: B	UNK
+Right: B	NTH
+
+Prev: "	NIL
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: is	NOW
+Wrong: true	EXS
+Right: true	IST
+
+Prev: if	IMP
+Wrong: B	UNK
+Right: B	NTH
+
+Prev: I	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: some	DIS
+Wrong: kipper	PRI
+Right: kipper	CON
+
+Prev: the	DEF
+Wrong: teacher	CON
+Right: teacher	ROL
+
+Prev: She	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: the	DEF
+Wrong: most	TOP
+Right: most	INT
+
+Wrong: Maybe	POS
+Right: Maybe	AND
+
+Wrong: Obviously	CON
+Right: Obviously	AND
+
+Prev: speaks	ENS
+Wrong: English	GPO
+Right: English	CON
+
+Prev: speak	EXS
+Wrong: Spanish	GPO
+Right: Spanish	CON
+
+Prev: intending	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: plans	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Never	NOT
+Wrong: have	EXT
+Right: have	NOW
+
+Prev: I	PRO
+Wrong: seen	EXS
+Right: seen	EXT
+
+Prev: have	EXT
+Wrong: paid	EXS
+Right: paid	EXT
+
+Prev: attention	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: remember	NOW
+Right: remember	ENS
+
+Prev: remember	ENS
+Wrong: mentioning	PRG
+Right: mentioning	EXG
+
+Prev: mentioning	EXG
+Wrong: it	NIL
+Right: it	PRO
+
+Prev: never	NOT
+Wrong: say	EXS
+Right: say	ENS
+
+Prev: really	IST
+Wrong: think	EXS
+Right: think	ENS
+
+Prev: was	PST
+Wrong: boiling	EXS
+Right: boiling	EXG
+
+Prev: large	IST
+Wrong: cauldron	DEC
+Right: cauldron	CON
+
+Prev: is	NOW
+Wrong: man-made	IST
+Right: man-made	EXS
+
+Prev: man-made	EXS
+Wrong: and	AND
+Right: and	COO
+
+Prev: can	POS
+Wrong: be	EXS
+Right: be	EXG
+
+Prev: actions	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: human	GEO
+Right: human	CON
+
+Prev: your	HAS
+Wrong: French	GPO
+Right: French	CON
+
+Prev: French	CON
+Wrong: so	IST
+Right: so	INT
+
+Prev: you	PRO
+Wrong: want	ENS
+Right: want	EXS
+
+Prev: the	DEF
+Wrong: past	IST
+Right: past	CON
+
+Prev: was	PST
+Wrong: thought	EXS
+Right: thought	EPS
+
+Prev: 're	NOW
+Wrong: looking	EXS
+Right: looking	EXG
+
+Prev: 'm	NOW
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: going	EXG
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Clothes	HES
+Right: Clothes	CON
+
+Prev: Clothes	CON
+Wrong: make	NIL
+Right: make	ENS
+
+Prev: ,	NIL
+Wrong: rags	BUT
+Right: rags	CON
+
+Prev: rags	CON
+Wrong: make	EXS
+Right: make	ENS
+
+Prev: make	ENS
+Wrong: lice	REF
+Right: lice	CON
+
+Prev: like	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: they	PRO
+Wrong: belong	NOW
+Right: belong	EXS
+
+Prev: belong	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: for	REL
+Wrong: helping	EXG
+Right: helping	EXS
+
+Prev: ,	NIL
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: is	NOW
+Wrong: evil	IST
+Right: evil	EXS
+
+Prev: anger	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: greed	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: resentment	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: inferiority	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: lies	ENS
+Right: lies	CON
+
+Prev: joy	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: peace	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: love	EXS
+Right: love	CON
+
+Prev: love	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: hope	NOW
+Right: hope	CON
+
+Prev: hope	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: kindness	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: boy	CON
+Wrong: thought	EPS
+Right: thought	PST
+
+Prev: thought	PST
+Wrong: about	AND
+Right: about	REL
+
+Prev: it	PRO
+Wrong: and	AND
+Right: and	COO
+
+Prev: ,	NIL
+Wrong: which	UNK
+Right: which	AND
+
+Prev: you	PRO
+Wrong: feed	EXS
+Right: feed	ENS
+
+Prev: not	NOT
+Wrong: creative	EXS
+Right: creative	IST
+
+Prev: for	REL
+Wrong: Kyoto	GEO
+Right: Kyoto	GPE
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: has	NOW
+Wrong: come	EXS
+Right: come	EXT
+
+Prev: come	EXT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: only	XCL
+Wrong: one	QUC
+Right: one	CON
+
+Prev: 's	NOW
+Wrong: clever	EXS
+Right: clever	IST
+
+Prev: We	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: very	INT
+Wrong: dangerous	IST
+Right: dangerous	EXS
+
+Prev: 're	NOW
+Wrong: climbing	EXS
+Right: climbing	EXG
+
+Wrong: Mom	PER
+Right: Mom	ROL
+
+Prev: is	NOW
+Wrong: about	INT
+Right: about	IST
+
+Prev: about	IST
+Wrong: to	REL
+Right: to	NIL
+
+Prev: be	EXS
+Wrong: there	IST
+Right: there	DST
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: 's	ENS
+Wrong: Glauke	ORD
+Right: Glauke	NIL
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: my	HAS
+Wrong: German	GPO
+Right: German	CON
+
+Prev: really	IST
+Wrong: bad	IST
+Right: bad	EXS
+
+Prev: you	PRO
+Wrong: say	NOW
+Right: say	EXS
+
+Prev: try	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: even	IST
+Wrong: offer	CON
+Right: offer	EXS
+
+Prev: cup	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Albert	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: theory	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: stop	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: I	PRO
+Wrong: recall	NOW
+Right: recall	ENS
+
+Prev: 're	NOW
+Wrong: having	EXS
+Right: having	EXG
+
+Prev: is	NOW
+Wrong: leaning	CON
+Right: leaning	EXG
+
+Prev: ,	NIL
+Wrong: but	BUT
+Right: but	COO
+
+Prev: came	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: sure	IST
+Wrong: anyone	AND
+Right: anyone	DIS
+
+Prev: designed	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: known	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: Kelly	PER
+Wrong: carries	NOW
+Right: carries	ENS
+
+Prev: someone	DIS
+Wrong: is	NOW
+Right: is	ENS
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: no	NOT
+Wrong: redder	XCL
+Right: redder	QUE
+
+Prev: nothing	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: be	EXS
+Wrong: there	IST
+Right: there	DST
+
+Prev: computers	CON
+Wrong: use	CON
+Right: use	ENS
+
+Prev: use	ENS
+Wrong: punch	CON
+Right: punch	EXS
+
+Prev: you	PRO
+Wrong: remember	NOW
+Right: remember	EXS
+
+Prev: remember	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: lawyer	ROL
+Wrong: and	AND
+Right: and	COO
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: you	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: us	PRO
+Wrong: to	SUB
+Right: to	REL
+
+Prev: is	NOW
+Wrong: always	IST
+Right: always	AND
+
+Prev: always	AND
+Wrong: poking	DEC
+Right: poking	EXG
+
+Wrong: Love	PER
+Right: Love	CON
+
+Prev: spell	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: married	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: talk	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: taxi	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: widow	CON
+Wrong: had	PST
+Right: had	NEC
+
+Prev: had	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: are	NOW
+Wrong: almost	INT
+Right: almost	IST
+
+Prev: how	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: trying	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: slice	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: enough	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Anybody	AND
+Right: Anybody	DIS
+
+Prev: who	AND
+Wrong: Florence	GEO
+Right: Florence	PER
+
+Prev: Florence	PER
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: a	DIS
+Wrong: subordinate	IST
+Right: subordinate	CON
+
+Prev: museums	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: Florence	GEO
+Right: Florence	GPE
+
+Prev: 've	EXT
+Wrong: done	EXS
+Right: done	EXT
+
+Prev: be	EXS
+Wrong: over	AND
+Right: over	IST
+
+Prev: be	EXS
+Wrong: needing	EXS
+Right: needing	EXG
+
+Prev: Where	QUE
+Wrong: 's	HAS
+Right: 's	EXS
+
+Prev: They	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Wrong: Pocket	HES
+Right: Pocket	DEF
+
+Prev: Pocket	DEF
+Wrong: calculators	End_Sent
+Right: calculators	CON
+
+Prev: cheap	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: pair	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: and	COO
+Wrong: as	AND
+Right: as	SUB
+
+Prev: as	SUB
+Wrong: essential	IST
+Right: essential	EXS
+
+Prev: essential	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: thousands	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: and	AND
+Wrong: eraser	GEO
+Right: eraser	CON
+
+Prev: light	CON
+Wrong: blinds	CON
+Right: blinds	AND
+
+Prev: We	PRO
+Wrong: adjourned	EXS
+Right: adjourned	EPS
+
+Prev: world	CON
+Wrong: eat	EXS
+Right: eat	ENS
+
+Prev: The	DEF
+Wrong: cube	DEC
+Right: cube	CON
+
+Prev: root	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Tom	PER
+Wrong: 's	HAS
+Right: 's	REL
+
+Prev: have	NOW
+Wrong: come	EXS
+Right: come	EXT
+
+Prev: actually	IST
+Wrong: did	PST
+Right: did	EPS
+
+Prev: Those	DST
+Wrong: selected	IST
+Right: selected	EXS
+
+Prev: will	FUT
+Wrong: have	EXT
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: "	NIL
+Wrong: Man	ORG
+Right: Man	CON
+
+Prev: do	EXS
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: he	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: and	AND
+Right: and	COO
+
+Prev: are	NOW
+Wrong: lifeguards	PRG
+Right: lifeguards	ROL
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Will	PER
+Right: Will	FUT
+
+Prev: you	PRO
+Wrong: look	NOW
+Right: look	EXS
+
+Prev: ever	IST
+Wrong: told	EPS
+Right: told	EXT
+
+Prev: expensive	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: 've	NOW
+Wrong: helped	EXS
+Right: helped	EXT
+
+Prev: They	PRO
+Wrong: got	EPS
+Right: got	PST
+
+Prev: got	PST
+Wrong: married	EXS
+Right: married	IST
+
+Prev: months	CON
+Wrong: later	AND
+Right: later	REL
+
+Prev: He	PRO
+Wrong: makes	NOW
+Right: makes	ENS
+
+Prev: disguise	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: It	PRO
+Wrong: takes	NOW
+Right: takes	ENS
+
+Prev: n't	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: car	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: She	PRO
+Wrong: always	IST
+Right: always	AND
+
+Prev: n't	NOT
+Wrong: got	EXS
+Right: got	EXT
+
+Prev: death	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: We	PRO
+Wrong: regard	NOW
+Right: regard	ENS
+
+Prev: tried	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: him	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: buy	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Wrong: Please	ITJ
+Right: Please	IST
+
+Prev: Please	IST
+Wrong: give	ENS
+Right: give	EXS
+
+Prev: a	DIS
+Wrong: cupful	PRI
+Right: cupful	CON
+
+Prev: cupful	CON
+Wrong: of	REL
+Right: of	NIL
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Wrong: Newton's	HES
+Right: Newton's	CON
+
+Prev: is	NOW
+Wrong: equal	IST
+Right: equal	EXS
+
+Prev: equal	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: mass	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: equals	AND
+Wrong: mass	CON
+Right: mass	IST
+
+Prev: goodnight	NIL
+Wrong: to	SUB
+Right: to	REL
+
+Prev: n't	NOT
+Wrong: know	EXS
+Right: know	ENS
+
+Prev: thought	EPS
+Wrong: about	AND
+Right: about	REL
+
+Prev: soon	IST
+Wrong: as	AND
+Right: as	SUB
+
+Prev: I	PRO
+Wrong: read	EXS
+Right: read	ENS
+
+Prev: for	REL
+Wrong: forgetting	EXG
+Right: forgetting	GEO
+
+Prev: forgetting	GEO
+Wrong: about	AND
+Right: about	REL
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: He	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: In	REL
+Wrong: 1683	CLO
+Right: 1683	YOC
+
+Prev: attacked	EPS
+Wrong: Vienna	GEO
+Right: Vienna	GPE
+
+Prev: the	DEF
+Wrong: second	IST
+Right: second	ORD
+
+Prev: have	EXT
+Wrong: discussed	EXS
+Right: discussed	EXT
+
+Prev: a	DIS
+Wrong: Ferrari	PRI
+Right: Ferrari	ORG
+
+Prev: Ferrari	ORG
+Wrong: or	IST
+Right: or	DIS
+
+Prev: a	DIS
+Wrong: Lamborghini	PRI
+Right: Lamborghini	CON
+
+Prev: Lamborghini	CON
+Wrong: ?	NIL
+Right: ?	QUE
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: government	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: ,	NIL
+Wrong: then	AND
+Right: then	IST
+
+Prev: dash	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Dad	PER
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: I	PRO
+Wrong: send	EXS
+Right: send	ENS
+
+Prev: it	PRO
+Wrong: cost	EPS
+Right: cost	EXS
+
+Prev: Tolerance	CON
+Wrong: becomes	NOW
+Right: becomes	ENS
+
+Prev: applied	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: have	NOW
+Wrong: had	EXS
+Right: had	EXT
+
+Prev: friend	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: 's	PRO
+Wrong: hope	CON
+Right: hope	EXS
+
+Prev: 's	NOW
+Wrong: all	PRG
+Right: all	IST
+
+Prev: soup	CON
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: 's	HAS
+Wrong: changed	EXS
+Right: changed	EPS
+
+Prev: changed	EPS
+Wrong: so	IST
+Right: so	INT
+
+Prev: much	QUC
+Wrong: that	AND
+Right: that	SUB
+
+Prev: The	DEF
+Wrong: mother	CON
+Right: mother	ROL
+
+Prev: us	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: go	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Wrong: Persistence	HES
+Right: Persistence	CON
+
+Wrong: How	QUE
+Right: How	AND
+
+Prev: were	PST
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: the	DEF
+Wrong: English	GPO
+Right: English	CON
+
+Prev: "	NIL
+Wrong: kaisha	BUT
+Right: kaisha	NIL
+
+Prev: We	PRO
+Wrong: use	NOW
+Right: use	ENS
+
+Prev: you	PRO
+Wrong: have	NOW
+Right: have	EXS
+
+Prev: make	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: never	NOT
+Wrong: told	EXS
+Right: told	EPS
+
+Prev: worked	EPS
+Wrong: as	SUB
+Right: as	AND
+
+Prev: if	IMP
+Wrong: there	UNK
+Right: there	NIL
+
+Wrong: Insects	HES
+Right: Insects	CON
+
+Prev: Insects	CON
+Wrong: are	EQU
+Right: are	NOW
+
+Prev: source	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: need	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Sumo	PER
+Right: Sumo	CON
+
+Prev: wrestling	CON
+Wrong: is	NOW
+Right: is	ENS
+
+Prev: traditional	IST
+Wrong: Japanese	GPO
+Right: Japanese	GPE
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: us	PRO
+Wrong: about	AND
+Right: about	REL
+
+Prev: tried	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: pry	CTC
+Right: pry	EXS
+
+Prev: pry	EXS
+Wrong: open	IST
+Right: open	EXS
+
+Wrong: How	QUE
+Right: How	AND
+
+Prev: prove	EXS
+Wrong: that	SUB
+Right: that	DST
+
+Wrong: Delegates	HES
+Right: Delegates	CON
+
+Prev: pleasure	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: watch	CON
+Right: watch	EXS
+
+Prev: Tom	PER
+Wrong: has	NOW
+Right: has	ENS
+
+Wrong: Will	PER
+Right: Will	FUT
+
+Prev: please	IST
+Wrong: call	CON
+Right: call	EXS
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: Is	NOW
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: only	XCL
+Wrong: begotten	QUC
+Right: begotten	CON
+
+Prev: bosom	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: the	DEF
+Wrong: Father	PER
+Right: Father	ROL
+
+Prev: hath	NOW
+Wrong: declared	EXS
+Right: declared	EXT
+
+Prev: woke	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: was	PST
+Wrong: always	IST
+Right: always	AND
+
+Prev: my	HAS
+Wrong: favorite	IST
+Right: favorite	CON
+
+Prev: in	REL
+Wrong: any	AND
+Right: any	DIS
+
+Prev: You	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: in	REL
+Wrong: to	REL
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: conciliate	CLO
+Right: conciliate	QUE
+
+Prev: stopped	EPS
+Wrong: working	EXS
+Right: working	EXG
+
+Prev: sorry	EXS
+Wrong: about	AND
+Right: about	REL
+
+Prev: you	PRO
+Wrong: and	AND
+Right: and	GRP
+
+Prev: kind	CON
+Wrong: of	AND
+Right: of	REL
+
+Wrong: 1	QUC
+Right: 1	UNK
+
+Wrong: 2	QUC
+Right: 2	UNK
+
+Wrong: 3	QUC
+Right: 3	UNK
+
+Prev: 's	NOW
+Wrong: having	EXS
+Right: having	EXT
+
+Prev: I	PRO
+Wrong: read	EXS
+Right: read	ENS
+
+Prev: years	UOM
+Wrong: old	DEG
+Right: old	IST
+
+Prev: went	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: just	AND
+Wrong: as	AND
+Right: as	SUB
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: The	DEF
+Wrong: buds	DEC
+Right: buds	CON
+
+Prev: began	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: in	REL
+Wrong: Greece	GEO
+Right: Greece	GPE
+
+Prev: been	PFT
+Wrong: living	EXS
+Right: living	EXG
+
+Prev: Days	CON
+Wrong: go	EXS
+Right: go	ENS
+
+Prev: by	REL
+Wrong: and	AND
+Right: and	COO
+
+Prev: sign	EXS
+Wrong: of	AND
+Right: of	REL
+
+Prev: 're	NOW
+Wrong: braver	PRG
+Right: braver	MOR
+
+Prev: braver	MOR
+Wrong: than	NOT
+Right: than	AND
+
+Prev: that	SUB
+Wrong: smoking	EXS
+Right: smoking	CON
+
+Prev: is	NOW
+Wrong: bad	IST
+Right: bad	EXS
+
+Prev: a	DIS
+Wrong: refugee	CON
+Right: refugee	ROL
+
+Prev: Tom	PER
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: Saturday	DOW
+Wrong: practicing	EXS
+Right: practicing	EXG
+
+Prev: talent	CON
+Wrong: show	NOW
+Right: show	CON
+
+Prev: 's	NOW
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: the	DEF
+Wrong: German	GPO
+Right: German	CON
+
+Prev: both	AND
+Wrong: like	AND
+Right: like	ENS
+
+Prev: let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: food	CON
+Wrong: gets	NOW
+Right: gets	ENS
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: just	IST
+Wrong: arrived	EPS
+Right: arrived	EXT
+
+Prev: took	EPS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: The	DEF
+Wrong: policeman	CON
+Right: policeman	ROL
+
+Prev: was	PST
+Wrong: pretty	INT
+Right: pretty	IST
+
+Prev: had	PST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: so	INT
+Wrong: valuable	IST
+Right: valuable	EXS
+
+Prev: drank	EPS
+Wrong: any	AND
+Right: any	DIS
+
+Prev: thing	CON
+Wrong: but	COO
+Right: but	NOT
+
+Prev: but	NOT
+Wrong: soda	EPS
+Right: soda	CON
+
+Prev: be	EXS
+Wrong: wrong	EXS
+Right: wrong	IST
+
+Prev: ,	NIL
+Wrong: as	AND
+Right: as	SUB
+
+Prev: It	PRO
+Wrong: 's	NOW
+Right: 's	HAS
+
+Prev: is	NOW
+Wrong: exactly	IST
+Right: exactly	EQU
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: be	EXS
+Wrong: as	AND
+Right: as	SUB
+
+Prev: as	SUB
+Wrong: rich	IST
+Right: rich	EXS
+
+Wrong: Grennan	HES
+Right: Grennan	NIL
+
+Prev: translation	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: of	REL
+Wrong: Leopardi	GEO
+Right: Leopardi	NIL
+
+Prev: very	INT
+Wrong: difficult	IST
+Right: difficult	EXS
+
+Prev: acts	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: one	CON
+Wrong: that	SUB
+Right: that	AND
+
+Prev: that	AND
+Wrong: counts	CON
+Right: counts	ENS
+
+Prev: my	HAS
+Wrong: friend	CON
+Right: friend	ROL
+
+Prev: long	IST
+Wrong: as	AND
+Right: as	SUB
+
+Wrong: Will	PER
+Right: Will	FUT
+
+Prev: never	NOT
+Wrong: thought	EXS
+Right: thought	EPS
+
+Prev: it	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: hard	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: are	NOW
+Wrong: living	EXS
+Right: living	EXG
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: have	EXS
+Wrong: any	AND
+Right: any	DIS
+
+Prev: short	IST
+Wrong: of	AND
+Right: of	REL
+
+Wrong: Friendship	HES
+Right: Friendship	CON
+
+Prev: Friendship	CON
+Wrong: is	EQU
+Right: is	NOW
+
+Prev: They	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: be	EXS
+Wrong: able	IST
+Right: able	POS
+
+Prev: able	POS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: She	PRO
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: a	DIS
+Wrong: cold	IST
+Right: cold	CON
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: reminded	PST
+Right: reminded	EPS
+
+Prev: Mary	PER
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: go	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: He	PRO
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: has	ENS
+Wrong: perfect	EXS
+Right: perfect	IST
+
+Prev: friend	CON
+Wrong: anything	AND
+Right: anything	DIS
+
+Prev: job	CON
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: has	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: ,	NIL
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: bottom	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: you	PRO
+Wrong: get	EXS
+Right: get	ENS
+
+Prev: get	ENS
+Wrong: there	IST
+Right: there	DST
+
+Prev: laughs	ENS
+Wrong: a	HAP
+Right: a	QUV
+
+Prev: Tom	PER
+Wrong: had	PST
+Right: had	EPS
+
+Prev: door	CON
+Wrong: locked	EPS
+Right: locked	EXS
+
+Prev: were	PST
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: out	IST
+Wrong: to	SUB
+Right: to	REL
+
+Prev: seems	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: is	NOW
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: She	PRO
+Wrong: looks	NOW
+Right: looks	ENS
+
+Prev: not	NOT
+Wrong: having	EXS
+Right: having	EXG
+
+Prev: sense	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: him	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: lied	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: attributed	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: fun	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: than	AND
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: only	XCL
+Wrong: speak	EXS
+Right: speak	ENS
+
+Prev: speak	ENS
+Wrong: French	GPO
+Right: French	CON
+
+Prev: side	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: far	IST
+Wrong: as	AND
+Right: as	SUB
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: I	PRO
+Wrong: wonder	NOW
+Right: wonder	ENS
+
+Prev: saw	EPS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: that	DST
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: not	NOT
+Wrong: playing	EXS
+Right: playing	EXG
+
+Wrong: Internet	UNK
+Right: Internet	CON
+
+Prev: very	INT
+Wrong: slow	EXS
+Right: slow	IST
+
+Wrong: Whoever	PRO
+Right: Whoever	AND
+
+Prev: in	REL
+Wrong: Austria	GEO
+Right: Austria	GPE
+
+Prev: Austria	GPE
+Wrong: ,	EQU
+Right: ,	NIL
+
+Prev: has	NOW
+Wrong: fallen	EXS
+Right: fallen	EXT
+
+Prev: really	IST
+Wrong: mean	EXS
+Right: mean	ENS
+
+Prev: We	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: 'd	PST
+Wrong: better	IST
+Right: better	MOR
+
+Prev: better	MOR
+Wrong: hurry	CON
+Right: hurry	EXS
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: front	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: are	NOW
+Wrong: there	UNK
+Right: there	NIL
+
+Prev: am	NOW
+Wrong: calling	EXS
+Right: calling	EXG
+
+Prev: of	AND
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: going	EXG
+Wrong: to	SUB
+Right: to	REL
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: step	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: of	AND
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: seem	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: have	EXS
+Wrong: any	AND
+Right: any	DIS
+
+Wrong: Seize	HES
+Right: Seize	EXS
+
+Prev: Seize	EXS
+Wrong: the	EQU
+Right: the	DEF
+
+Prev: moments	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: happiness	CON
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: ,	EQU
+Wrong: love	EXS
+Right: love	CON
+
+Prev: the	DEF
+Wrong: one	CON
+Right: one	QUC
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: home	CON
+Wrong: so	AND
+Right: so	INT
+
+Wrong: How	QUE
+Right: How	AND
+
+Prev: take	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: was	PST
+Wrong: distressed	IST
+Right: distressed	EXS
+
+Prev: distressed	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: so	AND
+Right: so	IST
+
+Prev: 'll	FUT
+Wrong: have	EXT
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: When	SUB
+Wrong: do	EXS
+Right: do	NOW
+
+Prev: too	INT
+Wrong: good	IST
+Right: good	EXS
+
+Prev: good	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: be	EXS
+Wrong: true	EXS
+Right: true	IST
+
+Prev: n't	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: works	ENS
+Wrong: as	SUB
+Right: as	AND
+
+Prev: assistant	ROL
+Wrong: to	SUB
+Right: to	REL
+
+Prev: trying	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Turkey	GEO
+Right: Turkey	GPE
+
+Prev: year	CON
+Wrong: 's	NOW
+Right: 's	HAS
+
+Prev: 's	HAS
+Wrong: World	CON
+Right: World	HAP
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: a	DIS
+Wrong: light	CON
+Right: light	IST
+
+Prev: piece	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: am	NOW
+Wrong: hearing	EXS
+Right: hearing	EXG
+
+Prev: kind	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: and	COO
+Wrong: so	IST
+Right: so	AND
+
+Prev: you	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: 've	NOW
+Wrong: looked	EXS
+Right: looked	EXT
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: deal	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: saw	EPS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: children	CON
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: after	REL
+Wrong: dark	IST
+Right: dark	CON
+
+Prev: you	PRO
+Wrong: shouting	EXS
+Right: shouting	EXG
+
+Wrong: Where	QUE
+Right: Where	CON
+
+Prev: is	NOW
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: feel	NOW
+Right: feel	ENS
+
+Prev: good	IST
+Wrong: cry	CON
+Right: cry	EXS
+
+Prev: cry	EXS
+Wrong: coming	EXS
+Right: coming	EXG
+
+Prev: what	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: College	ORG
+Right: College	CON
+
+Prev: graduates	CON
+Wrong: earn	NOW
+Right: earn	EXS
+
+Prev: on	REL
+Wrong: average	IST
+Right: average	CON
+
+Prev: average	CON
+Wrong: over	AND
+Right: over	MOR
+
+Prev: per	UOM
+Wrong: more	MOR
+Right: more	IST
+
+Prev: more	IST
+Wrong: than	MOR
+Right: than	AND
+
+Prev: Let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: the	DEF
+Wrong: Intercity-Express	DEC
+Right: Intercity-Express	CON
+
+Prev: Come	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: Romania	GEO
+Right: Romania	GPE
+
+Prev: up	IST
+Wrong: speaking	EXS
+Right: speaking	EXG
+
+Prev: speaking	EXG
+Wrong: pidgin	REF
+Right: pidgin	IST
+
+Prev: they	PRO
+Wrong: turn	EXS
+Right: turn	ENS
+
+Wrong: Being	DEF
+Right: Being	EXS
+
+Prev: Being	EXS
+Wrong: sick	IST
+Right: sick	EXS
+
+Prev: I	PRO
+Wrong: had	PST
+Right: had	NEC
+
+Prev: had	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: complaints	CON
+Wrong: so	AND
+Right: so	REL
+
+Prev: so	REL
+Wrong: far	IST
+Right: far	AND
+
+Prev: not	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: really	IST
+Wrong: looks	NOW
+Right: looks	ENS
+
+Prev: looks	ENS
+Wrong: pretty	INT
+Right: pretty	IST
+
+Prev: usually	IST
+Wrong: shows	NOW
+Right: shows	ENS
+
+Prev: enough	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: what	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: was	PST
+Wrong: busy	EXS
+Right: busy	IST
+
+Prev: someone	DIS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: talk	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: wish	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Not	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: is	NOW
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: 's	NOW
+Wrong: ready	EXS
+Right: ready	IST
+
+Prev: ready	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: kept	EPS
+Wrong: crying	EXS
+Right: crying	EXG
+
+Prev: 'm	NOW
+Wrong: paying	EXS
+Right: paying	EXG
+
+Prev: you	PRO
+Wrong: studying	EXS
+Right: studying	EXG
+
+Prev: studying	EXG
+Wrong: English	GPO
+Right: English	CON
+
+Wrong: Fall	UNK
+Right: Fall	CON
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	NEC
+
+Prev: have	NEC
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: he	PRO
+Wrong: 'd	FUT
+Right: 'd	PST
+
+Prev: go	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: I	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: seems	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: have	EXS
+Right: have	EXT
+
+Prev: from	REL
+Wrong: Washington	GEO
+Right: Washington	GPE
+
+Prev: like	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: He	PRO
+Wrong: himself	REF
+Right: himself	EMP
+
+Prev: too	INT
+Wrong: high	IST
+Right: high	EXS
+
+Prev: found	EPS
+Wrong: myself	REF
+Right: myself	EMP
+
+Prev: legs	CON
+Wrong: hanging	EXS
+Right: hanging	EXG
+
+Prev: is	NOW
+Wrong: coming	EXS
+Right: coming	EXG
+
+Prev: 'm	NOW
+Wrong: sick	EXS
+Right: sick	IST
+
+Prev: sick	IST
+Wrong: of	AND
+Right: of	REL
+
+Prev: being	EXS
+Wrong: sick	EXS
+Right: sick	IST
+
+Prev: who	AND
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: been	PFT
+Wrong: rather	INT
+Right: rather	IST
+
+Prev: rather	IST
+Wrong: feeble	IST
+Right: feeble	EXS
+
+Prev: Who	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: country	CON
+Wrong: musician	CON
+Right: musician	ROL
+
+Prev: I	PRO
+Wrong: almost	IST
+Right: almost	AND
+
+Prev: listen	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: have	EXT
+Wrong: consulted	EXS
+Right: consulted	EXT
+
+Wrong: Daddy	HES
+Right: Daddy	PER
+
+Prev: let	EXS
+Wrong: 's	HAS
+Right: 's	PRO
+
+Prev: make	EXS
+Wrong: faces	CON
+Right: faces	ENS
+
+Prev: each	REF
+Wrong: and	AND
+Right: and	COO
+
+Prev: from	REL
+Wrong: laughing	EXS
+Right: laughing	EXG
+
+Prev: as	AND
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: you	PRO
+Wrong: doing	EXS
+Right: doing	EXG
+
+Prev: doing	EXG
+Wrong: ,	NIL
+Right: ,	EQU
+
+Prev: Eight	QUC
+Wrong: plus	UOM
+Right: plus	CON
+
+Prev: is	NOW
+Wrong: ten	QUC
+Right: ten	CLO
+
+Prev: hour	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: How	QUE
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: life	CON
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: shop	CON
+Wrong: carries	NOW
+Right: carries	ENS
+
+Prev: men	CON
+Wrong: 's	NOW
+Right: 's	HAS
+
+Prev: ...	NIL
+Wrong: maybe	AND
+Right: maybe	POS
+
+Prev: You	PRO
+Wrong: look	NOW
+Right: look	ENS
+
+Prev: really	IST
+Wrong: pale	CON
+Right: pale	IST
+
+Prev: you	PRO
+Wrong: all	End_Sent
+Right: all	IST
+
+Prev: you	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: return	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: man	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: Somebody	DIS
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: 's	NOW
+Wrong: at	TOP
+Right: at	REL
+
+Prev: the	DEF
+Wrong: front	DEC
+Right: front	CON
+
+Prev: likes	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: home	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: easy	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: be	EXS
+Wrong: imagining	EXS
+Right: imagining	EXG
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: think	NOW
+Right: think	ENS
+
+Prev: do	EXS
+Wrong: that	SUB
+Right: that	DST
+
+Prev: often	IST
+Wrong: just	IST
+Right: just	AND
+
+Prev: n't	NOT
+Wrong: have	EXT
+Right: have	EXS
+
+Prev: ability	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: recognise	CLO
+Right: recognise	EXS
+
+Prev: I	PRO
+Wrong: wonder	NOW
+Right: wonder	ENS
+
+Prev: what	QUE
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: That	DST
+Wrong: has	NOW
+Right: has	NEC
+
+Prev: nothing	NOT
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: is	NOW
+Wrong: subject	CON
+Right: subject	IST
+
+Prev: He	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: went	EPS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: Paris	GEO
+Right: Paris	GPE
+
+Prev: Paris	GPE
+Wrong: ,	EQU
+Right: ,	NIL
+
+Prev: She	PRO
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: a	DIS
+Wrong: double-barrelled	PRI
+Right: double-barrelled	IST
+
+Prev: anxieties	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: life	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: learn	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: like	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: had	PST
+Wrong: better	COM
+Right: better	MOR
+
+Prev: better	MOR
+Wrong: go	CON
+Right: go	EXS
+
+Prev: go	EXS
+Wrong: and	AND
+Right: and	COO
+
+Prev: thank	EXS
+Wrong: her	HAS
+Right: her	PRO
+
+Prev: Brian	PER
+Wrong: gets	NOW
+Right: gets	ENS
+
+Prev: mother	ROL
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: How	QUE
+Wrong: much	QUV
+Right: much	QUC
+
+Prev: the	DEF
+Wrong: landlord	DEC
+Right: landlord	CON
+
+Wrong: One	QUC
+Right: One	CON
+
+Prev: keep	EXS
+Wrong: one	QUC
+Right: one	CON
+
+Prev: look	EXS
+Wrong: happy	EXS
+Right: happy	IST
+
+Prev: want	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: I	PRO
+Wrong: hear	NOW
+Right: hear	ENS
+
+Prev: need	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: speak	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: you	PRO
+Wrong: about	AND
+Right: about	REL
+
+Prev: going	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: way	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: loved	EPS
+Wrong: her	HAS
+Right: her	PRO
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: never	NOT
+Wrong: counts	CON
+Right: counts	ENS
+
+Prev: rain	CON
+Wrong: soaked	EVE
+Right: soaked	EPS
+
+Prev: soaked	EPS
+Wrong: through	REL
+Right: through	AND
+
+Prev: circus	CON
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: me	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: loves	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: It	PRO
+Wrong: â€™s	End_Sent
+Right: â€™s	NOW
+
+Prev: I	PRO
+Wrong: read	EXS
+Right: read	ENS
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: as	AND
+Wrong: one	QUC
+Right: one	UNK
+
+Prev: in	REL
+Wrong: German	GPO
+Right: German	CON
+
+Prev: We	PRO
+Wrong: had	PST
+Right: had	EPS
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: 's	NOW
+Wrong: happening	EXS
+Right: happening	EXG
+
+Prev: rest	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: all	AND
+Wrong: had	PST
+Right: had	EPS
+
+Prev: the	DEF
+Wrong: smoked	EPS
+Right: smoked	IST
+
+Prev: lot	CON
+Wrong: about	AND
+Right: about	REL
+
+Prev: studied	EPS
+Wrong: Chinese	GPO
+Right: Chinese	ART
+
+Prev: in	REL
+Wrong: Beijing	GEO
+Right: Beijing	GPE
+
+Prev: they	PRO
+Wrong: announced	EPS
+Right: announced	EXT
+
+Prev: court	CON
+Wrong: 's	NOW
+Right: 's	HAS
+
+Prev: plot	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: to	NIL
+Wrong: assassinate	CLO
+Right: assassinate	EXS
+
+Prev: want	ENS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: pair	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: me	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: wait	EXS
+Wrong: outside	AND
+Right: outside	IST
+
+Prev: It	PRO
+Wrong: looks	NOW
+Right: looks	ENS
+
+Prev: looks	ENS
+Wrong: like	EXS
+Right: like	AND
+
+Prev: 'm	NOW
+Wrong: pregnant	EXS
+Right: pregnant	IST
+
+Prev: for	REL
+Wrong: much	QUC
+Right: much	QUV
+
+Prev: I	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: better	COM
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: has	NOW
+Wrong: started	EXS
+Right: started	EXT
+
+Prev: started	EXT
+Wrong: acting	EXS
+Right: acting	EXG
+
+Prev: God	CON
+Wrong: nor	QUE
+Right: nor	NOT
+
+Prev: day	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: fell	EPS
+Wrong: asleep	EXS
+Right: asleep	IST
+
+Prev: car	CON
+Wrong: ride	CON
+Right: ride	EXS
+
+Prev: my	HAS
+Wrong: fellow	CON
+Right: fellow	IST
+
+Prev: professionals	CON
+Wrong: and	AND
+Right: and	COO
+
+Prev: have	NOW
+Wrong: done	EXS
+Right: done	EXT
+
+Prev: the	DEF
+Wrong: past	IST
+Right: past	CON
+
+Prev: Tom	PER
+Wrong: has	NOW
+Right: has	ENS
+
+Prev: 've	NOW
+Wrong: been	PFT
+Right: been	EXS
+
+Prev: wanted	EPS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: Tom	PER
+Wrong: understand	ENS
+Right: understand	EXS
+
+Prev: you	PRO
+Wrong: told	EPS
+Right: told	EXT
+
+Prev: what	QUE
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: have	EXT
+Wrong: missed	EXS
+Right: missed	EXT
+
+Prev: you	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: Iron	ORG
+Right: Iron	CON
+
+Prev: bread	CON
+Wrong: to	REL
+Right: to	NIL
+
+Prev: completely	IST
+Wrong: cool	CON
+Right: cool	EXS
+
+Prev: never	NOT
+Wrong: cheated	EXS
+Right: cheated	EXT
+
+Prev: improving	EXG
+Wrong: one	CON
+Right: one	UNK
+
+Prev: been	PFT
+Wrong: stung	EXS
+Right: stung	EXT
+
+Prev: who	AND
+Wrong: lives	CON
+Right: lives	ENS
+
+Prev: next	AND
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: is	NOW
+Wrong: quite	IST
+Right: quite	INT
+
+Prev: worthwhile	EXS
+Wrong: going	EXS
+Right: going	EXG
+
+Prev: hate	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: it	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: What	QUE
+Wrong: 's	HAS
+Right: 's	ENS
+
+Prev: him	PRO
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: short	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: like	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: blue	COL
+Wrong: striped	COO
+Right: striped	CON
+
+Prev: That	DST
+Wrong: 's	HAS
+Right: 's	NOW
+
+Prev: almost	AND
+Wrong: never	IST
+Right: never	NOT
+
+Prev: never	NOT
+Wrong: makes	NOW
+Right: makes	ENS
+
+Prev: He	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Wrong: After	REL
+Right: After	SUB
+
+Prev: had	PST
+Wrong: eaten	EXS
+Right: eaten	EXT
+
+Prev: went	EPS
+Wrong: outside	AND
+Right: outside	IST
+
+Prev: outside	IST
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: 're	NOW
+Wrong: doing	EXS
+Right: doing	EXG
+
+Prev: but	BUT
+Wrong: World	ALT
+Right: World	PRO
+
+Prev: ever	IST
+Wrong: eaten	EXS
+Right: eaten	EXT
+
+Prev: apologize	EXS
+Wrong: to	SUB
+Right: to	REL
+
+Prev: to	REL
+Wrong: Dad	PER
+Right: Dad	GEO
+
+Prev: not	NOT
+Wrong: coming	EXS
+Right: coming	EXG
+
+Prev: She	PRO
+Wrong: 's	NOW
+Right: 's	ENS
+
+Prev: good	IST
+Wrong: actress	CON
+Right: actress	ROL
+
+Prev: actress	ROL
+Wrong: and	AND
+Right: and	COO
+
+Prev: planning	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: they	PRO
+Wrong: have	NOW
+Right: have	ENS
+
+Prev: is	NOW
+Wrong: just	IST
+Right: j
