@@ -34,16 +34,12 @@ Prev: woman	CON
 Wrong: looks	NOW
 Right: looks	ENS
 
-Wrong: Murder	HES
+Wrong: Murder	French
 Right: Murder	ROL
 
 Prev: Murder	ROL
 Wrong: has	ENS
 Right: has	NOW
-
-Prev: has	NOW
-Wrong: shown	EXS
-Right: shown	EXT
 
 Prev: itself	REF
 Wrong: to	REL
@@ -204,7 +200,7 @@ Prev: used	EXS
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Carelessness	HES
+Wrong: Carelessness	French
 Right: Carelessness	NIL
 
 Prev: cause	CON
@@ -505,7 +501,7 @@ Prev: which	UNK
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Travelling	HES
+Wrong: Travelling	French
 Right: Travelling	CON
 
 Prev: Travelling	CON
@@ -626,7 +622,7 @@ Prev: anybody	DIS
 Wrong: today	CON
 Right: today	NOW
 
-Wrong: Imports	HES
+Wrong: Imports	French
 Right: Imports	CON
 
 Prev: exports	CON
@@ -869,7 +865,7 @@ Prev: ,	NIL
 Wrong: so	COO
 Right: so	SUB
 
-Wrong: Muammar	HES
+Wrong: Muammar	French
 Right: Muammar	PER
 
 Prev: un	NOT
@@ -1351,7 +1347,7 @@ Prev: 've	NOW
 Wrong: known	EXS
 Right: known	EXT
 
-Wrong: Corsairfly	HES
+Wrong: Corsairfly	French
 Right: Corsairfly	ORG
 
 Prev: Corsairfly	ORG
@@ -1528,22 +1524,6 @@ Right: always	AND
 Prev: Mary	PER
 Wrong: had	PST
 Right: had	EPS
-
-Prev: little	IST
-Wrong: lamb	DEC
-Right: lamb	CON
-
-Prev: whose	HAS
-Wrong: fleece	ORD
-Right: fleece	CON
-
-Prev: fleece	CON
-Wrong: was	EQU
-Right: was	PST
-
-Prev: was	PST
-Wrong: white	IST
-Right: white	COL
 
 Prev: must	NEC
 Wrong: be	EXS
@@ -1800,7 +1780,7 @@ Prev: tell	EXS
 Wrong: lies	ENS
 Right: lies	CON
 
-Wrong: Cherry	HES
+Wrong: Cherry	French
 Right: Cherry	CON
 
 Prev: Cherry	CON
@@ -2051,7 +2031,7 @@ Prev: be	EXS
 Wrong: over	AND
 Right: over	IST
 
-Wrong: Skating	HES
+Wrong: Skating	French
 Right: Skating	EXS
 
 Prev: Skating	EXS
@@ -2092,7 +2072,7 @@ Prev: wait	EXS
 Wrong: just	IST
 Right: just	AND
 
-Wrong: Polyglots	HES
+Wrong: Polyglots	French
 Right: Polyglots	NIL
 
 Prev: Polyglots	NIL
@@ -2127,7 +2107,7 @@ Prev: air	CON
 Wrong: feels	NOW
 Right: feels	ENS
 
-Wrong: Auto-destruct	HES
+Wrong: Auto-destruct	French
 Right: Auto-destruct	CON
 
 Prev: you	PRO
@@ -2206,6 +2186,10 @@ Right: traitor	ROL
 Prev: "	NIL
 Wrong: Christmas	TIM
 Right: Christmas	UNK
+
+Prev: 's	NOW
+Wrong: rich	EXS
+Right: rich	IST
 
 Prev: rich	IST
 Wrong: ,	NIL
@@ -2827,7 +2811,7 @@ Prev: going	EXG
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Clothes	HES
+Wrong: Clothes	French
 Right: Clothes	CON
 
 Prev: Clothes	CON
@@ -3050,8 +3034,12 @@ Wrong: recall	NOW
 Right: recall	ENS
 
 Prev: 're	NOW
-Wrong: having	EXS
+Wrong: having	EXT
 Right: having	EXG
+
+Prev: having	EXG
+Wrong: fun	EXS
+Right: fun	CON
 
 Prev: is	NOW
 Wrong: leaning	CON
@@ -3248,12 +3236,8 @@ Prev: They	PRO
 Wrong: have	NOW
 Right: have	ENS
 
-Wrong: Pocket	HES
+Wrong: Pocket	French
 Right: Pocket	DEF
-
-Prev: Pocket	DEF
-Wrong: calculators	End_Sent
-Right: calculators	CON
 
 Prev: cheap	IST
 Wrong: to	SUB
@@ -3453,7 +3437,7 @@ Prev: It	PRO
 Wrong: 's	NOW
 Right: 's	ENS
 
-Wrong: Newton's	HES
+Wrong: Newton's	French
 Right: Newton's	CON
 
 Prev: is	NOW
@@ -3632,7 +3616,7 @@ Prev: go	EXS
 Wrong: to	SUB
 Right: to	REL
 
-Wrong: Persistence	HES
+Wrong: Persistence	French
 Right: Persistence	CON
 
 Wrong: How	QUE
@@ -3674,7 +3658,7 @@ Prev: if	IMP
 Wrong: there	UNK
 Right: there	NIL
 
-Wrong: Insects	HES
+Wrong: Insects	French
 Right: Insects	CON
 
 Prev: Insects	CON
@@ -3726,7 +3710,7 @@ Prev: prove	EXS
 Wrong: that	SUB
 Right: that	DST
 
-Wrong: Delegates	HES
+Wrong: Delegates	French
 Right: Delegates	CON
 
 Prev: pleasure	CON
@@ -3824,10 +3808,6 @@ Right: 2	UNK
 
 Wrong: 3	QUC
 Right: 3	UNK
-
-Prev: 's	NOW
-Wrong: having	EXS
-Right: having	EXT
 
 Prev: I	PRO
 Wrong: read	EXS
@@ -4008,7 +3988,7 @@ Prev: as	SUB
 Wrong: rich	IST
 Right: rich	EXS
 
-Wrong: Grennan	HES
+Wrong: Grennan	French
 Right: Grennan	NIL
 
 Prev: translation	CON
@@ -4074,7 +4054,7 @@ Prev: short	IST
 Wrong: of	AND
 Right: of	REL
 
-Wrong: Friendship	HES
+Wrong: Friendship	French
 Right: Friendship	CON
 
 Prev: Friendship	CON
@@ -4354,7 +4334,7 @@ Prev: have	EXS
 Wrong: any	AND
 Right: any	DIS
 
-Wrong: Seize	HES
+Wrong: Seize	French
 Right: Seize	EXS
 
 Prev: Seize	EXS
@@ -4667,10 +4647,6 @@ Prev: is	NOW
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: 's	NOW
-Wrong: ready	EXS
-Right: ready	IST
-
 Prev: ready	IST
 Wrong: to	SUB
 Right: to	NIL
@@ -4802,7 +4778,7 @@ Prev: have	EXT
 Wrong: consulted	EXS
 Right: consulted	EXT
 
-Wrong: Daddy	HES
+Wrong: Daddy	French
 Right: Daddy	PER
 
 Prev: let	EXS
@@ -4916,10 +4892,6 @@ Right: and	COO
 Prev: easy	EXS
 Wrong: to	SUB
 Right: to	NIL
-
-Prev: be	EXS
-Wrong: imagining	EXS
-Right: imagining	EXG
 
 Prev: want	EXS
 Wrong: to	SUB
@@ -5446,4 +5418,68 @@ Right: have	ENS
 
 Prev: is	NOW
 Wrong: just	IST
-Right: j
+Right: just	AND
+
+Prev: type	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: learned	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Prev: are	NOW
+Wrong: against	AND
+Right: against	REL
+
+Prev: the	DEF
+Wrong: above	CON
+Right: above	REL
+
+Prev: compelled	EXS
+Wrong: to	SUB
+Right: to	NIL
+
+Wrong: There	UNK
+Right: There	NIL
+
+Prev: lot	CON
+Wrong: of	AND
+Right: of	NIL
+
+Prev: speak	EXS
+Wrong: French	GPO
+Right: French	CON
+
+Prev: families	CON
+Wrong: spend	NOW
+Right: spend	EXS
+
+Prev: being	EXS
+Wrong: so	IST
+Right: so	INT
+
+Prev: so	INT
+Wrong: bull-headed	DEC
+Right: bull-headed	EXS
+
+Prev: bus	CON
+Wrong: so	AND
+Right: so	SUB
+
+Prev: be	EXS
+Wrong: so	IST
+Right: so	INT
+
+Prev: part	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: piece	CON
+Wrong: of	AND
+Right: of	REL
+
+Prev: finally	IST
+Wrong: has	NOW
+Right: has	ENS
+

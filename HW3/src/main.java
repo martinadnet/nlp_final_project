@@ -5,7 +5,7 @@ public class main {
     public static void main(String[] args) {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
         try {
-            File myFile = new File("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL2_1178900.txt");  //Opens training corpus file for reading
+            File myFile = new File("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\cut_silver.txt");  //Opens training corpus file for reading
             Scanner myScanner = new Scanner(myFile);    //Create scanner to read file
             String prev = myScanner.nextLine(); //Getting first line (first word + tag of the corpus)
             String[] tempDataArr = prev.split("\\s+"); //Splits first line into word and tag
@@ -61,7 +61,7 @@ public class main {
             tagsList = createWordTagsHash(occ);
             
             ArrayList<String> parsedUntagged = new ArrayList<String>(); // 
-            parsedUntagged = untaggedLines("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988untagged.txt");
+            parsedUntagged = untaggedLines("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\untagged_part.txt");
             ArrayList<String[]> untaggedSents = new ArrayList<String[]>(); // each String[] is a sentence
             untaggedSents = createSentences(parsedUntagged);
             List<List<String[]>> sols = new ArrayList<>();
@@ -73,7 +73,7 @@ public class main {
             
             // scoring output works after adding an empty line to tagged txts
             // sols list is currently in a different order than how its supposed to be read, but its fine
-            float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\SRL3_9988tagged.txt", sols); 
+            float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\cut_part.txt", sols); 
             System.out.println(score);
             myScanner.close();          //Close the file scanner
 
@@ -396,11 +396,11 @@ public class main {
         float max = 0f;
         String currTag = "";
         //if (prev_tag.equals("NOW") && currWord.equals("there")) {
-        //   currTag = "NIL";
+           //currTag = "NIL";
         //} 
         //else 
         //if (prev_tag.equals("PRO") && currWord.equals("have")) {
-        //    currTag = "NEC";
+            //currTag = "NEC";
         //}
          //else if (prev_word.equals("Let") && currWord.equals("'s")) {
            // currTag = "PRO";
@@ -408,7 +408,13 @@ public class main {
         //else if (prev_tag.equals("PER") && currWord.equals("'s")) {
         //    currTag = "REL";    
         //}
-        //else
+        //if (prev_tag.equals("ROL") && Character.isUpperCase(currWord.charAt(0))){
+            //System.out.println(currWord);
+            //System.out.println(Character.isUpperCase(currWord.charAt(0)));
+            //System.out.println(prev_tag);
+            //currTag = "PER";
+        //}
+        //else 
         if (wordTagsHash.get(currWord) == null) {
             Set<String> possTags = transProbHash.get(prev_tag).keySet();
             for (String tag : possTags){

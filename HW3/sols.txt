@@ -77,9 +77,9 @@ REL	on
 CON	diabetes
 NIL	.
 
-HES	Murder
+French	Murder
 ENS	has
-EXS	shown
+EXT	shown
 REF	itself
 REL	to
 EXS	be
@@ -212,7 +212,7 @@ CON	health
 CON	information
 NIL	.
 
-HES	Carelessness
+French	Carelessness
 REL	by
 CON	contractors
 NOW	is
@@ -532,7 +532,7 @@ SUB	to
 EXS	support
 NIL	.
 
-HES	Travelling
+French	Travelling
 EQU	is
 IST	easy
 PRX	these
@@ -718,7 +718,7 @@ DIS	anybody
 CON	today
 NIL	.
 
-HES	Imports
+French	Imports
 EPS	exceeded
 CON	exports
 AND	last
@@ -1153,7 +1153,7 @@ PST	did
 NOT	n't
 NIL	.
 
-HES	Muammar Kaddafi
+French	Muammar Kaddafi
 EPS	escaped
 NOT	un
 EXS	harmed
@@ -1970,7 +1970,7 @@ QUC	ten
 UOM	years
 NIL	.
 
-HES	Corsairfly
+French	Corsairfly
 EQU	is
 DIS	an
 CON	airline
@@ -2302,11 +2302,11 @@ PER	Mary
 PST	had
 DIS	a
 IST	little
-DEC	lamb
+CON	lamb
 HAS	whose
-ORD	fleece
-EQU	was
-IST	white
+CON	fleece
+PST	was
+COL	white
 AND	as
 CON	snow
 NIL	.
@@ -2811,7 +2811,7 @@ EXS	tell
 ENS	lies
 QUE	?
 
-HES	Cherry trees
+French	Cherry trees
 EQU	are
 IST	now
 REL	in
@@ -3310,7 +3310,7 @@ REL	in
 PER	Santa Claus
 NIL	.
 
-HES	Skating
+French	Skating
 EQU	is
 QUC	one
 AND	of
@@ -3356,7 +3356,7 @@ DIS	a
 CON	minute
 NIL	.
 
-HES	Polyglots
+French	Polyglots
 EQU	are
 QUC	much
 PRX	sexier
@@ -3406,7 +3406,7 @@ NOW	is
 EXG	approaching
 NIL	.
 
-HES	Auto-destruct
+French	Auto-destruct
 CON	sequence
 IST	armed
 NIL	.
@@ -3578,7 +3578,7 @@ NIL	!
 NIL	"
 PRO	He
 NOW	's
-IST	rich
+EXS	rich
 NIL	,
 IST	young
 AND	and
@@ -4606,7 +4606,7 @@ HAS	my
 TOP	best
 NIL	.
 
-HES	Clothes
+French	Clothes
 NIL	make
 CON	people
 NIL	,
@@ -4971,8 +4971,8 @@ ENS	flies
 SUB	when
 PRO	you
 NOW	're
-EXS	having
-CON	fun
+EXT	having
+EXS	fun
 NIL	.
 
 DEF	The
@@ -5426,8 +5426,8 @@ DIS	a
 CON	kid
 NIL	.
 
-HES	Pocket
-End_Sent	calculators
+French	Pocket
+CON	calculators
 NOW	are
 AND	as
 IST	cheap
@@ -5786,7 +5786,7 @@ IST	old
 CON	stereotype
 NIL	.
 
-HES	Newton's Second Law
+French	Newton's Second Law
 ENS	says
 AND	:
 NIL	"
@@ -6134,7 +6134,7 @@ SUB	to
 CON	church
 NIL	.
 
-HES	Persistence
+French	Persistence
 FUT	will
 EXS	pay
 REL	off
@@ -6230,7 +6230,7 @@ NOT	no
 FUT	tomorrow
 NIL	.
 
-HES	Insects
+French	Insects
 EQU	are
 INT	very
 EXS	nutritious
@@ -6311,7 +6311,7 @@ EXS	prove
 SUB	that
 QUE	?
 
-HES	Delegates
+French	Delegates
 EPS	debated
 DEF	the
 CON	compromise
@@ -6595,7 +6595,7 @@ PER	Tom
 ENS	says
 PRO	he
 NOW	's
-EXS	having
+EXT	having
 CON	trouble
 REL	with
 HAS	his
@@ -6959,7 +6959,7 @@ AND	as
 PER	Tom
 NIL	.
 
-HES	Grennan
+French	Grennan
 EPS	found
 DEF	the
 CON	translation
@@ -7103,7 +7103,7 @@ DEF	the
 CON	room
 NIL	.
 
-HES	Friendship
+French	Friendship
 EQU	is
 DEF	the
 TOP	most
@@ -7748,7 +7748,7 @@ REL	in
 CON	art
 QUE	?
 
-HES	Seize
+French	Seize
 EQU	the
 CON	moments
 AND	of
@@ -8262,7 +8262,7 @@ NIL	.
 
 PRO	He
 NOW	's
-EXS	ready
+IST	ready
 SUB	to
 EXS	go
 NIL	.
@@ -8486,7 +8486,7 @@ HAS	your
 ROL	lawyer
 NIL	.
 
-HES	Daddy
+French	Daddy
 NIL	,
 EXS	let
 HAS	's
@@ -8698,7 +8698,7 @@ NIL	.
 PRO	We
 NEC	must
 EXS	be
-EXS	imagining
+EXG	imagining
 CON	things
 NIL	.
 
@@ -9997,168 +9997,4 @@ NOW	has
 DIS	a
 CON	hobby
 NIL	.
-
-IST	Native
-GPO	French
-CON	speakers
-IST	often
-EXS	add
-CON	spaces
-REL	before
-CON	punctuation
-REL	in
-ALT	other
-CON	languages
-AND	even
-SUB	though
-PRO	it
-NOW	is
-IST	usually
-EXS	incorrect
-NIL	.
-
-PRO	I
-POS	could
-EXS	make
-EMP	myself
-EXS	understood
-REL	in
-GPO	English
-NIL	.
-
-QUE	Where
-HAS	's
-CON	today
-NOW	's
-CON	newspaper
-QUE	?
-
-AND	Had
-PRO	he
-PFT	been
-UNK	there
-NIL	,
-FUT	would
-PRO	you
-NOW	have
-EPS	wanted
-SUB	to
-EXS	come
-QUE	?
-
-PRO	He
-ENS	puts
-DIS	a
-CON	lot
-AND	of
-EPS	thought
-REL	into
-QUE	how
-PRO	he
-ENS	thinks
-NIL	.
-
-PER	Tom
-NOW	is
-EXS	taking
-CON	care
-AND	of
-PRO	it
-REL	for
-PRO	us
-NIL	.
-
-PER	Tom
-POS	ca
-NOT	n't
-EXS	see
-PER	Mary
-REL	from
-SUB	where
-PRO	he
-NOW	is
-NIL	.
-
-NOW	Do
-QUE	what
-PRO	you
-NOW	think
-NOW	is
-TOP	best
-NIL	.
-
-PER	Tom
-NOW	looks
-PRG	disoriented
-NIL	.
-
-EXS	Did
-PRO	you
-NOW	call
-PRO	him
-ALT	yet
-QUE	?
-
-NOW	Today
-NOW	is
-EXS	going
-SUB	to
-EXS	be
-DIS	a
-IST	good
-CON	day
-NIL	!
-
-PRO	You
-NOW	're
-DEF	the
-XCL	only
-CON	person
-SUB	that
-POS	can
-EXS	persuade
-PRO	him
-NIL	.
-
-EXS	Adjust
-DEF	the
-CON	microscope
-NOW	's
-EXS	focus
-NIL	.
-
-PRO	I
-NOW	remember
-SUB	that
-NIL	.
-
-IMP	If
-DEF	the
-CON	text
-NOW	does
-NOT	n't
-EXS	make
-CON	sense
-NIL	,
-PRO	it
-NOW	is
-NOT	n't
-IST	coherent
-NIL	.
-
-QUE	Where
-HAS	's
-PER	Mary
-HAS	's
-CON	ring
-QUE	?
-
-DEF	The
-IST	modern
-NIL	,
-IST	rational
-NIL	,
-IST	logical
-AND	and
-NOT	un
 
