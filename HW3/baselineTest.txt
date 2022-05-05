@@ -53,10 +53,6 @@ Prev: in	REL
 Wrong: Russia	GEO
 Right: Russia	GPE
 
-Prev: Alfred	PER
-Wrong: 's	HAS
-Right: 's	REL
-
 Prev: was	PST
 Wrong: producing	EXS
 Right: producing	EXG
@@ -259,10 +255,6 @@ Prev: against	REL
 Wrong: former	IST
 Right: former	PRI
 
-Prev: Prime	ROL
-Wrong: Giulio	LIT
-Right: Giulio	PER
-
 Prev: of	AND
 Wrong: Mafia	GEO
 Right: Mafia	CON
@@ -454,10 +446,6 @@ Right: of	REL
 Wrong: Uh	HES
 Right: Uh	ITJ
 
-Prev: How	AND
-Wrong: 's	HAS
-Right: 's	NOW
-
 Prev: that	SUB
 Wrong: working	EXS
 Right: working	EXG
@@ -521,7 +509,7 @@ Wrong: Africa	GEO
 Right: Africa	GPE
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: piece	CON
@@ -567,10 +555,6 @@ Prev: nothing	NOT
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: poem	CON
 Wrong: by	AND
 Right: by	IST
@@ -586,12 +570,8 @@ Prev: 've	NOW
 Wrong: lost	EXS
 Right: lost	EXT
 
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: 's	PRO
-Wrong: have	EXT
+Wrong: have	NEC
 Right: have	EXS
 
 Prev: the	DEF
@@ -630,8 +610,12 @@ Wrong: last	AND
 Right: last	REL
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
+
+Prev: have	ENS
+Wrong: in	NOT
+Right: in	REL
 
 Prev: fossil	IST
 Wrong: seashell	DEC
@@ -665,6 +649,10 @@ Prev: for	REL
 Wrong: myself	REF
 Right: myself	EMP
 
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
+
 Prev: nothing	NOT
 Wrong: to	SUB
 Right: to	NIL
@@ -682,16 +670,12 @@ Wrong: to	SUB
 Right: to	NIL
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: bad	IST
 Wrong: sunburn	DEC
 Right: sunburn	CON
-
-Prev: I	PRO
-Wrong: have	NOW
-Right: have	NEC
 
 Prev: have	NEC
 Wrong: to	SUB
@@ -881,7 +865,7 @@ Wrong: and	AND
 Right: and	COO
 
 Prev: you	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	EXS
 
 Prev: was	PST
@@ -929,10 +913,6 @@ Right: It	NIL
 Prev: 's	NOW
 Wrong: cold	EXS
 Right: cold	CON
-
-Prev: You	PRO
-Wrong: have	NOW
-Right: have	NEC
 
 Prev: have	NEC
 Wrong: to	SUB
@@ -983,10 +963,6 @@ Right: to	REL
 Prev: to	REL
 Wrong: Belgium	GEO
 Right: Belgium	GPE
-
-Prev: Is	NOW
-Wrong: there	UNK
-Right: there	NIL
 
 Prev: aunt	ROL
 Wrong: is	NOW
@@ -1118,21 +1094,9 @@ Prev: the	DEF
 Wrong: US	DEC
 Right: US	ORG
 
-Prev: US	ORG
-Wrong: ?	NIL
-Right: ?	QUE
-
 Prev: is	NOW
 Wrong: Mike	PRG
 Right: Mike	PER
-
-Prev: Mike	PER
-Wrong: ?	NIL
-Right: ?	QUE
-
-Prev: are	NOW
-Wrong: there	UNK
-Right: there	NIL
 
 Prev: Who	QUE
 Wrong: is	NOW
@@ -1149,10 +1113,6 @@ Right: of	REL
 Prev: the	DEF
 Wrong: Brady	DEC
 Right: Brady	ART
-
-Prev: Brady	ART
-Wrong: ?	NIL
-Right: ?	QUE
 
 Prev: Mussolini	PER
 Wrong: of	AND
@@ -1198,16 +1158,12 @@ Prev: the	DEF
 Wrong: Lipizzaner	DEC
 Right: Lipizzaner	CON
 
-Prev: Lipizzaner	CON
-Wrong: ?	NIL
-Right: ?	QUE
-
 Prev: which	UNK
 Wrong: U.S.	ORG
 Right: U.S.	GPE
 
 Prev: have	NOW
-Wrong: there	UNK
+Wrong: there	NIL
 Right: there	IST
 
 Prev: there	IST
@@ -1222,24 +1178,12 @@ Prev: snow	CON
 Wrong: avalanches	EVE
 Right: avalanches	CON
 
-Prev: avalanches	CON
-Wrong: ?	NIL
-Right: ?	QUE
-
 Prev: did	PST
 Wrong: Jerry	NOT
 Right: Jerry	PER
 
 Wrong: There	UNK
 Right: There	NIL
-
-Prev: Mr	ROL
-Wrong: Kato	LIT
-Right: Kato	PER
-
-Prev: Kato	PER
-Wrong: was	EQU
-Right: was	PST
 
 Prev: too	INT
 Wrong: old	IST
@@ -1264,9 +1208,9 @@ Prev: improved	IST
 Wrong: living	EXS
 Right: living	CON
 
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
+Prev: 's	PRO
+Wrong: do	NOW
+Right: do	EXS
 
 Prev: you	PRO
 Wrong: like	ENS
@@ -1329,7 +1273,7 @@ Wrong: downstairs	EXS
 Right: downstairs	REL
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: She	PRO
@@ -1542,9 +1486,9 @@ Prev: used	EPS
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: Tom	PER
-Wrong: 's	HAS
-Right: 's	REL
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: n't	NOT
 Wrong: been	PFT
@@ -1614,7 +1558,7 @@ Wrong: mother-in-law	CON
 Right: mother-in-law	ROL
 
 Prev: That	DST
-Wrong: 's	HAS
+Wrong: 's	NOW
 Right: 's	ENS
 
 Prev: I	PRO
@@ -1622,7 +1566,7 @@ Wrong: guess	NOW
 Right: guess	ENS
 
 Prev: That	DST
-Wrong: 's	HAS
+Wrong: 's	NOW
 Right: 's	ENS
 
 Prev: story	CON
@@ -1788,17 +1732,9 @@ Prev: This	PRX
 Wrong: is	NOW
 Right: is	ENS
 
-Prev: Miss	ROL
-Wrong: Curtis	LIT
-Right: Curtis	PER
-
 Prev: n't	NOT
 Wrong: have	EXT
 Right: have	EXS
-
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
 
 Prev: kids	CON
 Wrong: do	NOW
@@ -1894,14 +1830,6 @@ Right: to	NIL
 Prev: name	CON
 Wrong: of	AND
 Right: of	REL
-
-Prev: How	QUE
-Wrong: 's	HAS
-Right: 's	NOW
-
-Prev: Tom	PER
-Wrong: 's	HAS
-Right: 's	REL
 
 Prev: I	PRO
 Wrong: 'm	NOW
@@ -2042,10 +1970,6 @@ Prev: just	IST
 Wrong: ajar	DEC
 Right: ajar	PRX
 
-Prev: ajar	PRX
-Wrong: ?	NIL
-Right: ?	QUE
-
 Prev: Take	EXS
 Wrong: care	CON
 Right: care	EXS
@@ -2096,7 +2020,7 @@ Wrong: Auto-destruct	PER
 Right: Auto-destruct	CON
 
 Prev: you	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	EXS
 
 Prev: 's	NOW
@@ -2108,12 +2032,16 @@ Wrong: to	SUB
 Right: to	NIL
 
 Prev: you	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	EXS
 
 Prev: anything	DIS
 Wrong: to	SUB
 Right: to	NIL
+
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: never	NOT
 Wrong: felt	EXS
@@ -2126,10 +2054,6 @@ Right: of	REL
 Prev: wanted	EPS
 Wrong: to	SUB
 Right: to	NIL
-
-Prev: Mary	PER
-Wrong: 's	HAS
-Right: 's	REL
 
 Wrong: There	UNK
 Right: There	NIL
@@ -2203,10 +2127,6 @@ Prev: went	EPS
 Wrong: to	SUB
 Right: to	REL
 
-Prev: Tom	PER
-Wrong: 's	HAS
-Right: 's	REL
-
 Prev: 's	REL
 Wrong: last	IST
 Right: last	ORD
@@ -2240,7 +2160,7 @@ Wrong: to	SUB
 Right: to	NIL
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: more	MOR
@@ -2267,10 +2187,6 @@ Prev: ever	IST
 Wrong: cut	EXS
 Right: cut	EPS
 
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: just	IST
 Wrong: talk	EXS
 Right: talk	CON
@@ -2286,10 +2202,6 @@ Right: of	REL
 Prev: almost	INT
 Wrong: always	IST
 Right: always	AND
-
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
 
 Prev: wish	ENS
 Wrong: to	SUB
@@ -2335,7 +2247,7 @@ Wrong: to	SUB
 Right: to	NIL
 
 Prev: Tom	PER
-Wrong: 's	HAS
+Wrong: 's	REL
 Right: 's	ENS
 
 Prev: ,	NIL
@@ -2374,7 +2286,7 @@ Wrong: Islam	GEO
 Right: Islam	CON
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: very	INT
@@ -2436,10 +2348,6 @@ Prev: ,	NIL
 Wrong: that	SUB
 Right: that	AND
 
-Prev: that	AND
-Wrong: 's	HAS
-Right: 's	NOW
-
 Prev: hands	CON
 Wrong: of	AND
 Right: of	REL
@@ -2483,6 +2391,10 @@ Right: have	NEC
 Prev: have	NEC
 Wrong: to	SUB
 Right: to	NIL
+
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: have	NOW
 Wrong: lost	EXS
@@ -2587,7 +2499,7 @@ Wrong: to	SUB
 Right: to	REL
 
 Prev: That	DST
-Wrong: 's	HAS
+Wrong: 's	NOW
 Right: 's	ENS
 
 Prev: 's	ENS
@@ -2634,10 +2546,6 @@ Prev: dictionary	CON
 Wrong: that	SUB
 Right: that	AND
 
-Prev: that	AND
-Wrong: 's	HAS
-Right: 's	NOW
-
 Prev: equivalent	EXS
 Wrong: to	SUB
 Right: to	NIL
@@ -2683,14 +2591,6 @@ Right: Maybe	AND
 
 Wrong: Obviously	CON
 Right: Obviously	AND
-
-Prev: speaks	ENS
-Wrong: English	GPO
-Right: English	CON
-
-Prev: speak	EXS
-Wrong: Spanish	GPO
-Right: Spanish	CON
 
 Prev: intending	EXS
 Wrong: to	SUB
@@ -2966,13 +2866,13 @@ Prev: be	EXS
 Wrong: there	IST
 Right: there	DST
 
-Prev: What	QUE
-Wrong: 's	HAS
-Right: 's	ENS
-
 Prev: 's	ENS
-Wrong: Glauke	ORD
+Wrong: Glauke	HAP
 Right: Glauke	NIL
+
+Prev: Glauke	NIL
+Wrong: 's	NOW
+Right: 's	REL
 
 Prev: I	PRO
 Wrong: think	NOW
@@ -3001,10 +2901,6 @@ Right: offer	EXS
 Prev: cup	CON
 Wrong: of	AND
 Right: of	REL
-
-Prev: Albert	PER
-Wrong: 's	HAS
-Right: 's	REL
 
 Prev: theory	CON
 Wrong: of	AND
@@ -3045,10 +2941,6 @@ Right: anyone	DIS
 Prev: designed	EXS
 Wrong: to	SUB
 Right: to	NIL
-
-Prev: That	DST
-Wrong: 's	HAS
-Right: 's	NOW
 
 Prev: known	EXS
 Wrong: to	SUB
@@ -3218,7 +3110,7 @@ Wrong: 's	HAS
 Right: 's	EXS
 
 Prev: They	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Wrong: Pocket	PER
@@ -3280,9 +3172,9 @@ Prev: root	CON
 Wrong: of	AND
 Right: of	REL
 
-Prev: Tom	PER
-Wrong: 's	HAS
-Right: 's	REL
+Prev: You	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: have	NOW
 Wrong: come	EXS
@@ -3517,10 +3409,6 @@ Prev: a	DIS
 Wrong: Lamborghini	PRI
 Right: Lamborghini	CON
 
-Prev: Lamborghini	CON
-Wrong: ?	NIL
-Right: ?	QUE
-
 Prev: It	PRO
 Wrong: 's	NOW
 Right: 's	ENS
@@ -3542,7 +3430,7 @@ Wrong: of	AND
 Right: of	REL
 
 Prev: Dad	PER
-Wrong: 's	HAS
+Wrong: 's	REL
 Right: 's	NOW
 
 Prev: I	PRO
@@ -3561,20 +3449,16 @@ Prev: applied	EXS
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: have	NOW
-Wrong: had	EXS
-Right: had	EXT
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: friend	CON
 Wrong: of	AND
 Right: of	REL
 
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: 's	PRO
-Wrong: hope	CON
+Wrong: hope	NOW
 Right: hope	EXS
 
 Prev: 's	NOW
@@ -3584,6 +3468,10 @@ Right: all	IST
 Prev: soup	CON
 Wrong: has	NOW
 Right: has	ENS
+
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
 
 Prev: 's	HAS
 Wrong: changed	EXS
@@ -3632,7 +3520,7 @@ Wrong: use	NOW
 Right: use	ENS
 
 Prev: you	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	EXS
 
 Prev: make	EXS
@@ -3721,13 +3609,9 @@ Prev: please	IST
 Wrong: call	CON
 Right: call	EXS
 
-Prev: What	QUE
-Wrong: 's	HAS
-Right: 's	ENS
-
-Prev: Is	NOW
-Wrong: there	UNK
-Right: there	NIL
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
 
 Prev: only	XCL
 Wrong: begotten	QUC
@@ -3762,7 +3646,7 @@ Wrong: any	AND
 Right: any	DIS
 
 Prev: You	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: in	REL
@@ -3893,17 +3777,9 @@ Prev: both	AND
 Wrong: like	AND
 Right: like	ENS
 
-Prev: let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: food	CON
 Wrong: gets	NOW
 Right: gets	ENS
-
-Prev: I	PRO
-Wrong: have	NOW
-Right: have	NEC
 
 Prev: have	NEC
 Wrong: to	SUB
@@ -3916,6 +3792,10 @@ Right: arrived	EXT
 Prev: took	EPS
 Wrong: her	HAS
 Right: her	PRO
+
+Prev: How	QUE
+Wrong: 's	NOW
+Right: 's	HAS
 
 Prev: The	DEF
 Wrong: policeman	CON
@@ -4043,6 +3923,10 @@ Prev: short	IST
 Wrong: of	AND
 Right: of	REL
 
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
+
 Wrong: Friendship	PER
 Right: Friendship	CON
 
@@ -4065,10 +3949,6 @@ Right: has	ENS
 Prev: a	DIS
 Wrong: cold	IST
 Right: cold	CON
-
-Prev: I	PRO
-Wrong: have	NOW
-Right: have	NEC
 
 Prev: have	NEC
 Wrong: to	SUB
@@ -4151,7 +4031,7 @@ Wrong: much	QUC
 Right: much	QUV
 
 Prev: That	DST
-Wrong: 's	HAS
+Wrong: 's	NOW
 Right: 's	ENS
 
 Prev: She	PRO
@@ -4197,10 +4077,6 @@ Prev: only	XCL
 Wrong: speak	EXS
 Right: speak	ENS
 
-Prev: speak	ENS
-Wrong: French	GPO
-Right: French	CON
-
 Prev: side	CON
 Wrong: ,	NIL
 Right: ,	EQU
@@ -4210,7 +4086,7 @@ Wrong: as	AND
 Right: as	SUB
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: I	PRO
@@ -4222,7 +4098,7 @@ Wrong: her	HAS
 Right: her	PRO
 
 Prev: that	DST
-Wrong: 's	HAS
+Wrong: 's	NOW
 Right: 's	ENS
 
 Prev: not	NOT
@@ -4279,10 +4155,6 @@ Prev: want	ENS
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: are	NOW
-Wrong: there	UNK
-Right: there	NIL
-
 Prev: am	NOW
 Wrong: calling	EXS
 Right: calling	EXG
@@ -4294,10 +4166,6 @@ Right: going	EXG
 Prev: going	EXG
 Wrong: to	SUB
 Right: to	REL
-
-Prev: What	QUE
-Wrong: 's	HAS
-Right: 's	ENS
 
 Prev: step	CON
 Wrong: to	REL
@@ -4447,16 +4315,12 @@ Prev: you	PRO
 Wrong: 'd	FUT
 Right: 'd	PST
 
-Prev: What	QUE
-Wrong: 's	HAS
-Right: 's	ENS
-
 Prev: 've	NOW
 Wrong: looked	EXS
 Right: looked	EXT
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: deal	CON
@@ -4528,10 +4392,6 @@ Right: more	IST
 Prev: more	IST
 Wrong: than	MOR
 Right: than	AND
-
-Prev: Let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
 
 Prev: the	DEF
 Wrong: Intercity-Express	DEC
@@ -4651,10 +4511,6 @@ Right: English	CON
 Wrong: Fall	UNK
 Right: Fall	CON
 
-Prev: I	PRO
-Wrong: have	NOW
-Right: have	NEC
-
 Prev: have	NEC
 Wrong: to	SUB
 Right: to	NIL
@@ -4759,10 +4615,6 @@ Prev: have	EXT
 Wrong: consulted	EXS
 Right: consulted	EXT
 
-Prev: let	EXS
-Wrong: 's	HAS
-Right: 's	PRO
-
 Prev: make	EXS
 Wrong: faces	CON
 Right: faces	ENS
@@ -4802,10 +4654,6 @@ Right: ten	CLO
 Prev: hour	CON
 Wrong: to	REL
 Right: to	NIL
-
-Prev: How	QUE
-Wrong: 's	HAS
-Right: 's	NOW
 
 Prev: life	CON
 Wrong: going	EXS
@@ -4867,6 +4715,10 @@ Prev: home	CON
 Wrong: and	AND
 Right: and	COO
 
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
+
 Prev: easy	EXS
 Wrong: to	SUB
 Right: to	NIL
@@ -4904,7 +4756,7 @@ Wrong: wonder	NOW
 Right: wonder	ENS
 
 Prev: what	QUE
-Wrong: 's	HAS
+Wrong: 's	ENS
 Right: 's	NOW
 
 Prev: That	DST
@@ -5089,7 +4941,7 @@ Wrong: had	PST
 Right: had	EPS
 
 Prev: What	QUE
-Wrong: 's	HAS
+Wrong: 's	ENS
 Right: 's	NOW
 
 Prev: 's	NOW
@@ -5169,7 +5021,7 @@ Wrong: much	QUC
 Right: much	QUV
 
 Prev: I	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: better	COM
@@ -5207,6 +5059,10 @@ Right: fellow	IST
 Prev: professionals	CON
 Wrong: and	AND
 Right: and	COO
+
+Prev: I	PRO
+Wrong: have	NEC
+Right: have	NOW
 
 Prev: have	NOW
 Wrong: done	EXS
@@ -5291,16 +5147,12 @@ Prev: hate	EXS
 Wrong: to	SUB
 Right: to	NIL
 
-Prev: What	QUE
-Wrong: 's	HAS
-Right: 's	ENS
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
 
 Prev: it	PRO
 Wrong: 's	NOW
-Right: 's	ENS
-
-Prev: What	QUE
-Wrong: 's	HAS
 Right: 's	ENS
 
 Prev: him	PRO
@@ -5319,9 +5171,9 @@ Prev: blue	COL
 Wrong: striped	COO
 Right: striped	CON
 
-Prev: That	DST
-Wrong: 's	HAS
-Right: 's	NOW
+Prev: 's	NOW
+Wrong: discouraging	EXS
+Right: discouraging	IST
 
 Prev: almost	AND
 Wrong: never	IST
@@ -5391,7 +5243,7 @@ Wrong: to	SUB
 Right: to	NIL
 
 Prev: they	PRO
-Wrong: have	NOW
+Wrong: have	NEC
 Right: have	ENS
 
 Prev: is	NOW
@@ -5425,9 +5277,9 @@ Prev: lot	CON
 Wrong: of	AND
 Right: of	NIL
 
-Prev: speak	EXS
-Wrong: French	GPO
-Right: French	CON
+Prev: Tom	PER
+Wrong: 's	REL
+Right: 's	HAS
 
 Prev: families	CON
 Wrong: spend	NOW

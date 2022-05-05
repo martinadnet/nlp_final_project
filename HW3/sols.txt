@@ -77,7 +77,7 @@ REL	on
 CON	diabetes
 NIL	.
 
-PER	Murder
+CON	Murder
 NOW	has
 EXS	shown
 REF	itself
@@ -101,7 +101,7 @@ NIL	.
 REL	By
 YOC	1861
 PER	Alfred Nobel
-HAS	's
+REL	's
 ROL	father
 PST	was
 EXS	producing
@@ -212,7 +212,7 @@ CON	health
 CON	information
 NIL	.
 
-PER	Carelessness
+CON	Carelessness
 REL	by
 CON	contractors
 NOW	is
@@ -271,11 +271,11 @@ AND	against
 IST	former
 GPO	Italian
 ROL	Prime Minister
-LIT	Giulio Andreotti
+PER	Giulio Andreotti
 NIL	,
 EXS	accused
 AND	of
-GEO	Mafia
+CON	Mafia
 CON	connections
 NIL	,
 ENS	begins
@@ -473,7 +473,7 @@ NIL	.
 HES	Uh
 NIL	...
 AND	How
-HAS	's
+NOW	's
 SUB	that
 EXS	working
 QUE	?
@@ -532,7 +532,7 @@ SUB	to
 EXS	support
 NIL	.
 
-PER	Travelling
+EXS	Travelling
 NOW	is
 EXS	easy
 PRX	these
@@ -559,7 +559,7 @@ NIL	.
 
 POS	May
 PRO	I
-NOW	have
+NEC	have
 ALT	another
 CON	piece
 AND	of
@@ -634,7 +634,7 @@ PRO	you
 NIL	.
 
 EXS	Let
-HAS	's
+PRO	's
 EXS	learn
 PRX	this
 CON	poem
@@ -659,8 +659,8 @@ CON	credit card
 NIL	.
 
 EXS	Let
-HAS	's
-EXT	have
+PRO	's
+NEC	have
 CON	sushi
 NIL	.
 
@@ -718,7 +718,7 @@ DIS	anybody
 CON	today
 NIL	.
 
-PER	Imports
+CON	Imports
 EPS	exceeded
 CON	exports
 AND	last
@@ -727,8 +727,8 @@ NIL	.
 
 QUE	What
 PRO	I
-NOW	have
-REL	in
+NEC	have
+NOT	in
 HAS	my
 CON	hand
 NOW	is
@@ -791,7 +791,7 @@ REF	myself
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 NOT	nothing
 SUB	to
 EXS	do
@@ -818,14 +818,14 @@ IST	sooner
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 DIS	a
 IST	bad
 DEC	sunburn
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 SUB	to
 EXS	go
 CON	shopping
@@ -1186,7 +1186,7 @@ NIL	.
 
 NOW	Do
 PRO	you
-NOW	have
+NEC	have
 DIS	a
 ART	Facebook
 CON	account
@@ -1272,7 +1272,7 @@ NOW	today
 NIL	.
 
 PRO	You
-NOW	have
+NEC	have
 SUB	to
 EXS	clean
 HAS	your
@@ -1384,7 +1384,7 @@ IST	there
 NIL	.
 
 NOW	Is
-UNK	there
+NIL	there
 DIS	a
 CON	zoo
 REL	in
@@ -1646,19 +1646,19 @@ DEC	tempore
 AND	of
 DEF	the
 DEC	US Senate
-NIL	?
+QUE	?
 
 QUE	How
 IST	tall
 NOW	is
 PRG	Mike Tyson
-NIL	?
+QUE	?
 
 QUE	How
 QUV	many
 CON	inhabitants
 NOW	are
-UNK	there
+NIL	there
 REL	in
 GEO	Moscow
 QUE	?
@@ -1677,7 +1677,7 @@ CON	author
 AND	of
 DEF	the
 DEC	Brady Plan
-NIL	?
+QUE	?
 
 QUE	Who
 NOW	has
@@ -1739,21 +1739,21 @@ SUB	to
 EXS	found
 DEF	the
 DEC	Lipizzaner
-NIL	?
+QUE	?
 
 REL	In
 UNK	which
 ORG	U.S.
 CON	states
 NOW	have
-UNK	there
+NIL	there
 EXS	been
 CON	fatalities
 EPS	caused
 REL	by
 CON	snow
 EVE	avalanches
-NIL	?
+QUE	?
 
 QUE	What
 NOW	is
@@ -1790,8 +1790,8 @@ CON	street
 NIL	.
 
 ROL	Mr
-LIT	Kato
-EQU	was
+PER	Kato
+PST	was
 INT	too
 IST	old
 SUB	to
@@ -1812,8 +1812,8 @@ CON	conditions
 NIL	.
 
 EXS	Let
-HAS	's
-EXS	do
+PRO	's
+NOW	do
 PRX	this
 IST	properly
 NIL	.
@@ -1908,7 +1908,7 @@ EXS	downstairs
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 IST	great
 CON	respect
 REL	for
@@ -2355,12 +2355,12 @@ NIL	.
 DST	That
 PST	was
 PER	Tom
-HAS	's
+REL	's
 CON	fault
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 NOT	n't
 PFT	been
 REL	to
@@ -2467,7 +2467,7 @@ CON	mother-in-law
 NIL	.
 
 DST	That
-HAS	's
+NOW	's
 DIS	a
 IST	good
 CON	reason
@@ -2484,7 +2484,7 @@ CON	secret
 NIL	.
 
 DST	That
-HAS	's
+NOW	's
 QUE	why
 PRO	I
 EPS	came
@@ -2811,7 +2811,7 @@ EXS	tell
 ENS	lies
 QUE	?
 
-PER	Cherry trees
+CON	Cherry trees
 NOW	are
 NOW	now
 REL	in
@@ -2823,7 +2823,7 @@ NIL	.
 PRX	This
 NOW	is
 ROL	Miss
-LIT	Curtis
+PER	Curtis
 NIL	.
 
 PRO	I
@@ -2836,7 +2836,7 @@ CON	choice
 NIL	.
 
 EXS	Let
-HAS	's
+PRO	's
 NOT	not
 EXS	argue
 CON	anymore
@@ -2997,9 +2997,9 @@ PER	Brown
 QUE	?
 
 QUE	How
-HAS	's
+NOW	's
 PER	Tom
-HAS	's
+REL	's
 CON	cold
 QUE	?
 
@@ -3310,7 +3310,7 @@ REL	in
 PER	Santa Claus
 NIL	.
 
-PER	Skating
+EXS	Skating
 NOW	is
 QUC	one
 AND	of
@@ -3336,7 +3336,7 @@ EXS	open
 DIS	or
 IST	just
 DEC	ajar
-NIL	?
+QUE	?
 
 EXS	Take
 CON	care
@@ -3413,7 +3413,7 @@ NIL	.
 
 NOW	Do
 PRO	you
-NOW	have
+NEC	have
 DIS	a
 IST	better
 CON	solution
@@ -3436,7 +3436,7 @@ NIL	.
 NIL	"
 NOW	Do
 PRO	you
-NOW	have
+NEC	have
 DIS	anything
 SUB	to
 EXS	do
@@ -3452,7 +3452,7 @@ NIL	.
 
 NIL	"
 PRO	I
-NOW	have
+NEC	have
 NOT	never
 EXS	felt
 MOR	prouder
@@ -3485,7 +3485,7 @@ NIL	.
 PER	Tom
 EPS	appreciated
 PER	Mary
-HAS	's
+REL	's
 CON	help
 NIL	.
 
@@ -3629,7 +3629,7 @@ CON	party
 NIL	.
 
 PER	Tom
-HAS	's
+REL	's
 IST	last
 CON	girlfriend
 PST	was
@@ -3672,7 +3672,7 @@ NIL	.
 
 POS	Can
 PRO	I
-NOW	have
+NEC	have
 DIS	some
 CON	water
 QUE	?
@@ -3729,7 +3729,7 @@ CON	knife
 QUE	?
 
 EXS	Let
-HAS	's
+PRO	's
 IST	just
 EXS	talk
 NIL	.
@@ -3783,7 +3783,7 @@ CON	hospital
 NIL	.
 
 EXS	Let
-HAS	's
+PRO	's
 EXS	build
 DEF	the
 CON	country
@@ -3876,7 +3876,7 @@ CON	languages
 NIL	.
 
 PER	Tom
-HAS	's
+REL	's
 DIS	a
 INT	very
 IST	practical
@@ -3968,7 +3968,7 @@ NIL	.
 
 NIL	"
 PRO	I
-NOW	have
+NEC	have
 DIS	a
 INT	very
 EXS	sweet
@@ -4084,7 +4084,7 @@ NIL	.
 ITJ	OK
 NIL	,
 SUB	that
-HAS	's
+NOW	's
 IST	enough
 NIL	.
 
@@ -4170,7 +4170,7 @@ PRO	it
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 EXS	lost
 HAS	my
 CON	pencil
@@ -4319,7 +4319,7 @@ CON	front
 NIL	.
 
 DST	That
-HAS	's
+NOW	's
 IST	quite
 ALT	another
 CON	thing
@@ -4369,7 +4369,7 @@ REL	in
 DIS	a
 CON	dictionary
 SUB	that
-HAS	's
+NOW	's
 PRX	this
 IST	small
 NIL	.
@@ -4459,14 +4459,14 @@ NIL	.
 CON	Obviously
 PRO	he
 ENS	speaks
-GPO	English
+CON	English
 NIL	,
 BUT	but
 PRO	he
 POS	can
 IST	even
 EXS	speak
-GPO	Spanish
+CON	Spanish
 NIL	.
 
 PRO	I
@@ -4606,8 +4606,8 @@ HAS	my
 TOP	best
 NIL	.
 
-PER	Clothes
-NOW	make
+CON	Clothes
+EXS	make
 CON	people
 NIL	,
 BUT	rags
@@ -4864,9 +4864,9 @@ PRO	you
 QUE	?
 
 QUE	What
-HAS	's
-ORD	Glauke
-REL	's
+ENS	's
+HAP	Glauke
+NOW	's
 CON	role
 QUE	?
 
@@ -4926,7 +4926,7 @@ ROL	Sir
 NIL	!
 
 PER	Albert Einstein
-HAS	's
+REL	's
 CON	theory
 AND	of
 GEO	relativity
@@ -5038,7 +5038,7 @@ CON	middle
 NIL	.
 
 DST	That
-HAS	's
+NOW	's
 DIS	a
 CON	lot
 NIL	!
@@ -5421,13 +5421,13 @@ CON	medication
 QUE	?
 
 PRO	They
-NOW	have
+NEC	have
 DIS	a
 CON	kid
 NIL	.
 
-PER	Pocket
-GRP	calculators
+CON	Pocket
+EVE	calculators
 EQU	are
 AND	as
 IST	cheap
@@ -5506,7 +5506,7 @@ EXS	gullible
 NIL	.
 
 PER	Tom
-HAS	's
+REL	's
 CON	meeting
 REL	with
 HAS	his
@@ -5517,7 +5517,7 @@ EXS	tense
 NIL	.
 
 PRO	You
-NOW	have
+NEC	have
 EXS	come
 INT	too
 IST	soon
@@ -5910,7 +5910,7 @@ PRI	Ferrari
 IST	or
 DIS	a
 PRI	Lamborghini
-NIL	?
+QUE	?
 
 NIL	"
 NIL	"
@@ -5963,7 +5963,7 @@ CON	tea
 NIL	.
 
 PER	Dad
-HAS	's
+REL	's
 REL	in
 DIS	an
 IST	impatient
@@ -5997,8 +5997,8 @@ EXS	evil
 NIL	.
 
 PRO	I
-NOW	have
-EXS	had
+NEC	have
+EXT	had
 DIS	a
 IST	slight
 CON	fever
@@ -6019,8 +6019,8 @@ CON	mask
 NIL	.
 
 EXS	Let
-HAS	's
-CON	hope
+PRO	's
+NOW	hope
 PRO	she
 NOW	's
 PRG	all right
@@ -6067,7 +6067,7 @@ CON	plane
 QUE	?
 
 PER	Tom
-HAS	's
+REL	's
 EXS	changed
 IST	so
 QUC	much
@@ -6134,7 +6134,7 @@ SUB	to
 CON	church
 NIL	.
 
-PER	Persistence
+CON	Persistence
 FUT	will
 EXS	pay
 REL	off
@@ -6172,7 +6172,7 @@ NIL	.
 
 NOW	Do
 PRO	you
-NOW	have
+NEC	have
 DEF	the
 IST	same
 CON	thing
@@ -6230,7 +6230,7 @@ NOT	no
 FUT	tomorrow
 NIL	.
 
-PER	Insects
+CON	Insects
 NOW	are
 INT	very
 EXS	nutritious
@@ -6311,8 +6311,8 @@ EXS	prove
 SUB	that
 QUE	?
 
-PER	Delegates
-EPS	debated
+CON	Delegates
+EXS	debated
 DEF	the
 CON	compromise
 REL	for
@@ -6369,9 +6369,9 @@ CON	evening
 QUE	?
 
 QUE	What
-HAS	's
+ENS	's
 PER	Tom
-HAS	's
+REL	's
 CON	job
 QUE	?
 
@@ -6383,7 +6383,7 @@ PRO	you
 NIL	.
 
 NOW	Is
-UNK	there
+NIL	there
 DIS	a
 CON	hospital
 REL	near
@@ -6461,7 +6461,7 @@ CON	song
 NIL	.
 
 PRO	You
-NOW	have
+NEC	have
 DIS	a
 IST	poor
 CON	memory
@@ -6786,7 +6786,7 @@ REL	for
 PER	Tom
 NIL	,
 EXS	let
-HAS	's
+PRO	's
 EXS	eat
 NOW	now
 REL	before
@@ -6808,7 +6808,7 @@ NIL	.
 
 NOW	Do
 PRO	I
-NOW	have
+NEC	have
 SUB	to
 EXS	make
 DIS	a
@@ -6842,7 +6842,7 @@ CON	drive
 NIL	.
 
 QUE	How
-HAS	's
+NOW	's
 DEF	the
 CON	dog
 QUE	?
@@ -7091,7 +7091,7 @@ UOM	pounds
 NIL	.
 
 PER	Tom
-HAS	's
+REL	's
 CON	eyes
 EPS	lit
 IST	up
@@ -7103,7 +7103,7 @@ DEF	the
 CON	room
 NIL	.
 
-PER	Friendship
+CON	Friendship
 NOW	is
 DEF	the
 TOP	most
@@ -7148,7 +7148,7 @@ CON	school
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 SUB	to
 EXS	warn
 PRO	him
@@ -7314,7 +7314,7 @@ IST	back
 NIL	.
 
 DST	That
-HAS	's
+NOW	's
 HAS	my
 CON	theory
 NIL	.
@@ -7454,7 +7454,7 @@ NIL	,
 PRO	we
 XCL	only
 EXS	speak
-GPO	French
+CON	French
 NIL	.
 
 PRO	We
@@ -7496,7 +7496,7 @@ NOW	am
 EXS	concerned
 NIL	,
 PRO	I
-NOW	have
+NEC	have
 NOT	no
 CON	objection
 REL	to
@@ -7522,7 +7522,7 @@ NOT	not
 IST	sure
 IMP	if
 DST	that
-HAS	's
+NOW	's
 DIS	a
 IST	good
 CON	idea
@@ -7670,7 +7670,7 @@ QUE	How
 QUV	many
 CON	weeks
 NOW	are
-UNK	there
+NIL	there
 REL	in
 DIS	a
 CON	month
@@ -7702,7 +7702,7 @@ IST	away
 QUE	?
 
 QUE	What
-HAS	's
+ENS	's
 DEF	the
 IST	next
 CON	step
@@ -7748,7 +7748,7 @@ REL	in
 CON	art
 QUE	?
 
-PER	Seize
+EXS	Seize
 DEF	the
 CON	moments
 AND	of
@@ -7957,7 +7957,7 @@ EXS	listen
 NIL	.
 
 QUE	What
-HAS	's
+ENS	's
 DEF	the
 IST	thirteenth
 CON	month
@@ -7983,7 +7983,7 @@ IST	everywhere
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 DIS	a
 IST	great
 CON	deal
@@ -8088,7 +8088,7 @@ CON	degree
 NIL	.
 
 EXS	Let
-HAS	's
+PRO	's
 EXS	take
 DEF	the
 DEC	Intercity-Express
@@ -8311,7 +8311,7 @@ MOY	October
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 SUB	to
 EXS	use
 DEF	the
@@ -8489,7 +8489,7 @@ NIL	.
 PER	Daddy
 NIL	,
 EXS	let
-HAS	's
+PRO	's
 EXS	make
 CON	faces
 REL	at
@@ -8589,7 +8589,7 @@ IST	there
 NIL	.
 
 QUE	How
-HAS	's
+NOW	's
 EXS	married
 CON	life
 EXS	going
@@ -8687,7 +8687,7 @@ CON	weekends
 NIL	.
 
 PER	Tom
-HAS	's
+REL	's
 CON	house
 NOW	is
 EXS	easy
@@ -8773,7 +8773,7 @@ NIL	.
 PRO	I
 NOW	wonder
 QUE	what
-HAS	's
+ENS	's
 IST	wrong
 NIL	.
 
@@ -9158,7 +9158,7 @@ CON	morning
 NIL	.
 
 QUE	What
-HAS	's
+ENS	's
 EXS	happening
 PRX	here
 QUE	?
@@ -9282,7 +9282,7 @@ PRO	us
 NIL	.
 
 PRO	I
-NOW	have
+NEC	have
 QUC	five
 CON	copies
 COO	but
@@ -9360,7 +9360,7 @@ CON	fellow
 CON	professionals
 AND	and
 PRO	I
-NOW	have
+NEC	have
 EXS	done
 AND	during
 DEF	the
@@ -9574,13 +9574,13 @@ SUB	to
 EXS	be
 REL	in
 PER	Tom
-HAS	's
+REL	's
 CON	shoes
 NIL	.
 
 NIL	"
 QUE	What
-HAS	's
+ENS	's
 DEF	the
 CON	reason
 REL	for
@@ -9612,7 +9612,7 @@ NIL	.
 
 NIL	"
 QUE	What
-HAS	's
+ENS	's
 HAS	your
 IST	favorite
 IST	commercial
@@ -9659,8 +9659,8 @@ CON	skirt
 NIL	.
 
 DST	That
-HAS	's
-IST	discouraging
+NOW	's
+EXS	discouraging
 NIL	.
 
 QUE	How
@@ -9828,7 +9828,7 @@ CON	house
 EXS	built
 REL	after
 PRO	they
-NOW	have
+NEC	have
 HAS	their
 IST	first
 CON	child
@@ -9891,7 +9891,7 @@ AND	of
 CON	people
 REL	at
 PER	Tom
-HAS	's
+REL	's
 CON	funeral
 NIL	.
 
@@ -9899,7 +9899,7 @@ PRO	You
 NOW	do
 NOT	n't
 EXS	speak
-GPO	French
+CON	French
 NIL	,
 NOW	do
 PRO	you

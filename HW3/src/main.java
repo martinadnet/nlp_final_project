@@ -1,6 +1,8 @@
 import java.io.*;
 import java.util.*;
 
+import javax.lang.model.util.ElementScanner14;
+
 public class main {
     public static void main(String[] args) {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
@@ -311,7 +313,8 @@ public class main {
                 String[] firstWord = {sentence[i], prev_tag};
                 sol.add(firstWord);
             } else {
-                String[] currWordWithTag = {currWord, mostLikelyOOV(currWord, wordTagsHash, transProbHash, prev_tag, prev_word)};
+                String[] currWordWithTag = {currWord, mostLikelyOOV(currWord, wordTagsHash, transProbHash, occProbHash, prev_tag, prev_word)};
+                System.out.println(currWordWithTag[0] + " - " + currWordWithTag[1]);
                 //String[] currWordWithTag = {currWord, "OOV"};
                 //sol.add(currWordWithTag);
                 //prev = currWordWithTag[1];
@@ -322,35 +325,11 @@ public class main {
                 if (currWordWithTag[1] != null) {
                     //System.out.println(currWordWithTag[0] + " - " + currWordWithTag[1] + "\n");
                     sol.add(currWordWithTag);
+                    System.out.println(prev_word + " - " + prev_tag);
                     prev_tag = currWordWithTag[1];
                     prev_word = currWordWithTag[0];
                 } else {
-                    List<String> possibleTags = wordTagsHash.get(sentence[i]);
-                    Hashtable<String, Float> possibleTagScores = new Hashtable<>();
-                    for (int j = 0; j < possibleTags.size(); j++) {
-                        String currPossTag = possibleTags.get(j);
-                        float transProb = 0.5f;
-                        if(prev_tag != "OOV") {
-                            if(transProbHash.get(prev_tag).get(currPossTag) == null) {
-                                transProb = 0f;
-                            } else {
-                                transProb = transProbHash.get(prev_tag).get(currPossTag);
-                            }
-                        } 
-                        float occProb = occProbHash.get(currPossTag).get(currWord);
-                        float tagProb = transProb*occProb;
-                        possibleTagScores.put(currPossTag, tagProb);
-                    }
-                    float currMax = 0;
-                    String maxTag = "";
-                    for (var tags: possibleTagScores.entrySet()) {
-                        String tag = tags.getKey();
-                        float prob = tags.getValue();
-                        if (prob >= currMax) {
-                            currMax = prob;
-                            maxTag = tag;
-                        }
-                    }
+                    String maxTag = findMaxTag(occProbHash, transProbHash, wordTagsHash, currWord, prev_tag); 
                     currWordWithTag[1] = maxTag;
                     sol.add(currWordWithTag);
                     prev_tag = maxTag;
@@ -367,34 +346,82 @@ public class main {
         return sol;
     }
 
-    public static String mostLikelyOOV(String currWord, Hashtable<String, List<String>> wordTagsHash, Hashtable<String, Hashtable<String, Float>> transProbHash, String prev_tag, String prev_word){
+    public static String findMaxTag(Hashtable<String, Hashtable<String, Float>> occProbHash, Hashtable<String, Hashtable<String, Float>> transProbHash, Hashtable<String, List<String>> wordTagsHash, String word, String prev_tag) {
+        System.out.println(word + " - find max tag");
+        //System.out.println(wordTagsHash.get(word));
+        List<String> possibleTags = wordTagsHash.get(word);
+        Hashtable<String, Float> possibleTagScores = new Hashtable<>();
+        for (int j = 0; j < possibleTags.size(); j++) {
+            String currPossTag = possibleTags.get(j);
+            float transProb = 0.5f;
+            if(prev_tag != "OOV") {
+                if(transProbHash.get(prev_tag).get(currPossTag) == null) {
+                    transProb = 0f;
+                } else {
+                    transProb = transProbHash.get(prev_tag).get(currPossTag);
+                }
+            } 
+            float occProb = occProbHash.get(currPossTag).get(word);
+            float tagProb = transProb*occProb;
+            possibleTagScores.put(currPossTag, tagProb);
+        }
+        float currMax = 0;
+        String maxTag = "";
+        for (var tags: possibleTagScores.entrySet()) {
+            String tag = tags.getKey();
+            float prob = tags.getValue();
+            if (prob >= currMax) {
+                currMax = prob;
+                maxTag = tag;
+            }
+        }
+        return maxTag;
+    }
+
+    public static String mostLikelyOOV(String currWord, Hashtable<String, List<String>> wordTagsHash, Hashtable<String, Hashtable<String, Float>> transProbHash, Hashtable<String, Hashtable<String, Float>> occProbHash, String prev_tag, String prev_word){
         float max = 0f;
         String currTag = "";
         List<String> pronouns = Arrays.asList("he", "she", "I", "they", "it", "we", "He", "She", "They", "It", "We");
-        //if (prev_tag.equals("NOW") && currWord.equals("there")) {
-           //currTag = "NIL";
-        //} 
-        //else 
-        //if (prev_tag.equals("PRO") && currWord.equals("have")) {
-            //currTag = "NEC";
-        //}
-         //else if (prev_word.equals("Let") && currWord.equals("'s")) {
-           // currTag = "PRO";
-        //} 
-        //else if (prev_tag.equals("PER") && currWord.equals("'s")) {
-        //    currTag = "REL";    
-        //} else 
-        //if (prev_tag.equals("ROL") && Character.isUpperCase(currWord.charAt(0))){
+        
+        if (prev_tag.equals("NOW") && (currWord.equals("there") || currWord.equals("There"))) {
+          currTag = "NIL";
+        } 
+        else 
+        if (prev_tag.equals("PRO") && (currWord.equals("have") || currWord.equals("Have"))) {
+            currTag = "NEC";
+        }
+        else
+        
+         if ((prev_word.equals("Let") || prev_word.equals("let")) && currWord.equals("'s")) {
+            currTag = "PRO";
+        } 
+        else
+        if (prev_tag.equals("PER") && currWord.equals("'s")) {
+            currTag = "REL";    
+        } else 
+        if (prev_tag.equals("ROL") && Character.isUpperCase(currWord.charAt(0))){
             //System.out.println(currWord);
             //System.out.println(Character.isUpperCase(currWord.charAt(0)));
             //System.out.println(prev_tag);
-            //currTag = "PER";
-        //}
-        //else 
-        //if ((prev_word.equals("speaks") || prev_word.equals("talk") || prev_word.equals("talks") || prev_word.equals("speak")) && Character.isUpperCase(currWord.charAt(0))) {
-        //    currTag = "CON";
-        //} else
-        if (wordTagsHash.get(currWord) == null) {
+            currTag = "PER";
+        }
+        else 
+        if ((prev_word.equals("speaks") || prev_word.equals("talk") || prev_word.equals("talks") || prev_word.equals("Speak") || prev_word.equals("Speaks") || prev_word.equals("Talk") || prev_word.equals("Talks") || prev_word.equals("speak")) && Character.isUpperCase(currWord.charAt(0))) {
+           currTag = "CON";
+        } else 
+        if (currWord.equals("?")) {
+            currTag = "QUE";
+        } else 
+        if ((prev_word.equals("that") || prev_word.equals("That")) && currWord.equals("'s")) {
+            currTag = "NOW";
+        } else
+        if ((prev_word.equals("what") || prev_word.equals("What")) && currWord.equals("'s")) {
+            currTag = "ENS";
+        } else
+        if ((prev_word.equals("how") || prev_word.equals("How")) && currWord.equals("'s")) {
+            currTag = "NOW";
+        } else
+        if (wordTagsHash.get(currWord) == null && wordTagsHash.get(currWord.toLowerCase()) == null) {
             Set<String> possTags = transProbHash.get(prev_tag).keySet();
             for (String tag : possTags){
                 float tagPoss = transProbHash.get(prev_tag).get(tag);
@@ -403,12 +430,19 @@ public class main {
                     max = tagPoss;
                 }
             }
+        } else 
+        if (wordTagsHash.get(currWord) == null && wordTagsHash.get(currWord.toLowerCase()) != null) {
+            String currWordLower = currWord.toLowerCase();
+            currTag = findMaxTag(occProbHash, transProbHash, wordTagsHash, currWordLower, prev_tag);
+            System.out.println(currTag);
         }
         if (currTag.equals("")) {
             return null;
-        } else if (currTag.equals("French")) {
+        } 
+        else if (currTag.equals("French")) {
             return "PER";    
-        } else {
+        } 
+        else {
              return currTag;
         }
     }// make this return a float(max) to give a probability instead of a pos when we add hard coded rules
