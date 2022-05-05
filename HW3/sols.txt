@@ -77,9 +77,9 @@ REL	on
 CON	diabetes
 NIL	.
 
-French	Murder
-ENS	has
-EXT	shown
+PER	Murder
+NOW	has
+EXS	shown
 REF	itself
 REL	to
 EXS	be
@@ -212,7 +212,7 @@ CON	health
 CON	information
 NIL	.
 
-French	Carelessness
+PER	Carelessness
 REL	by
 CON	contractors
 NOW	is
@@ -532,9 +532,9 @@ SUB	to
 EXS	support
 NIL	.
 
-French	Travelling
-EQU	is
-IST	easy
+PER	Travelling
+NOW	is
+EXS	easy
 PRX	these
 CON	days
 NIL	.
@@ -718,7 +718,7 @@ DIS	anybody
 CON	today
 NIL	.
 
-French	Imports
+PER	Imports
 EPS	exceeded
 CON	exports
 AND	last
@@ -1153,7 +1153,7 @@ PST	did
 NOT	n't
 NIL	.
 
-French	Muammar Kaddafi
+PER	Muammar Kaddafi
 EPS	escaped
 NOT	un
 EXS	harmed
@@ -1970,8 +1970,8 @@ QUC	ten
 UOM	years
 NIL	.
 
-French	Corsairfly
-EQU	is
+PER	Corsairfly
+NOW	is
 DIS	an
 CON	airline
 EXS	based
@@ -2811,9 +2811,9 @@ EXS	tell
 ENS	lies
 QUE	?
 
-French	Cherry trees
-EQU	are
-IST	now
+PER	Cherry trees
+NOW	are
+NOW	now
 REL	in
 CON	bloom
 REL	in
@@ -3310,8 +3310,8 @@ REL	in
 PER	Santa Claus
 NIL	.
 
-French	Skating
-EQU	is
+PER	Skating
+NOW	is
 QUC	one
 AND	of
 HAS	my
@@ -3356,8 +3356,8 @@ DIS	a
 CON	minute
 NIL	.
 
-French	Polyglots
-EQU	are
+PER	Polyglots
+NOW	are
 QUC	much
 PRX	sexier
 NIL	.
@@ -3406,7 +3406,7 @@ NOW	is
 EXG	approaching
 NIL	.
 
-French	Auto-destruct
+PER	Auto-destruct
 CON	sequence
 IST	armed
 NIL	.
@@ -4606,8 +4606,8 @@ HAS	my
 TOP	best
 NIL	.
 
-French	Clothes
-NIL	make
+PER	Clothes
+NOW	make
 CON	people
 NIL	,
 BUT	rags
@@ -5426,9 +5426,9 @@ DIS	a
 CON	kid
 NIL	.
 
-French	Pocket
-CON	calculators
-NOW	are
+PER	Pocket
+GRP	calculators
+EQU	are
 AND	as
 IST	cheap
 SUB	to
@@ -5786,7 +5786,7 @@ IST	old
 CON	stereotype
 NIL	.
 
-French	Newton's Second Law
+PER	Newton's Second Law
 ENS	says
 AND	:
 NIL	"
@@ -6134,7 +6134,7 @@ SUB	to
 CON	church
 NIL	.
 
-French	Persistence
+PER	Persistence
 FUT	will
 EXS	pay
 REL	off
@@ -6230,8 +6230,8 @@ NOT	no
 FUT	tomorrow
 NIL	.
 
-French	Insects
-EQU	are
+PER	Insects
+NOW	are
 INT	very
 EXS	nutritious
 AND	and
@@ -6311,7 +6311,7 @@ EXS	prove
 SUB	that
 QUE	?
 
-French	Delegates
+PER	Delegates
 EPS	debated
 DEF	the
 CON	compromise
@@ -6959,7 +6959,7 @@ AND	as
 PER	Tom
 NIL	.
 
-French	Grennan
+PER	Grennan
 EPS	found
 DEF	the
 CON	translation
@@ -7103,8 +7103,8 @@ DEF	the
 CON	room
 NIL	.
 
-French	Friendship
-EQU	is
+PER	Friendship
+NOW	is
 DEF	the
 TOP	most
 IST	precious
@@ -7748,8 +7748,8 @@ REL	in
 CON	art
 QUE	?
 
-French	Seize
-EQU	the
+PER	Seize
+DEF	the
 CON	moments
 AND	of
 CON	happiness
@@ -8486,7 +8486,7 @@ HAS	your
 ROL	lawyer
 NIL	.
 
-French	Daddy
+PER	Daddy
 NIL	,
 EXS	let
 HAS	's

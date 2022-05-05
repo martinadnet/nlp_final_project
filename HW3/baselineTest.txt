@@ -34,12 +34,12 @@ Prev: woman	CON
 Wrong: looks	NOW
 Right: looks	ENS
 
-Wrong: Murder	French
+Wrong: Murder	PER
 Right: Murder	ROL
 
-Prev: Murder	ROL
-Wrong: has	ENS
-Right: has	NOW
+Prev: has	NOW
+Wrong: shown	EXS
+Right: shown	EXT
 
 Prev: itself	REF
 Wrong: to	REL
@@ -200,7 +200,7 @@ Prev: used	EXS
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Carelessness	French
+Wrong: Carelessness	PER
 Right: Carelessness	NIL
 
 Prev: cause	CON
@@ -501,12 +501,12 @@ Prev: which	UNK
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Travelling	French
+Wrong: Travelling	PER
 Right: Travelling	CON
 
-Prev: Travelling	CON
-Wrong: is	EQU
-Right: is	NOW
+Prev: is	NOW
+Wrong: easy	EXS
+Right: easy	IST
 
 Prev: we	PRO
 Wrong: had	PST
@@ -622,7 +622,7 @@ Prev: anybody	DIS
 Wrong: today	CON
 Right: today	NOW
 
-Wrong: Imports	French
+Wrong: Imports	PER
 Right: Imports	CON
 
 Prev: exports	CON
@@ -864,9 +864,6 @@ Right: to	NIL
 Prev: ,	NIL
 Wrong: so	COO
 Right: so	SUB
-
-Wrong: Muammar	French
-Right: Muammar	PER
 
 Prev: un	NOT
 Wrong: harmed	EXS
@@ -1347,11 +1344,11 @@ Prev: 've	NOW
 Wrong: known	EXS
 Right: known	EXT
 
-Wrong: Corsairfly	French
+Wrong: Corsairfly	PER
 Right: Corsairfly	ORG
 
 Prev: Corsairfly	ORG
-Wrong: is	EQU
+Wrong: is	NOW
 Right: is	ENS
 
 Prev: in	REL
@@ -1780,16 +1777,8 @@ Prev: tell	EXS
 Wrong: lies	ENS
 Right: lies	CON
 
-Wrong: Cherry	French
+Wrong: Cherry	PER
 Right: Cherry	CON
-
-Prev: Cherry	CON
-Wrong: are	EQU
-Right: are	NOW
-
-Prev: are	NOW
-Wrong: now	IST
-Right: now	NOW
 
 Prev: in	REL
 Wrong: Washington	GEO
@@ -2031,11 +2020,11 @@ Prev: be	EXS
 Wrong: over	AND
 Right: over	IST
 
-Wrong: Skating	French
+Wrong: Skating	PER
 Right: Skating	EXS
 
 Prev: Skating	EXS
-Wrong: is	EQU
+Wrong: is	NOW
 Right: is	ENS
 
 Prev: is	ENS
@@ -2072,12 +2061,8 @@ Prev: wait	EXS
 Wrong: just	IST
 Right: just	AND
 
-Wrong: Polyglots	French
+Wrong: Polyglots	PER
 Right: Polyglots	NIL
-
-Prev: Polyglots	NIL
-Wrong: are	EQU
-Right: are	NOW
 
 Prev: are	NOW
 Wrong: much	QUC
@@ -2107,7 +2092,7 @@ Prev: air	CON
 Wrong: feels	NOW
 Right: feels	ENS
 
-Wrong: Auto-destruct	French
+Wrong: Auto-destruct	PER
 Right: Auto-destruct	CON
 
 Prev: you	PRO
@@ -2811,11 +2796,11 @@ Prev: going	EXG
 Wrong: to	SUB
 Right: to	NIL
 
-Wrong: Clothes	French
+Wrong: Clothes	PER
 Right: Clothes	CON
 
 Prev: Clothes	CON
-Wrong: make	NIL
+Wrong: make	NOW
 Right: make	ENS
 
 Prev: ,	NIL
@@ -3236,8 +3221,16 @@ Prev: They	PRO
 Wrong: have	NOW
 Right: have	ENS
 
-Wrong: Pocket	French
+Wrong: Pocket	PER
 Right: Pocket	DEF
+
+Prev: Pocket	DEF
+Wrong: calculators	GRP
+Right: calculators	CON
+
+Prev: calculators	CON
+Wrong: are	EQU
+Right: are	NOW
 
 Prev: cheap	IST
 Wrong: to	SUB
@@ -3437,7 +3430,7 @@ Prev: It	PRO
 Wrong: 's	NOW
 Right: 's	ENS
 
-Wrong: Newton's	French
+Wrong: Newton's	PER
 Right: Newton's	CON
 
 Prev: is	NOW
@@ -3616,7 +3609,7 @@ Prev: go	EXS
 Wrong: to	SUB
 Right: to	REL
 
-Wrong: Persistence	French
+Wrong: Persistence	PER
 Right: Persistence	CON
 
 Wrong: How	QUE
@@ -3658,12 +3651,8 @@ Prev: if	IMP
 Wrong: there	UNK
 Right: there	NIL
 
-Wrong: Insects	French
+Wrong: Insects	PER
 Right: Insects	CON
-
-Prev: Insects	CON
-Wrong: are	EQU
-Right: are	NOW
 
 Prev: source	CON
 Wrong: of	AND
@@ -3710,7 +3699,7 @@ Prev: prove	EXS
 Wrong: that	SUB
 Right: that	DST
 
-Wrong: Delegates	French
+Wrong: Delegates	PER
 Right: Delegates	CON
 
 Prev: pleasure	CON
@@ -3988,7 +3977,7 @@ Prev: as	SUB
 Wrong: rich	IST
 Right: rich	EXS
 
-Wrong: Grennan	French
+Wrong: Grennan	PER
 Right: Grennan	NIL
 
 Prev: translation	CON
@@ -4054,12 +4043,8 @@ Prev: short	IST
 Wrong: of	AND
 Right: of	REL
 
-Wrong: Friendship	French
+Wrong: Friendship	PER
 Right: Friendship	CON
-
-Prev: Friendship	CON
-Wrong: is	EQU
-Right: is	NOW
 
 Prev: They	PRO
 Wrong: think	NOW
@@ -4334,12 +4319,8 @@ Prev: have	EXS
 Wrong: any	AND
 Right: any	DIS
 
-Wrong: Seize	French
+Wrong: Seize	PER
 Right: Seize	EXS
-
-Prev: Seize	EXS
-Wrong: the	EQU
-Right: the	DEF
 
 Prev: moments	CON
 Wrong: of	AND
@@ -4777,9 +4758,6 @@ Right: to	REL
 Prev: have	EXT
 Wrong: consulted	EXS
 Right: consulted	EXT
-
-Wrong: Daddy	French
-Right: Daddy	PER
 
 Prev: let	EXS
 Wrong: 's	HAS
