@@ -8,11 +8,11 @@ public class main {
         ArrayList<String[]> linesArr = new ArrayList<String[]>();
         try {
             File myFile = new File("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\cut_silver.txt");  //Opens training corpus file for reading
-            Scanner myScanner = new Scanner(myFile);    //Create scanner to read file
-            String prev = myScanner.nextLine(); //Getting first line (first word + tag of the corpus)
-            String[] tempDataArr = prev.split("\\s+"); //Splits first line into word and tag
-            String[] firstEle = {tempDataArr[0], "Begin_Sent"}; //Replaces first word's tag with "Begin_Sent" (means this word is the beginning of a sentence)
-            linesArr.add(firstEle); //Adding first element to linesArr. These three lines is just because I couldnt get the custom Begin Sent for the first word in the while loop bellow, so i did it outside
+            Scanner myScanner = new Scanner(myFile);
+            String prev = myScanner.nextLine(); 
+            String[] tempDataArr = prev.split("\\s+"); 
+            String[] firstEle = {tempDataArr[0], "Begin_Sent"}; 
+            linesArr.add(firstEle);
 
             String curr = myScanner.nextLine();
             String[] secondEle = curr.split("\\s+");
@@ -32,8 +32,6 @@ public class main {
                 } 
 
                 String[] dataArr = (curr.split("\\s+", 2));
-                //System.out.println(dataArr[0]);
-                //System.out.println(dataArr[1]);
                 if(dataArr.length > 1) {
     	            String temp = dataArr[0];
     	            dataArr[0] = dataArr[1];
@@ -62,9 +60,9 @@ public class main {
             Hashtable<String, List<String>> tagsList = new Hashtable<>();
             tagsList = createWordTagsHash(occ);
             
-            ArrayList<String> parsedUntagged = new ArrayList<String>(); // 
+            ArrayList<String> parsedUntagged = new ArrayList<String>();
             parsedUntagged = untaggedLines("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\untagged_part.txt");
-            ArrayList<String[]> untaggedSents = new ArrayList<String[]>(); // each String[] is a sentence
+            ArrayList<String[]> untaggedSents = new ArrayList<String[]>();
             untaggedSents = createSentences(parsedUntagged);
             List<List<String[]>> sols = new ArrayList<>();
 
@@ -72,12 +70,7 @@ public class main {
                 sols.add(assignTagsToSentence(untaggedSents.get(i), occProb, transProb, tagsList));
             }
             writeTaggedToFile("C:\\nlp_final_project\\HW3\\sols.txt", sols);
-
-            //findWeirdTags(transProb);
-            findWeirdOccs(prob);
             
-            // scoring output works after adding an empty line to tagged txts
-            // sols list is currently in a different order than how its supposed to be read, but its fine
             float score = compareFiles("C:\\nlp_final_project\\HW3\\WSJ_POS_CORPUS_FOR_STUDENTS\\cut_part.txt", sols); 
             System.out.println(score);
             myScanner.close();          //Close the file scanner
@@ -96,7 +89,6 @@ public class main {
             if (mainTag.length() > 3 || mainTag.length() < 3) {
                 System.out.println(mainTag + ":\n" + occHash.get(mainTag));
             }
-            //for (var words: mainTags.getValue().entrySet()) {
         }
     }
 
@@ -108,7 +100,6 @@ public class main {
                 if (word.equals("French"))  
                     System.out.println(mainTag + ":\n" + occHash.get(mainTag));
             }
-            //for (var words: mainTags.getValue().entrySet()) {
         }
     }
 
@@ -130,7 +121,7 @@ public class main {
             }
             untaggedLines.add("END_SENT");
             myScanner.close();
-        } catch (FileNotFoundException e) { //File reading exception
+        } catch (FileNotFoundException e) { 
             System.out.println("File not found.");
             e.printStackTrace();
         }
@@ -139,39 +130,26 @@ public class main {
 
     //Creating an occurence matrix out of the array of words and their tags
     //The matrix will look like this: {tag1: {word1: # of times it has tag1, word2: # of times it has tag1}}, tag2: {...}, ...}
-    public static Hashtable<String, Hashtable<String, Integer>> createOccHash(ArrayList<String[]> lines) { //Pass in linesArr, created in main, as the parameter
-        Hashtable<String, Hashtable<String, Integer>> pos = new Hashtable<>();  //Hashtable of a hashtable, think of it as dict of dict
-       
-        //lines[i][0] = word at i
-        //lines[i][1] = tag at i
+    public static Hashtable<String, Hashtable<String, Integer>> createOccHash(ArrayList<String[]> lines) {
+        Hashtable<String, Hashtable<String, Integer>> pos = new Hashtable<>();  
         for(int i = 0; i < lines.size()-1; i++) {
-            //System.out.println(lines.get(i)[0] + " - " + lines.get(i)[1]);
-            //System.out.println("yo");
             if (pos.get(lines.get(i)[1]) == null) { //If key for current tag doesnt exist yet 
                 Hashtable<String, Integer> nestedHash = new Hashtable<>();  //Create a hashtable for this word
                 nestedHash.put(lines.get(i)[0], 1); //Add the word as the key, with value 1 (first occurence of the word with that tag)
                 pos.put(lines.get(i)[1], nestedHash);   //Add the tag as the key, and hashtable above (word: 1) as value, into the occurence matrix
-                //So lets say the occurence matrix doesnt have "verb" as a key yet, and you encounter "run". Then you make a hashtable of {run: 1}, since 
-                //we found an instance of run. You create a new hashtable with the tag as the key {verb: ___}, and the previous hashtable as the value. Now
-                //we have {verb: {run: 1}}, successfully initializing the tag's hashtable
             } else if (pos.get(lines.get(i)[1]) != null && pos.get(lines.get(i)[1]).get(lines.get(i)[0]) == null) { //Tag exists as a key, but word does not exist under that tag yet
-                (pos.get(lines.get(i)[1])).put(lines.get(i)[0],1);  //Add {word: 1} to that word's tag tashtable
-                //So we find the verb run, and verb is {verb: {walk: 2, speak: 3}}. Then the above adds {run: 1} to it, making it {verb: {walk: 2, speak: 3, run: 1}}
-            } else { //Tag exists as a key, and word exists as a key within that tag's nested hashtable
-                String tag = lines.get(i)[1];   //Just making it simpler so the int oldval line isnt the length of my monitor
+                (pos.get(lines.get(i)[1])).put(lines.get(i)[0],1);  
+            } else { 
+                String tag = lines.get(i)[1];  
                 String word = lines.get(i)[0];
-                int oldVal = pos.get(tag).get(word); //Find the current value of the word under its current tag
-                pos.get(tag).replace(word, oldVal, oldVal+1); //Replace that value with value + 1, incrementing it
+                int oldVal = pos.get(tag).get(word);
+                pos.get(tag).replace(word, oldVal, oldVal+1); 
             }
         }
-        //System.out.println(pos.get("DT").toString());
         return pos; //Return occurence matrix
     }
 
     //Create a probability matrix, for "transition probability"
-    //Same as occurence matrix, except both keys and values are tags
-    //We're trying to find what are the odds that a tag is followed by another tag
-    //So matrix looks like: {tag1: {tag2: # of times tag2 follows tag1, tag3: # of times tag3 follows tag1, ...}, tag2: {...}}
     public static Hashtable<String, Hashtable<String, Integer>> createTransHash(ArrayList<String[]> lines) {
         Hashtable<String, Hashtable<String, Integer>> states = new Hashtable<>();
         for(int i = 0; i < lines.size()-2; i++) {
@@ -183,13 +161,12 @@ public class main {
                 states.put(tag, nestedHash);    //Put {curr word's tag: {next word's tag: 1}} into the transition matrix
             } else if (states.get(tag) != null && states.get(tag).get(nextTag) == null) {   //Curr word tag exists as a key, but next word tag does not exist as an element of that key
                 states.get(tag).put(nextTag, 1);    //Insert {next word tag: 1} into {curr word tag: {...}}
-            } else {    //Curr word tag exists as key, next word tag exists as value of that key
-                int oldVal = states.get(tag).get(nextTag);  //Get current value for next word tag
-                states.get(tag).replace(nextTag, oldVal, oldVal+1); //Replace it with value +1
+            } else {  
+                int oldVal = states.get(tag).get(nextTag);  
+                states.get(tag).replace(nextTag, oldVal, oldVal+1); 
             }
         }
         return states;
-        //System.out.println(states.toString());
     }
 
     //Create sentences out of linesArr from an UNTAGGED corpus, basically just group words into sentences in a nested array
@@ -207,17 +184,10 @@ public class main {
                 sentence += "~" + lines.get(i);  //Add "-" for the end sentence split, and add the word to sentence
             }
         }
-        for(int i = 0; i < sentences.get(0).length; i++) {
-            System.out.print(sentences.get(0)[i] + " "); //test
-        }
-        //System.out.println(sentences.get(0)[0]);
-        return sentences; //return the nested array of sentences
+        return sentences;
     }
 
     //Creates a probability hashtable out of the occurence hashtable
-    //So instead of {verb: {run: 3}, noun: {run: 6}}
-    //We not have {verb: {run: .33}, noun: {run: .66}}
-    //This is useful for calculating word scores later on
     public static Hashtable<String, Hashtable<String, Float>> createOccProbHash(Hashtable<String, Hashtable<String, Integer>> occHash) { 
         Hashtable<String, Hashtable<String, Float>> occProb = new Hashtable<>();
         Hashtable<String, Integer> totals = new Hashtable<>();
@@ -235,13 +205,6 @@ public class main {
                 }
             }
         }
-
-        /*  print totals
-        for (var tags: totals.entrySet()) {
-            String tag = tags.getKey();
-            int val = tags.getValue();
-            System.out.println(tag + " - " + val);
-        } */
 
         for (var mainTags: occHash.entrySet()) {
             String mainTag = mainTags.getKey();
@@ -264,19 +227,6 @@ public class main {
             }
         }
         return occProb;
-
-        /*print prob matrix
-            for (var tagEntry : occProb.entrySet()) {
-                String tag = tagEntry.getKey();
-                // ...
-                System.out.println(tag + " ------ ");
-                for (var occTagEntry : tagEntry.getValue().entrySet()) {
-                    String occTag = occTagEntry.getKey();
-                    float eg = occTagEntry.getValue();
-                    System.out.println(occTag + " - " + eg);
-                    // ...
-                }
-            }*/
     }
     
     public static Hashtable<String, List<String>> createWordTagsHash(Hashtable<String, Hashtable<String, Integer>> occHash) {
@@ -300,11 +250,6 @@ public class main {
 
     public static List<String[]> assignTagsToSentence(String[] sentence, Hashtable<String, Hashtable<String, Float>> occProbHash, Hashtable<String, Hashtable<String, Float>> transProbHash, Hashtable<String, List<String>> wordTagsHash) {
         List<String[]> sol = new ArrayList<>();
-        /*
-        for (int i = 0; i < sentence.length; i++) {
-            System.out.print(sentence[i] + " ");
-        }
-        System.out.println();*/
         String prev_tag = "Begin_Sent";
         String prev_word = "BEGIN_SENT";
         for (int i = 0; i < sentence.length; i++) {
@@ -314,18 +259,8 @@ public class main {
                 sol.add(firstWord);
             } else {
                 String[] currWordWithTag = {currWord, mostLikelyOOV(currWord, wordTagsHash, transProbHash, occProbHash, prev_tag, prev_word)};
-                System.out.println(currWordWithTag[0] + " - " + currWordWithTag[1]);
-                //String[] currWordWithTag = {currWord, "OOV"};
-                //sol.add(currWordWithTag);
-                //prev = currWordWithTag[1];
-                //prev = "OOV";
-                //if (currWordWithTag[1] == "french") {
-                //    currWordWithTag
-               // }
                 if (currWordWithTag[1] != null) {
-                    //System.out.println(currWordWithTag[0] + " - " + currWordWithTag[1] + "\n");
                     sol.add(currWordWithTag);
-                    System.out.println(prev_word + " - " + prev_tag);
                     prev_tag = currWordWithTag[1];
                     prev_word = currWordWithTag[0];
                 } else {
@@ -338,17 +273,10 @@ public class main {
             }
         }
         sol.remove(0);
-        /*
-        for (int i = 0; i < sol.size(); i++) {
-            System.out.print(sol.get(i)[0] + " ");
-        }
-        System.out.println();*/
         return sol;
     }
 
     public static String findMaxTag(Hashtable<String, Hashtable<String, Float>> occProbHash, Hashtable<String, Hashtable<String, Float>> transProbHash, Hashtable<String, List<String>> wordTagsHash, String word, String prev_tag) {
-        System.out.println(word + " - find max tag");
-        //System.out.println(wordTagsHash.get(word));
         List<String> possibleTags = wordTagsHash.get(word);
         Hashtable<String, Float> possibleTagScores = new Hashtable<>();
         for (int j = 0; j < possibleTags.size(); j++) {
@@ -400,9 +328,6 @@ public class main {
             currTag = "REL";    
         } else 
         if (prev_tag.equals("ROL") && Character.isUpperCase(currWord.charAt(0))){
-            //System.out.println(currWord);
-            //System.out.println(Character.isUpperCase(currWord.charAt(0)));
-            //System.out.println(prev_tag);
             currTag = "PER";
         }
         else 
@@ -434,7 +359,6 @@ public class main {
         if (wordTagsHash.get(currWord) == null && wordTagsHash.get(currWord.toLowerCase()) != null) {
             String currWordLower = currWord.toLowerCase();
             currTag = findMaxTag(occProbHash, transProbHash, wordTagsHash, currWordLower, prev_tag);
-            System.out.println(currTag);
         }
         if (currTag.equals("")) {
             return null;
@@ -445,12 +369,11 @@ public class main {
         else {
              return currTag;
         }
-    }// make this return a float(max) to give a probability instead of a pos when we add hard coded rules
+    }
 
     public static void writeTaggedToFile(String filePath, List<List<String[]>> taggedSentences) {
         File newFile = new File(filePath);
         try {
-            System.out.println(taggedSentences.size());
             FileWriter myWriter = new FileWriter(newFile, false);
             for (int i = 0; i < taggedSentences.size(); i++) {
                 List<String[]> currSentence = taggedSentences.get(i);
@@ -481,7 +404,6 @@ public class main {
                     String[] currWord =solution.get(i).get(j);
                     testLine = taggedScanner.nextLine();
                     String[] testSplit = testLine.split("\\s+");
-                    //System.out.println("word: " + currWord[0] + " - " + currWord[1] + "=== " + "test: " + testSplit[0] + " - " + testSplit[1]);
                     if (currWord[0].equals(testSplit[1]) && currWord[1].equals(testSplit[0])) {
                         counter++;
                     }
@@ -491,7 +413,8 @@ public class main {
             }
             
             score = (float)counter/(float)numOfWords;
-            System.out.println(numOfWords + " " + counter + " " + score);
+            System.out.println("Number of words: " + numOfWords + " - Number correctly tagged: " + counter + " - Percent accuracy: " + score*100 + "%"); 
+    
             taggedScanner.close();
         } catch (FileNotFoundException e) {
             System.out.println("File not found");
